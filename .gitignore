@@ -60,4 +60,6 @@ supabase.exe
 *.pdf
 *.pptx
 *.xlsx
-
+*.md
+*.csv
+*.sh
