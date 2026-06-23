@@ -1,0 +1,93 @@
+
+--- Table #0 ---
+Dekan Sekolah Vokasi       Prof. Dr. Eng. Ir. Herman Saputro, S.Pd., M.Pd., M.T. NIP. 198208112006041001 | Ketua Program Studi D3 Teknik Informatika      Eko Harry Pratisto, S.T., M.Info.Tech., Ph.D. NIK. 1981112420130201
+
+--- Table #1 ---
+ | Surakarta, ........   <NAMA MAHASISWA> <NIM MAHASISWA>
+ | 
+
+--- Table #2 ---
+Nama | : <NAMA MAHASISWA>
+NIM | : <NIM MAHASISWA>
+Program Studi | : Diploma 3 Teknik Informatika
+
+--- Table #3 ---
+ | 
+ | Surakarta, ........    <NAMA MAHASISWA> <NIM MAHASISWA>
+ | 
+
+--- Table #4 ---
+Membahas latar belakang permasalahan yang diambil. Secara eksplisit juga menyebutkan permasalahan berupa kalimat tanya yang mengemukakan pertanyaan yang mengarahkan dalam proses pembuatan produk Tugas Akhir.
+
+--- Table #5 ---
+Menyebutkan hasil/tujuan yang ingin dicapai.
+
+--- Table #6 ---
+menjelaskan manfaat yang bisa diberikan untuk menyelesaikan permasalahan pada Latar Belakang.
+
+--- Table #7 ---
+menjelaskan metode pengembangan perangkat lunak yang digunakan.
+
+--- Table #8 ---
+Berisi daftar singkatan dan istilah-istilah penting yang terdapat dalam dokumen TA ini. Dituliskan dalam bentuk Tabel dengan nama kolom diantarnya nomor, istilah/singkatan, dan keterangan
+
+--- Table #9 ---
+Menjelaskan produk/software yang sudah ada yang mempunyai spesifikasi yang mirip/hampir sama dengan produk yang akan dibuat. Tinjauan produk pada prinsipnya untuk menunjukkan perbedaan/keunikan produk yang akan dibuat dibandingkan dengan produk yang sudah ada. Tinjauan harus menyertakan sumber yang jelas dan sesuai dengan kaidah ilmiah.
+
+--- Table #10 ---
+Dijelaskan mengenai gambaran umum produk yang dihasilkan. Selain itu, diberikan gambaran bagaimana Produk tersebut diharapkan dapat menyelesaikan permasalahan yang ada.
+
+--- Table #11 ---
+Dijelaskan mengenai manfaat yang diperoleh dari produk yang akan dibuat bagi penggunanya. Selain itu, menjelaskan tentang spesifikasi produk. Dalam hal ini, spesifikasi produk dapat digambarkan sebagai : Fungsionalitas jika temanya SI (FR dan NFR), Desain sistem untuk Multimedia, Game play untuk Game, atau Spesifikasi alat/protokol untuk Hardware/Jaringan.
+
+--- Table #12 ---
+Berisi penjelasan mengenai karakteristik umum dari user yang akan menggunakan produk.
+
+--- Table #13 ---
+menjelaskan tentang lingkungan operasi dari perangkat lunak
+
+--- Table #14 ---
+menyebutkan batasan-batasan (constrains) dalam pengembangan perangkat lunak, termasuk kebutuhan non-fungsional.
+
+--- Table #15 ---
+menjelaskan bentuk dokumentasi dari perangkat lunak bagi user-nya  cont : Manual Produk, Help, dll.  Dokumen Manual produk tidak perlu dituliskan didalam naskah, akan tetapi bisa disertakan dalam lampiran.
+
+--- Table #16 ---
+Menjelaskan metode pengujian yang digunakan.
+
+--- Table #17 ---
+Berisi penjelasan tentang lingkungan (tools dan environment) yang digunakan dalam pengujian. Lingkungan pengujian meliputi perangkat keras dan software yang digunakan, material pengujian (modul/object yang diuji), dan pelaku pengujian.
+
+--- Table #18 ---
+Bagian ini berisi Tabel yang memuat identifikasi dan rencana pengujian.
+
+--- Table #19 ---
+ID | Object | Butir Uji | Teknik Pengujian | Jadwal
+ | Input Data Mahasiswa | Penambahan data induk mahasiswa dengan data yang baru | Blackbox | 
+
+--- Table #20 ---
+Berisi Tabel Hasil Uji
+
+--- Table #21 ---
+ID | [ID pengujian]
+Nama Butir Uji | Penambahan data induk mahasiswa dengan data yang baru
+Deskripsi | Memeriksa apakah data baru yang ditambahkan terrekam ke tabel induk mahasiswa
+Kondisi Awal | Tabel induk mahasiswa sudah ada Pemakai (administrator) sudah memilih (membuka) halaman web untuk penambahan data induk mahasiswa
+Tanggal Pengujian | 
+Penguji | 
+Skenario | Skenario
+Ketikkan data yang akan direkam (ditambahkan) NIM=M113840178, Nama=Abdul Murudul, Jenis kelamin=L, Tempat lahir=Bandung, Tanggal lahir=17/08/65, Alamat=Jl. Dago 1000, Kota=Bandung, Kode pos=40123, No. telepon=2500052 Klik tombol Simpan jika data sudah selesai diketik secara lengkap dan benar | Ketikkan data yang akan direkam (ditambahkan) NIM=M113840178, Nama=Abdul Murudul, Jenis kelamin=L, Tempat lahir=Bandung, Tanggal lahir=17/08/65, Alamat=Jl. Dago 1000, Kota=Bandung, Kode pos=40123, No. telepon=2500052 Klik tombol Simpan jika data sudah selesai diketik secara lengkap dan benar
+Hasil | Hasil
+Yang diharapkan | Hasil Pengamatan
+Data mahasiswa terrekam ke tabel mahasiswa | Field lain tidak dapat diisi jika NIM belum diisi Tombol Simpan dapat di-klik jika field nama, jenis kelamin, tempat, tanggal lahir, alamat, dan kota sudah terisi Pada database grid, data baru ditempatkan di record terakhir
+Kesimpulan | Kesimpulan
+ | 
+
+--- Table #22 ---
+Menjelaskan Kesimpulan Penulisan / Penelitian
+
+--- Table #23 ---
+Menjelaskan Saran Penulisan / Penelitian
+
+--- Table #24 ---
+Daftar pustaka ditulis menggunakan style Harvard. Pembuatan Daftar pustaka harus menggunakan Reference Manager, misalnya Mendeley atau Zotero, dan tidak boleh manual. Minimal Terdapat 15 Daftar Pustaka

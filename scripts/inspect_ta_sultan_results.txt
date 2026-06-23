@@ -1,0 +1,150 @@
+=== File: Naskah TA Sulthan Syahrul BAB I-IV.docx ===
+Paragraphs: 299
+Tables: 14
+
+=== Headings / Outline ===
+[P#76 Style=Normal]: 'KATA PENGANTAR'
+[P#83 Style=Normal]: 'DAFTAR ISI'
+[P#86 Style=Normal]: 'DAFTAR TABEL'
+[P#89 Style=Normal]: 'DAFTAR GAMBAR'
+[P#91 Style=Normal]: 'INTISARI'
+[P#97 Style=Normal]: 'ABSTRACT'
+[P#103 Style=Normal]: 'BAB I
+PENDAHULUAN'
+[P#130 Style=Normal]: 'BAB II
+DESKRIPSI PRODUK'
+[P#161 Style=Normal]: 'BAB III
+PERANCANGAN PRODUK'
+[P#210 Style=Normal]: 'BAB IV
+IMPLEMENTASI'
+[P#257 Style=Normal]: 'BAB V
+PENGUJIAN'
+[P#269 Style=Normal]: '5.4 Hasil Uji dan Kesimpulan Pengujian'
+[P#274 Style=Normal]: 'BAB VI
+KESIMPULAN DAN SARAN'
+[P#275 Style=Normal]: '6.1 Kesimpulan'
+[P#282 Style=Normal]: '6.2 Saran'
+[P#283 Style=Normal]: 'Untuk pengembangan aplikasi SIMONAS selanjutnya, disarankan beberapa hal sebagai berikut:'
+
+=== BAB V & VI Content and surrounding paragraphs ===
+
+--- Found BAB V at Paragraph 257 ---
+[255]: final jadwalServiceProvider = Provider<JadwalService>(
+  (ref) => ref.read(kepalaSekolahSupabaseServiceProvider).jadwalService,
+);
+final jurnalServiceProvider = Provider<JurnalService>(
+  (ref) => ref.read(kepalaSekolahSupabaseServiceProvider).jurnalService,
+);
+final authServiceProvider = Provider<AuthService>(
+  (ref) => AuthService(
+    userService: ref.read(userServiceProvider),
+    roleService: ref.read(userRoleServiceProvider),
+    siswaService: ref.read(siswaServiceProvider),
+    guruService: ref.read(guruServiceProvider),
+  ),
+);
+[256]: 
+[257]: BAB V
+PENGUJIAN
+[258]: 5.1 Metode Pengujian
+[259]: Pengujian yang disiapkan untuk aplikasi SIMONAS adalah black-box testing. Metode ini berfokus pada pemeriksaan masukan dan keluaran fungsi tanpa melihat struktur internal kode. Pengujian black-box relevan untuk sistem informasi akademik karena setiap fitur dapat divalidasi berdasarkan skenario pengguna, seperti login, pemilihan role, input jurnal, input absensi, dan monitoring data. Referensi Muslimin dkk. (2020) serta Wulandari dkk. (2022) menunjukkan bahwa black-box testing dengan equivalence partitioning dapat digunakan untuk memeriksa validasi fungsi sistem informasi akademik.
+[260]: Selain black-box testing, pengujian tambahan yang disarankan adalah widget test untuk memastikan tampilan awal aplikasi muncul dengan benar, serta User Acceptance Testing (UAT) bersama pengguna sekolah. Pada naskah Tugas Akhir ini, tabel hasil pengujian disajikan untuk menunjukkan status keberhasilan setiap fitur yang diuji secara menyeluruh.
+[261]: 5.2 Lingkungan Pengujian
+[262]: Spesifikasi perangkat keras dan perangkat lunak yang digunakan selama pelaksanaan pengujian sistem dirangkum dalam Tabel 5.1.
+[263]: Tabel 5.1. Lingkungan pengujian
+[264]: 
+[265]: 5.3 Prosedur Pengujian
+[266]: Rencana skenario pengujian fungsional sistem menggunakan metode black-box disusun secara sistematis pada Tabel 5.2.
+[267]: Tabel 5.2. Rencana pengujian black-box
+[268]: 
+[269]: 5.4 Hasil Uji dan Kesimpulan Pengujian
+[270]: Hasil pengujian fungsional beserta status kelayakannya tercantum pada Tabel 5.3.
+[271]: Tabel 5.3. Hasil uji fungsional
+[272]: 
+[273]: Kesimpulan pengujian: berdasarkan hasil pengujian black-box, seluruh skenario pengujian (TC-01 hingga TC-10) menunjukkan hasil yang sesuai dengan yang diharapkan (100% Berhasil). Hal ini membuktikan bahwa fungsionalitas utama aplikasi SIMONAS telah berjalan dengan baik di lingkungan uji coba.
+[274]: BAB VI
+KESIMPULAN DAN SARAN
+[275]: 6.1 Kesimpulan
+[276]: Berdasarkan hasil analisis, perancangan, implementasi, dan pengujian yang telah dilakukan pada aplikasi SIMONAS, dapat ditarik kesimpulan sebagai berikut:
+[277]: 1. Aplikasi SIMONAS telah berhasil dikembangkan menggunakan framework Flutter untuk frontend mobile dan Supabase sebagai backend-as-a-service. Integrasi ini terbukti efektif dalam mempermudah proses digitalisasi data akademik sekolah.
+[278]: 2. Sistem multi-role yang dirancang telah berfungsi dengan baik, memberikan akses antarmuka dan hak operasi data yang berbeda untuk Kepala Sekolah, Guru, BK, dan Siswa sesuai dengan tanggung jawab masing-masing.
+[279]: 3. Aplikasi SIMONAS berhasil menyelesaikan masalah pencatatan akademik di SMP Negeri 1 Jenar dengan mengintegrasikan alur pengisian jurnal mengajar, presensi siswa, pengelolaan nilai/tugas, serta pengunggahan berkas administrasi pembelajaran guru dalam satu sistem terpadu.
+[280]: 4. Fitur monitoring kelas, monitoring jurnal, dan verifikasi administrasi bagi Kepala Sekolah dapat mempermudah pengawasan proses kegiatan belajar mengajar secara real-time.
+[281]: 5. Pengujian black-box membuktikan seluruh fungsi utama aplikasi berjalan sukses 100% dan siap diimplementasikan untuk mendukung operasional sekolah.
+[282]: 6.2 Saran
+[283]: Untuk pengembangan aplikasi SIMONAS selanjutnya, disarankan beberapa hal sebagai berikut:
+[284]: 1. Melakukan uji coba lapangan dalam skala kecil (pilot testing) pada satu atau dua kelas terlebih dahulu sebelum diimplementasikan secara menyeluruh di sekolah guna membiasakan pengguna.
+[285]: 2. Menambahkan fitur push notification di perangkat mobile untuk memberikan pengingat otomatis ketika terdapat tugas baru bagi siswa atau dokumen baru yang perlu diverifikasi kepala sekolah.
+[286]: 3. Menyediakan fitur rekapitulasi data absensi dan jurnal mengajar dalam format PDF atau Excel yang dapat diunduh langsung untuk kebutuhan pelaporan bulanan.
+[287]: 4. Mengembangkan modul khusus untuk Orang Tua/Wali agar dapat memantau presensi dan perkembangan nilai akademik siswa secara langsung.
+[288]: 5. Meningkatkan integrasi dengan sistem eksternal yang sudah berjalan di sekolah, seperti sinkronisasi otomatis dengan e-Rapor.
+[289]: DAFTAR PUSTAKA
+[290]: 
+[291]: LAMPIRAN
+[292]: Lampiran E. ERD Modul Pengelolaan Kelas dan Histori Wali Kelas.
+[293]: 
+[294]: 
+[295]: Lampiran E.1. ERD Modul Pengelolaan Kelas
+[296]: 
+[297]: 
+[298]: Lampiran E.2. ERD Modul Histori Wali Kelas
+
+--- Found BAB V at Paragraph 274 ---
+[272]: 
+[273]: Kesimpulan pengujian: berdasarkan hasil pengujian black-box, seluruh skenario pengujian (TC-01 hingga TC-10) menunjukkan hasil yang sesuai dengan yang diharapkan (100% Berhasil). Hal ini membuktikan bahwa fungsionalitas utama aplikasi SIMONAS telah berjalan dengan baik di lingkungan uji coba.
+[274]: BAB VI
+KESIMPULAN DAN SARAN
+[275]: 6.1 Kesimpulan
+[276]: Berdasarkan hasil analisis, perancangan, implementasi, dan pengujian yang telah dilakukan pada aplikasi SIMONAS, dapat ditarik kesimpulan sebagai berikut:
+[277]: 1. Aplikasi SIMONAS telah berhasil dikembangkan menggunakan framework Flutter untuk frontend mobile dan Supabase sebagai backend-as-a-service. Integrasi ini terbukti efektif dalam mempermudah proses digitalisasi data akademik sekolah.
+[278]: 2. Sistem multi-role yang dirancang telah berfungsi dengan baik, memberikan akses antarmuka dan hak operasi data yang berbeda untuk Kepala Sekolah, Guru, BK, dan Siswa sesuai dengan tanggung jawab masing-masing.
+[279]: 3. Aplikasi SIMONAS berhasil menyelesaikan masalah pencatatan akademik di SMP Negeri 1 Jenar dengan mengintegrasikan alur pengisian jurnal mengajar, presensi siswa, pengelolaan nilai/tugas, serta pengunggahan berkas administrasi pembelajaran guru dalam satu sistem terpadu.
+[280]: 4. Fitur monitoring kelas, monitoring jurnal, dan verifikasi administrasi bagi Kepala Sekolah dapat mempermudah pengawasan proses kegiatan belajar mengajar secara real-time.
+[281]: 5. Pengujian black-box membuktikan seluruh fungsi utama aplikasi berjalan sukses 100% dan siap diimplementasikan untuk mendukung operasional sekolah.
+[282]: 6.2 Saran
+[283]: Untuk pengembangan aplikasi SIMONAS selanjutnya, disarankan beberapa hal sebagai berikut:
+[284]: 1. Melakukan uji coba lapangan dalam skala kecil (pilot testing) pada satu atau dua kelas terlebih dahulu sebelum diimplementasikan secara menyeluruh di sekolah guna membiasakan pengguna.
+[285]: 2. Menambahkan fitur push notification di perangkat mobile untuk memberikan pengingat otomatis ketika terdapat tugas baru bagi siswa atau dokumen baru yang perlu diverifikasi kepala sekolah.
+[286]: 3. Menyediakan fitur rekapitulasi data absensi dan jurnal mengajar dalam format PDF atau Excel yang dapat diunduh langsung untuk kebutuhan pelaporan bulanan.
+[287]: 4. Mengembangkan modul khusus untuk Orang Tua/Wali agar dapat memantau presensi dan perkembangan nilai akademik siswa secara langsung.
+[288]: 5. Meningkatkan integrasi dengan sistem eksternal yang sudah berjalan di sekolah, seperti sinkronisasi otomatis dengan e-Rapor.
+[289]: DAFTAR PUSTAKA
+[290]: 
+[291]: LAMPIRAN
+[292]: Lampiran E. ERD Modul Pengelolaan Kelas dan Histori Wali Kelas.
+[293]: 
+[294]: 
+[295]: Lampiran E.1. ERD Modul Pengelolaan Kelas
+[296]: 
+[297]: 
+[298]: Lampiran E.2. ERD Modul Histori Wali Kelas
+
+--- Found BAB VI at Paragraph 274 ---
+[272]: 
+[273]: Kesimpulan pengujian: berdasarkan hasil pengujian black-box, seluruh skenario pengujian (TC-01 hingga TC-10) menunjukkan hasil yang sesuai dengan yang diharapkan (100% Berhasil). Hal ini membuktikan bahwa fungsionalitas utama aplikasi SIMONAS telah berjalan dengan baik di lingkungan uji coba.
+[274]: BAB VI
+KESIMPULAN DAN SARAN
+[275]: 6.1 Kesimpulan
+[276]: Berdasarkan hasil analisis, perancangan, implementasi, dan pengujian yang telah dilakukan pada aplikasi SIMONAS, dapat ditarik kesimpulan sebagai berikut:
+[277]: 1. Aplikasi SIMONAS telah berhasil dikembangkan menggunakan framework Flutter untuk frontend mobile dan Supabase sebagai backend-as-a-service. Integrasi ini terbukti efektif dalam mempermudah proses digitalisasi data akademik sekolah.
+[278]: 2. Sistem multi-role yang dirancang telah berfungsi dengan baik, memberikan akses antarmuka dan hak operasi data yang berbeda untuk Kepala Sekolah, Guru, BK, dan Siswa sesuai dengan tanggung jawab masing-masing.
+[279]: 3. Aplikasi SIMONAS berhasil menyelesaikan masalah pencatatan akademik di SMP Negeri 1 Jenar dengan mengintegrasikan alur pengisian jurnal mengajar, presensi siswa, pengelolaan nilai/tugas, serta pengunggahan berkas administrasi pembelajaran guru dalam satu sistem terpadu.
+[280]: 4. Fitur monitoring kelas, monitoring jurnal, dan verifikasi administrasi bagi Kepala Sekolah dapat mempermudah pengawasan proses kegiatan belajar mengajar secara real-time.
+[281]: 5. Pengujian black-box membuktikan seluruh fungsi utama aplikasi berjalan sukses 100% dan siap diimplementasikan untuk mendukung operasional sekolah.
+[282]: 6.2 Saran
+[283]: Untuk pengembangan aplikasi SIMONAS selanjutnya, disarankan beberapa hal sebagai berikut:
+[284]: 1. Melakukan uji coba lapangan dalam skala kecil (pilot testing) pada satu atau dua kelas terlebih dahulu sebelum diimplementasikan secara menyeluruh di sekolah guna membiasakan pengguna.
+[285]: 2. Menambahkan fitur push notification di perangkat mobile untuk memberikan pengingat otomatis ketika terdapat tugas baru bagi siswa atau dokumen baru yang perlu diverifikasi kepala sekolah.
+[286]: 3. Menyediakan fitur rekapitulasi data absensi dan jurnal mengajar dalam format PDF atau Excel yang dapat diunduh langsung untuk kebutuhan pelaporan bulanan.
+[287]: 4. Mengembangkan modul khusus untuk Orang Tua/Wali agar dapat memantau presensi dan perkembangan nilai akademik siswa secara langsung.
+[288]: 5. Meningkatkan integrasi dengan sistem eksternal yang sudah berjalan di sekolah, seperti sinkronisasi otomatis dengan e-Rapor.
+[289]: DAFTAR PUSTAKA
+[290]: 
+[291]: LAMPIRAN
+[292]: Lampiran E. ERD Modul Pengelolaan Kelas dan Histori Wali Kelas.
+[293]: 
+[294]: 
+[295]: Lampiran E.1. ERD Modul Pengelolaan Kelas
+[296]: 
+[297]: 
+[298]: Lampiran E.2. ERD Modul Histori Wali Kelas

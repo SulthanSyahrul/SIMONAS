@@ -1,0 +1,193 @@
+=== File: Draft Template Naskah TA 2025.docx ===
+Paragraphs: 217
+Tables: 25
+
+=== Headings / Outline ===
+[P#85 Style=Normal]: 'DAFTAR ISI'
+[P#93 Style=Normal]: 'KATA PENGANTAR'
+[P#94 Style=Normal]: 'DAFTAR ISI'
+[P#95 Style=Normal]: '[DAFTAR TABEL]'
+[P#96 Style=Normal]: '[DAFTAR GAMBAR]'
+[P#97 Style=Normal]: 'INTISARI'
+[P#98 Style=Normal]: 'ABSTRACT'
+[P#100 Style=Normal]: 'BAB I      PENDAHULUAN'
+[P#107 Style=Normal]: 'BAB II     DESKRIPSI PRODUK'
+[P#115 Style=Normal]: 'BAB III DAN BAB IV'
+[P#116 Style=Normal]: 'BAB III dan BAB IV berisi dokumentasi  kebutuhan antarmuka (mock up dan desain User Interface), modelling (use case diagram, class diagram, dsb) dan implementasi. Urutannya disesuaikan dengan kebutuhan pengembangan perangkat lunak dan kesepakatan dengan Pembimbing TA.'
+[P#118 Style=Normal]: 'BAB V     PENGUJIAN, HASIL DAN KESIMPULAN'
+[P#122 Style=Normal]: 'Hasil Uji dan Kesimpulan'
+[P#127 Style=Normal]: 'BAB I'
+[P#142 Style=Normal]: 'BAB II'
+[P#158 Style=Normal]: 'BAB III'
+[P#180 Style=Normal]: 'BAB IV'
+[P#193 Style=Normal]: 'BAB V'
+[P#202 Style=Normal]: 'Hasil Uji dan Kesimpulan Pengujian'
+[P#205 Style=Normal]: 'BAB VI'
+[P#206 Style=Normal]: 'KESIMPULAN DAN SARAN'
+[P#209 Style=Normal]: 'Kesimpulan'
+[P#211 Style=Normal]: 'Saran'
+
+=== BAB V & VI Content and surrounding paragraphs ===
+
+--- Found BAB V at Paragraph 118 ---
+[116]: BAB III dan BAB IV berisi dokumentasi  kebutuhan antarmuka (mock up dan desain User Interface), modelling (use case diagram, class diagram, dsb) dan implementasi. Urutannya disesuaikan dengan kebutuhan pengembangan perangkat lunak dan kesepakatan dengan Pembimbing TA.
+[117]: 
+[118]: BAB V     PENGUJIAN, HASIL DAN KESIMPULAN
+[119]: Metode Pengujian
+[120]: Lingkungan Pengujian
+[121]: Prosedur Pengujian
+[122]: Hasil Uji dan Kesimpulan
+[123]: 
+[124]: DAFTAR PUSTAKA
+[125]: LAMPIRAN
+[126]: 
+[127]: BAB I
+[128]: PENDAHULUAN
+[129]: 
+[130]: Latar Belakang
+[131]: 
+[132]: Tujuan 
+[133]: 
+[134]: Manfaat Produk 
+[135]: 
+[136]: Metode Pengembangan 
+[137]: 
+[138]: Definisi dan Istilah
+[139]: 
+[140]: Referensi 
+[141]: 
+[142]: BAB II
+[143]: DESKRIPSI PRODUK
+[144]: 
+[145]: Deskripsi Produk
+[146]: 
+[147]: Fungsional Produk
+[148]: 
+[149]: Penggolongan dan Karakteristik Pengguna
+[150]: 
+[151]: Lingkungan Operasi
+[152]: 
+[153]: Batasan Desain dan Implementasi 
+[154]: 
+[155]: Dokumentasi Pengguna
+[156]: 
+[157]: 
+[158]: BAB III 
+[159]: PERANCANGAN PRODUK
+[160]: 
+[161]: Untuk Pengembangan Aplikasi dan Sistem Informasi, bisa berisi:
+[162]: Mock up dan desain User Interface
+[163]: Desain database (ERD)
+[164]: Use case diagram
+[165]: Activity Diagrams atau Use case Text
+[166]: Class diagrams
+[167]: Sequence Diagrams
+[168]: Untuk Game dan Multimmedia Interaktif, bisa berisi
+[169]: Perancangan Model atau Karakter
+[170]: Story Board atau User Interface
+[171]: Game Play
+[172]: Game Stage
+[173]: IoT, bisa berisi
+[174]: Spesifikasi Hardware
+[175]: Schematic Diagram
+[176]: Flowchart
+[177]: Desain User Interface
+[178]: Desain database (ERD)
+[179]: 
+[180]: BAB IV 
+[181]: IMPLEMENTASI 
+[182]: 
+[183]: Untuk Pengembangan Aplikasi dan Sistem Informasi
+[184]: Tampilan Produk beserta source code berdasarkan fungsional yang dipaparkan sebelumnya
+[185]: Untuk Game dan Multimedia Interaktif
+[186]: Hasil implementasi perancangan game/multimedia interaktif berupa model karakter/user interface main menu dan submenu/Hasil tampilan game tiap stage/level beserta ulasan code dalam fungsi interaksi yang dikemas pada produk.
+[187]: IoT
+[188]: Tampilan Produk beserta source code.
+[189]: Foto hardware, jika ada.
+[190]: Langkah-langkah Setup hardware dan software
+[191]: 
+[192]: 
+[193]: BAB V
+[194]: PENGUJIAN 
+[195]: Metode Pengujian
+[196]: 
+[197]: Lingkungan Pengujian
+[198]: 
+[199]: Prosedur Pengujian
+[200]: contoh:
+[201]: 
+[202]: Hasil Uji dan Kesimpulan Pengujian
+[203]: contoh:
+[204]: 
+[205]: BAB VI
+[206]: KESIMPULAN DAN SARAN
+[207]: 
+[208]: 
+[209]: Kesimpulan
+[210]: 
+[211]: Saran
+[212]: 
+[213]: DAFTAR PUSTAKA
+[214]: 
+[215]: LAMPIRAN
+[216]: 
+
+--- Found BAB V at Paragraph 193 ---
+[191]: 
+[192]: 
+[193]: BAB V
+[194]: PENGUJIAN 
+[195]: Metode Pengujian
+[196]: 
+[197]: Lingkungan Pengujian
+[198]: 
+[199]: Prosedur Pengujian
+[200]: contoh:
+[201]: 
+[202]: Hasil Uji dan Kesimpulan Pengujian
+[203]: contoh:
+[204]: 
+[205]: BAB VI
+[206]: KESIMPULAN DAN SARAN
+[207]: 
+[208]: 
+[209]: Kesimpulan
+[210]: 
+[211]: Saran
+[212]: 
+[213]: DAFTAR PUSTAKA
+[214]: 
+[215]: LAMPIRAN
+[216]: 
+
+--- Found BAB V at Paragraph 205 ---
+[203]: contoh:
+[204]: 
+[205]: BAB VI
+[206]: KESIMPULAN DAN SARAN
+[207]: 
+[208]: 
+[209]: Kesimpulan
+[210]: 
+[211]: Saran
+[212]: 
+[213]: DAFTAR PUSTAKA
+[214]: 
+[215]: LAMPIRAN
+[216]: 
+
+--- Found BAB VI at Paragraph 205 ---
+[203]: contoh:
+[204]: 
+[205]: BAB VI
+[206]: KESIMPULAN DAN SARAN
+[207]: 
+[208]: 
+[209]: Kesimpulan
+[210]: 
+[211]: Saran
+[212]: 
+[213]: DAFTAR PUSTAKA
+[214]: 
+[215]: LAMPIRAN
+[216]: 

@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter (Supabase Prompt)",
+      "request": "launch",
+      "type": "dart",
+      "toolArgs": [
+        "--dart-define=SUPABASE_URL=${input:supabaseUrl}",
+        "--dart-define=SUPABASE_PUBLISHABLE_KEY=${input:supabasePublishableKey}",
+        "--dart-define=SUPABASE_STORAGE_BUCKET=${input:supabaseBucket}"
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "id": "supabaseUrl",
+      "type": "promptString",
+      "description": "Supabase URL (contoh: https://xxxxx.supabase.co)"
+    },
+    {
+      "id": "supabasePublishableKey",
+      "type": "promptString",
+      "description": "Supabase publishable/anon key (sb_publishable_...)",
+      "password": true
+    },
+    {
+      "id": "supabaseBucket",
+      "type": "promptString",
+      "description": "Nama bucket storage Supabase",
+      "default": "administrasi_pembelajaran"
+    }
+  ]
+}

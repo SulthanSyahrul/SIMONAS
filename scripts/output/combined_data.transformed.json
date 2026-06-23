@@ -1,0 +1,5865 @@
+{
+  "tahunAjaranId": "2025_2026",
+  "kelasRows": [
+    {
+      "nama_kelas": "7A",
+      "lantai": 1,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "7B",
+      "lantai": 1,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "7C",
+      "lantai": 1,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "7D",
+      "lantai": 1,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "7E",
+      "lantai": 1,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "7F",
+      "lantai": 1,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "8A",
+      "lantai": 2,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "8B",
+      "lantai": 2,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "8C",
+      "lantai": 2,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "8D",
+      "lantai": 2,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "8E",
+      "lantai": 2,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "8F",
+      "lantai": 2,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "9A",
+      "lantai": 3,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "9B",
+      "lantai": 3,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "9C",
+      "lantai": 3,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "9D",
+      "lantai": 3,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "9E",
+      "lantai": 3,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "nama_kelas": "9F",
+      "lantai": 3,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    }
+  ],
+  "teacherUsers": [
+    {
+      "source": "teacher",
+      "nama": "Afifatun Nisa, S.Pd",
+      "nip": "199404202022212015",
+      "username": "afifatunnisaspd",
+      "email": "afifatunnisaspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Agustinus Willy Anja K , S.Pd",
+      "nip": "198508182020121008",
+      "username": "agustinuswillyanjakspd",
+      "email": "agustinuswillyanjakspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Almeda Merdekawati Utami, S.Pd",
+      "nip": "199502162024212043",
+      "username": "almedamerdekawatiutamispd",
+      "email": "almedamerdekawatiutamispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Anindita Yuan Prabandari, S.Pd",
+      "nip": null,
+      "username": "aninditayuanprabandarispd",
+      "email": "aninditayuanprabandarispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Ari Setyo Rini, S.Pd",
+      "nip": "199302122022212021",
+      "username": "arisetyorinispd",
+      "email": "arisetyorinispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Asih Yuliati, S.Pd",
+      "nip": "197507222000032005",
+      "username": "asihyuliatispd",
+      "email": "asihyuliatispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Bayu Sabtian Awinata, S.Pd",
+      "nip": "198705022024211008",
+      "username": "bayusabtianawinataspd",
+      "email": "bayusabtianawinataspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Budi Setioko, S.Pd",
+      "nip": "196905182014091002",
+      "username": "budisetiokospd",
+      "email": "budisetiokospd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Cona Setiari, S.Pd",
+      "nip": "199701312020121009",
+      "username": "conasetiarispd",
+      "email": "conasetiarispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Danang Cahyono S, S.Pd",
+      "nip": "197403182003121005",
+      "username": "danangcahyonosspd",
+      "email": "danangcahyonosspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Dwi Risdiyanto, S.PdI",
+      "nip": "198112072011011004",
+      "username": "dwirisdiyantospdi",
+      "email": "dwirisdiyantospdi@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Endang Merdekawati, S.Pd",
+      "nip": "197808172014092001",
+      "username": "endangmerdekawatispd",
+      "email": "endangmerdekawatispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Eni Sulistyaningsih, S.Pd",
+      "nip": "197304122021212004",
+      "username": "enisulistyaningsihspd",
+      "email": "enisulistyaningsihspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Fadhilatul Ilmi, S.Pd",
+      "nip": "199806102025212081",
+      "username": "fadhilatulilmispd",
+      "email": "fadhilatulilmispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Ferry Isfandria, S.Pd",
+      "nip": "199809282025211060",
+      "username": "ferryisfandriaspd",
+      "email": "ferryisfandriaspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Heny Purwaningsih, S.Pd",
+      "nip": "197805142021212006",
+      "username": "henypurwaningsihspd",
+      "email": "henypurwaningsihspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "M.SHOIM Hikmawan, S.Pd",
+      "nip": "197011221998021002",
+      "username": "mshoimhikmawanspd",
+      "email": "mshoimhikmawanspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Maria EMAKULATA. Ari L, S.Pd",
+      "nip": "197812132014092001",
+      "username": "mariaemakulataarilspd",
+      "email": "mariaemakulataarilspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Muhammad Zainul 'Abidin, S.Pd",
+      "nip": "199704032025211067",
+      "username": "muhammadzainulabidinspd",
+      "email": "muhammadzainulabidinspd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Nurudin, St",
+      "nip": "197811142009031005",
+      "username": "nurudinst",
+      "email": "nurudinst@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Paryono, S.Pd",
+      "nip": "196905052022211002",
+      "username": "paryonospd",
+      "email": "paryonospd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Priyo Santosa, S.Kom",
+      "nip": "197305312022211001",
+      "username": "priyosantosaskom",
+      "email": "priyosantosaskom@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Ratno, S.Pd",
+      "nip": "197102212008011005",
+      "username": "ratnospd",
+      "email": "ratnospd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Rebiyati, S.Pd",
+      "nip": "197005132010012001",
+      "username": "rebiyatispd",
+      "email": "rebiyatispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Santi Indriyani, S.Pd",
+      "nip": "199808242024212003",
+      "username": "santiindriyanispd",
+      "email": "santiindriyanispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Siti Lestari, S.Pd",
+      "nip": "196606221987032009",
+      "username": "sitilestarispd",
+      "email": "sitilestarispd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Siti Nur Cahyanti, Se",
+      "nip": "198012132009032001",
+      "username": "sitinurcahyantise",
+      "email": "sitinurcahyantise@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Sri Rahayu, S.Si",
+      "nip": "198208312010012026",
+      "username": "srirahayussi",
+      "email": "srirahayussi@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Surono, S.Pd",
+      "nip": "197003201998021002",
+      "username": "suronospd",
+      "email": "suronospd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Warsito, S.Pd",
+      "nip": "196607282007011005",
+      "username": "warsitospd",
+      "email": "warsitospd@school.local",
+      "role": "guru"
+    },
+    {
+      "source": "teacher",
+      "nama": "Widya Kusumaningrum, S.Pd",
+      "nip": "199406062022212012",
+      "username": "widyakusumaningrumspd",
+      "email": "widyakusumaningrumspd@school.local",
+      "role": "guru"
+    }
+  ],
+  "studentUsers": [
+    {
+      "source": "student",
+      "nama": "Adittia Nur Safa",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "adittianursafa",
+      "email": "adittianursafa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aldi Dio Permana",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "aldidiopermana",
+      "email": "aldidiopermana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Arum Azizah Az Zahro",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "arumazizahazzahro",
+      "email": "arumazizahazzahro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Atha Enesia Adivia",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "athaenesiaadivia",
+      "email": "athaenesiaadivia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aufar Ramadhani",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "aufarramadhani",
+      "email": "aufarramadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aulia Muttaqina",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "auliamuttaqina",
+      "email": "auliamuttaqina@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Auriel Vita Ayuani",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "aurielvitaayuani",
+      "email": "aurielvitaayuani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ayu Rahma Lestari",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "ayurahmalestari",
+      "email": "ayurahmalestari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Danadyaksa Galin Untara",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "danadyaksagalinuntara",
+      "email": "danadyaksagalinuntara@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Davian Divaga Pratama",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "daviandivagapratama",
+      "email": "daviandivagapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dea Prisyila Maharani",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "deaprisyilamaharani",
+      "email": "deaprisyilamaharani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dinas Gilang Oktavian",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "dinasgilangoktavian",
+      "email": "dinasgilangoktavian@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dirly Pratika Arum",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "dirlypratikaarum",
+      "email": "dirlypratikaarum@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Eka Ayudiya Karisma Putri",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "ekaayudiyakarismaputri",
+      "email": "ekaayudiyakarismaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Frizzy Alfa Lutfiano",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "frizzyalfalutfiano",
+      "email": "frizzyalfalutfiano@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Rizqi Prastyo",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "muhammadrizqiprastyo",
+      "email": "muhammadrizqiprastyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Yusup",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "muhammadyusup",
+      "email": "muhammadyusup@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Neifa Dara Pradana",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "neifadarapradana",
+      "email": "neifadarapradana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nina Rahmawati",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "ninarahmawati",
+      "email": "ninarahmawati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nuha Kavindra Danish",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "nuhakavindradanish",
+      "email": "nuhakavindradanish@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Randika Esha Fathansyah",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "randikaeshafathansyah",
+      "email": "randikaeshafathansyah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ridho Guntur Bagaskoro",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "ridhogunturbagaskoro",
+      "email": "ridhogunturbagaskoro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Risqi Putra Pratama",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "risqiputrapratama",
+      "email": "risqiputrapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rizla Ahza Ardiansyah",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "rizlaahzaardiansyah",
+      "email": "rizlaahzaardiansyah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Siti Aisyah Dwi Mustofa",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "sitiaisyahdwimustofa",
+      "email": "sitiaisyahdwimustofa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Vallencia Devin Pradani",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "vallenciadevinpradani",
+      "email": "vallenciadevinpradani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Vara Amelia Citra Purnama",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "P",
+      "username": "varaameliacitrapurnama",
+      "email": "varaameliacitrapurnama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wahana Marcellino",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "wahanamarcellino",
+      "email": "wahanamarcellino@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wahyu Rudiono",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "wahyurudiono",
+      "email": "wahyurudiono@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Zakki Rosyid Pratama",
+      "nip": null,
+      "kelas": "7A",
+      "gender": "L",
+      "username": "zakkirosyidpratama",
+      "email": "zakkirosyidpratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Afip Solikin",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "afipsolikin",
+      "email": "afipsolikin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Agung Dwi Permadi",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "agungdwipermadi",
+      "email": "agungdwipermadi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alif Yoga Pratama",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "alifyogapratama",
+      "email": "alifyogapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aulia Azzara Rahmadanti",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "auliaazzararahmadanti",
+      "email": "auliaazzararahmadanti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aulia Lisa Ariyanto",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "aulialisaariyanto",
+      "email": "aulialisaariyanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Azrilla Ananda Putra",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "azrillaanandaputra",
+      "email": "azrillaanandaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dimas Galang Oktavian",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "dimasgalangoktavian",
+      "email": "dimasgalangoktavian@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Diyas Saputra",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "diyassaputra",
+      "email": "diyassaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Erlita Aurelia Gestani",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "erlitaaureliagestani",
+      "email": "erlitaaureliagestani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Eshan Gusnaldi",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "eshangusnaldi",
+      "email": "eshangusnaldi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fadil Maulana",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "fadilmaulana",
+      "email": "fadilmaulana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fauzan Zainal Mahmud",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "fauzanzainalmahmud",
+      "email": "fauzanzainalmahmud@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gilang Eka Fitriansyah",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "gilangekafitriansyah",
+      "email": "gilangekafitriansyah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gizta Zanuar",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "giztazanuar",
+      "email": "giztazanuar@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kalista Maheswari",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "kalistamaheswari",
+      "email": "kalistamaheswari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kesya Erwin Avrillia",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "kesyaerwinavrillia",
+      "email": "kesyaerwinavrillia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lailatuz Zuhro",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "lailatuzzuhro",
+      "email": "lailatuzzuhro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mela Sintia Sari",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "melasintiasari",
+      "email": "melasintiasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mohammad Putra Ilham",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "mohammadputrailham",
+      "email": "mohammadputrailham@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Morello Aditya Pratama",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "morelloadityapratama",
+      "email": "morelloadityapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Sahrul Rhomandoni",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "muhammadsahrulrhomandoni",
+      "email": "muhammadsahrulrhomandoni@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nasifa Bilqis Oktavia",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "nasifabilqisoktavia",
+      "email": "nasifabilqisoktavia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Niken Agustiani",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "nikenagustiani",
+      "email": "nikenagustiani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Niko Andreas Syahputra",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "nikoandreassyahputra",
+      "email": "nikoandreassyahputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nurleni Cahaya Ningrum",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "nurlenicahayaningrum",
+      "email": "nurlenicahayaningrum@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Raffa Eka Aditama",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "raffaekaaditama",
+      "email": "raffaekaaditama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Stevanus Imannuel",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "stevanusimannuel",
+      "email": "stevanusimannuel@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Valent Febriana Putri",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "valentfebrianaputri",
+      "email": "valentfebrianaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wahyu Kistanto",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "wahyukistanto",
+      "email": "wahyukistanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Widya Agisa Rahma",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "P",
+      "username": "widyaagisarahma",
+      "email": "widyaagisarahma@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Yuliano Wisnu Utama",
+      "nip": null,
+      "kelas": "7B",
+      "gender": "L",
+      "username": "yulianowisnuutama",
+      "email": "yulianowisnuutama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ahmad Aziz Mustofa",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "ahmadazizmustofa",
+      "email": "ahmadazizmustofa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alfiza Sharapova",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "alfizasharapova",
+      "email": "alfizasharapova@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alvin Rahmad Dani Anandita",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "alvinrahmaddanianandita",
+      "email": "alvinrahmaddanianandita@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Chelsie Dea Arvilasari",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "chelsiedeaarvilasari",
+      "email": "chelsiedeaarvilasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dafa Alfiano Ratri",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "dafaalfianoratri",
+      "email": "dafaalfianoratri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Deska Dwi Wulandari",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "deskadwiwulandari",
+      "email": "deskadwiwulandari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dina Merisa",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "dinamerisa",
+      "email": "dinamerisa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fathiyah Azzahra",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "fathiyahazzahra",
+      "email": "fathiyahazzahra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Hafis Ikshan Maulana",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "hafisikshanmaulana",
+      "email": "hafisikshanmaulana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kasandra Kaila Sari",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "kasandrakailasari",
+      "email": "kasandrakailasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kellen William Sudarmanto",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "kellenwilliamsudarmanto",
+      "email": "kellenwilliamsudarmanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Marcel",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "marcel",
+      "email": "marcel@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhamad Ariel Pradita Pratama",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "muhamadarielpraditapratama",
+      "email": "muhamadarielpraditapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Roqit",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "muhammadroqit",
+      "email": "muhammadroqit@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nafisa Zahra Salsabila",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "nafisazahrasalsabila",
+      "email": "nafisazahrasalsabila@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nizam Al Kautsar Drajat Alam",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "nizamalkautsardrajatalam",
+      "email": "nizamalkautsardrajatalam@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nizam Diego Saputra",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "nizamdiegosaputra",
+      "email": "nizamdiegosaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nufail Abdul Rosyid",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "nufailabdulrosyid",
+      "email": "nufailabdulrosyid@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Pasha Saputra",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "pashasaputra",
+      "email": "pashasaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Putri Setyowati",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "putrisetyowati",
+      "email": "putrisetyowati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rahmad Setio Aji",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "rahmadsetioaji",
+      "email": "rahmadsetioaji@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Revaldo Arya Setyawan",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "revaldoaryasetyawan",
+      "email": "revaldoaryasetyawan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Risna Zarin Zaskiana",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "risnazarinzaskiana",
+      "email": "risnazarinzaskiana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Riyanto",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "riyanto",
+      "email": "riyanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rizki Nur Wakhid",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "rizkinurwakhid",
+      "email": "rizkinurwakhid@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Saka Aji Nusantara",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "sakaajinusantara",
+      "email": "sakaajinusantara@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Shabryna Auliya Arabfa",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "shabrynaauliyaarabfa",
+      "email": "shabrynaauliyaarabfa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Tutik Oktavia",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "tutikoktavia",
+      "email": "tutikoktavia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Vidiano Danang Saputra",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "L",
+      "username": "vidianodanangsaputra",
+      "email": "vidianodanangsaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Viona Cahya Permata Apriliaeva",
+      "nip": null,
+      "kelas": "7C",
+      "gender": "P",
+      "username": "vionacahyapermataapriliaeva",
+      "email": "vionacahyapermataapriliaeva@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alreza Putra Yadiya",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "alrezaputrayadiya",
+      "email": "alrezaputrayadiya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Anjani Dwi Rahayu",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "anjanidwirahayu",
+      "email": "anjanidwirahayu@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Araya Nail Saputra",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "arayanailsaputra",
+      "email": "arayanailsaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Azizah Febriana",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "azizahfebriana",
+      "email": "azizahfebriana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Brillian Faqih Aldabaren",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "brillianfaqihaldabaren",
+      "email": "brillianfaqihaldabaren@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dafa Arvando",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "dafaarvando",
+      "email": "dafaarvando@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dian Eka Rahayu",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "dianekarahayu",
+      "email": "dianekarahayu@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dwi Erlangga Saputra",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "dwierlanggasaputra",
+      "email": "dwierlanggasaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fadli Imam Maulana",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "fadliimammaulana",
+      "email": "fadliimammaulana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fauzi Ilham Maulana",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "fauziilhammaulana",
+      "email": "fauziilhammaulana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gabriel Syinang Naqa Safa'At",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "gabrielsyinangnaqasafaat",
+      "email": "gabrielsyinangnaqasafaat@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jauza Gaesa Putri",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "jauzagaesaputri",
+      "email": "jauzagaesaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jesica Tri Wahyuni",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "jesicatriwahyuni",
+      "email": "jesicatriwahyuni@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kemuning Suci Larassati",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "kemuningsucilarassati",
+      "email": "kemuningsucilarassati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kheysa Putri Velovvha",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "kheysaputrivelovvha",
+      "email": "kheysaputrivelovvha@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "M Tri Bagus Prasetyo",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "mtribagusprasetyo",
+      "email": "mtribagusprasetyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Maida Tri Nur Cahyati",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "maidatrinurcahyati",
+      "email": "maidatrinurcahyati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mochamad Choirul Fahri",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "mochamadchoirulfahri",
+      "email": "mochamadchoirulfahri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Abdul Rohim",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "muhammadabdulrohim",
+      "email": "muhammadabdulrohim@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Nur Sholihin",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "muhammadnursholihin",
+      "email": "muhammadnursholihin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Rizqi Nashirudin",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "muhammadrizqinashirudin",
+      "email": "muhammadrizqinashirudin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Oktavia Triyani",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "oktaviatriyani",
+      "email": "oktaviatriyani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rahmat Imam Wahyudi",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "rahmatimamwahyudi",
+      "email": "rahmatimamwahyudi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rendra Ananta Putra",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "rendraanantaputra",
+      "email": "rendraanantaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Restu Ari Paidarmawan",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "restuaripaidarmawan",
+      "email": "restuaripaidarmawan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Septian Aldiray Pratama",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "L",
+      "username": "septianaldiraypratama",
+      "email": "septianaldiraypratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sydney Fatin Shidqia Salwa Hafidza",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "sydneyfatinshidqiasalwahafidza",
+      "email": "sydneyfatinshidqiasalwahafidza@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Yuliana Prastika Halimah",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "yulianaprastikahalimah",
+      "email": "yulianaprastikahalimah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Zahra Amelia Putri",
+      "nip": null,
+      "kelas": "7D",
+      "gender": "P",
+      "username": "zahraameliaputri",
+      "email": "zahraameliaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Adeliya Cehzianaswha",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "adeliyacehzianaswha",
+      "email": "adeliyacehzianaswha@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aksan Haikal Alamsyah",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "aksanhaikalalamsyah",
+      "email": "aksanhaikalalamsyah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alfi Faizah Azzahra",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "alfifaizahazzahra",
+      "email": "alfifaizahazzahra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ali Fatah",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "alifatah",
+      "email": "alifatah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Allifa Nur Cahyanto",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "allifanurcahyanto",
+      "email": "allifanurcahyanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Azka Preshley Junia Kennedy",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "azkapreshleyjuniakennedy",
+      "email": "azkapreshleyjuniakennedy@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Bintang Giral Permana",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "bintanggiralpermana",
+      "email": "bintanggiralpermana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Bogi Febriyanto",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "bogifebriyanto",
+      "email": "bogifebriyanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Faiza Mekhail",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "faizamekhail",
+      "email": "faizamekhail@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gizka Natasya Ramadhani",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "gizkanatasyaramadhani",
+      "email": "gizkanatasyaramadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Januar Fildzah Daneezha",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "januarfildzahdaneezha",
+      "email": "januarfildzahdaneezha@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jeszen Tahta Al Zacky",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "jeszentahtaalzacky",
+      "email": "jeszentahtaalzacky@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kaila Maurinca Ashara",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "kailamaurincaashara",
+      "email": "kailamaurincaashara@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Miftakhul Janah",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "miftakhuljanah",
+      "email": "miftakhuljanah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Iqbal Khoirunas",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "muhammadiqbalkhoirunas",
+      "email": "muhammadiqbalkhoirunas@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Revian Ramadani",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "muhammadrevianramadani",
+      "email": "muhammadrevianramadani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Naya Emilia",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "nayaemilia",
+      "email": "nayaemilia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Raditya Ananda Alvaro",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "radityaanandaalvaro",
+      "email": "radityaanandaalvaro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ricky Ahmad Setiawan",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "rickyahmadsetiawan",
+      "email": "rickyahmadsetiawan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Roqim Hidayat",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "roqimhidayat",
+      "email": "roqimhidayat@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Saskia Bella Anastasya",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "saskiabellaanastasya",
+      "email": "saskiabellaanastasya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Satria Andika Pratama",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "satriaandikapratama",
+      "email": "satriaandikapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sheyla Novia Sari",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "sheylanoviasari",
+      "email": "sheylanoviasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sinta Apriliana Putri",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "sintaaprilianaputri",
+      "email": "sintaaprilianaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sofianti Dwi Ningsih",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "sofiantidwiningsih",
+      "email": "sofiantidwiningsih@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Valen Vanesa Desti",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "P",
+      "username": "valenvanesadesti",
+      "email": "valenvanesadesti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wahyu Pratama",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "wahyupratama",
+      "email": "wahyupratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wahyu Tri Santoso",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "wahyutrisantoso",
+      "email": "wahyutrisantoso@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wisnu Aji Pangestu",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "wisnuajipangestu",
+      "email": "wisnuajipangestu@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Zyaki Prastiyo",
+      "nip": null,
+      "kelas": "7E",
+      "gender": "L",
+      "username": "zyakiprastiyo",
+      "email": "zyakiprastiyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Airana Putri Maslan Ayu Kinanti",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "airanaputrimaslanayukinanti",
+      "email": "airanaputrimaslanayukinanti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aldista Fardan Pratama",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "aldistafardanpratama",
+      "email": "aldistafardanpratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alfiansyah Dwi Isputra",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "alfiansyahdwiisputra",
+      "email": "alfiansyahdwiisputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alzifara Nuril Aida",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "alzifaranurilaida",
+      "email": "alzifaranurilaida@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Anggara Putra Ramadhan",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "anggaraputraramadhan",
+      "email": "anggaraputraramadhan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Avika Umu Khotipah",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "avikaumukhotipah",
+      "email": "avikaumukhotipah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ayik Ginawang",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "ayikginawang",
+      "email": "ayikginawang@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Bagas Wahyu Alvaro",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "bagaswahyualvaro",
+      "email": "bagaswahyualvaro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Berlian Ainnun Mardiyah",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "berlianainnunmardiyah",
+      "email": "berlianainnunmardiyah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Cika Aprilia Wulandari",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "cikaapriliawulandari",
+      "email": "cikaapriliawulandari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dana Aqila Prasetya",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "danaaqilaprasetya",
+      "email": "danaaqilaprasetya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Davi Isnan Ali Mustofa",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "daviisnanalimustofa",
+      "email": "daviisnanalimustofa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dhea Navisa",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "dheanavisa",
+      "email": "dheanavisa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Erna Saputra",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "ernasaputra",
+      "email": "ernasaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Geshit Banyu Mily",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "geshitbanyumily",
+      "email": "geshitbanyumily@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Isma Khoiru Mutia",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "ismakhoirumutia",
+      "email": "ismakhoirumutia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jofan Zafro Fahreza",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "jofanzafrofahreza",
+      "email": "jofanzafrofahreza@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Marista Diyanti",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "maristadiyanti",
+      "email": "maristadiyanti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mochamad Naufal Reza Alfari",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "mochamadnaufalrezaalfari",
+      "email": "mochamadnaufalrezaalfari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhamad Imam Al Mahdi",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "muhamadimamalmahdi",
+      "email": "muhamadimamalmahdi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhamad Zacky Albuqori",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "muhamadzackyalbuqori",
+      "email": "muhamadzackyalbuqori@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Sulistyo Raharjo",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "muhammadsulistyoraharjo",
+      "email": "muhammadsulistyoraharjo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nada Amelia",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "nadaamelia",
+      "email": "nadaamelia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Naura Aurellia Putri",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "nauraaurelliaputri",
+      "email": "nauraaurelliaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Noval Alfian Prasetyo",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "novalalfianprasetyo",
+      "email": "novalalfianprasetyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rahayu Intan Yuliyanti",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "rahayuintanyuliyanti",
+      "email": "rahayuintanyuliyanti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Razya Priyan Aufa",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "razyapriyanaufa",
+      "email": "razyapriyanaufa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sakhiy Nafis Farras",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "L",
+      "username": "sakhiynafisfarras",
+      "email": "sakhiynafisfarras@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Zahra Ginaya Cahaya Buana",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "zahraginayacahayabuana",
+      "email": "zahraginayacahayabuana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Zahra Qurrota Ayu",
+      "nip": null,
+      "kelas": "7F",
+      "gender": "P",
+      "username": "zahraqurrotaayu",
+      "email": "zahraqurrotaayu@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alvan Dwi Saputra",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "alvandwisaputra",
+      "email": "alvandwisaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alvin Trian Saputra",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "alvintriansaputra",
+      "email": "alvintriansaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Angga Haryanto",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "anggaharyanto",
+      "email": "anggaharyanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Bastian Eka Ramadhani",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "bastianekaramadhani",
+      "email": "bastianekaramadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Cahaya",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "cahaya",
+      "email": "cahaya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Daffa Aska Saputra",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "daffaaskasaputra",
+      "email": "daffaaskasaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Danu Prayitno",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "danuprayitno",
+      "email": "danuprayitno@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Defan Arya Pratama",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "defanaryapratama",
+      "email": "defanaryapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dinar Valencia Darwanto",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "dinarvalenciadarwanto",
+      "email": "dinarvalenciadarwanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Elsa Safira",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "elsasafira",
+      "email": "elsasafira@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Galang Irsyadul Anam",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "galangirsyadulanam",
+      "email": "galangirsyadulanam@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ifani Olivia",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "ifaniolivia",
+      "email": "ifaniolivia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jesika Gracya Indry",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "jesikagracyaindry",
+      "email": "jesikagracyaindry@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lovvera Putri Pramana",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "lovveraputripramana",
+      "email": "lovveraputripramana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Monica Hidayatul Husna",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "monicahidayatulhusna",
+      "email": "monicahidayatulhusna@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "muhammad",
+      "email": "muhammad@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Alvino Maulana",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "muhammadalvinomaulana",
+      "email": "muhammadalvinomaulana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Rifqy Taufiqur Rohman",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "muhammadrifqytaufiqurrohman",
+      "email": "muhammadrifqytaufiqurrohman@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nizam Isti Pangutama",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "nizamistipangutama",
+      "email": "nizamistipangutama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nizam Kurniawan",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "nizamkurniawan",
+      "email": "nizamkurniawan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Parel",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "parel",
+      "email": "parel@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Pita Sari",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "pitasari",
+      "email": "pitasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rafael Ervano Putra Pradana",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "rafaelervanoputrapradana",
+      "email": "rafaelervanoputrapradana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rifky Saputra",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "rifkysaputra",
+      "email": "rifkysaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ringgo Adi Puro",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "ringgoadipuro",
+      "email": "ringgoadipuro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Serly Cahya Ningrum",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "serlycahyaningrum",
+      "email": "serlycahyaningrum@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Shyfa Oktaviani",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "shyfaoktaviani",
+      "email": "shyfaoktaviani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Siti Nadia Sariwha",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "sitinadiasariwha",
+      "email": "sitinadiasariwha@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Syafira Gustina Rahmadhani",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "syafiragustinarahmadhani",
+      "email": "syafiragustinarahmadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Toni Dwi Ardiyanto",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "L",
+      "username": "tonidwiardiyanto",
+      "email": "tonidwiardiyanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wisma Nur Prisca",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "wismanurprisca",
+      "email": "wismanurprisca@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Yana Vila Wulandari",
+      "nip": null,
+      "kelas": "8A",
+      "gender": "P",
+      "username": "yanavilawulandari",
+      "email": "yanavilawulandari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Afika Purba Ningrum",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "afikapurbaningrum",
+      "email": "afikapurbaningrum@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Agustina Ramadani",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "agustinaramadani",
+      "email": "agustinaramadani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ahmad Yazit Al Hasan",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "ahmadyazitalhasan",
+      "email": "ahmadyazitalhasan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Annafi' Milkhati Azka",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "annafimilkhatiazka",
+      "email": "annafimilkhatiazka@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Assyfa Bebhi Cellometha Mahardika",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "assyfabebhicellomethamahardika",
+      "email": "assyfabebhicellomethamahardika@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aurel Sherrin Angelyna",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "aurelsherrinangelyna",
+      "email": "aurelsherrinangelyna@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Az Zahra Meiza Putri",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "azzahrameizaputri",
+      "email": "azzahrameizaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Candra Al Kazin",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "candraalkazin",
+      "email": "candraalkazin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Feri Kurniawan",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "ferikurniawan",
+      "email": "ferikurniawan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Findo Orie Luthfiana",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "findoorieluthfiana",
+      "email": "findoorieluthfiana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Harlan Fadilah",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "harlanfadilah",
+      "email": "harlanfadilah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "I Putu Yoga Swara Jati",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "iputuyogaswarajati",
+      "email": "iputuyogaswarajati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jessica Alfianti",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "jessicaalfianti",
+      "email": "jessicaalfianti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Laras Anugrah Handayani",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "larasanugrahhandayani",
+      "email": "larasanugrahhandayani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Letisya Putri Atalista",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "letisyaputriatalista",
+      "email": "letisyaputriatalista@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Luki Cahya Giya Permana",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "lukicahyagiyapermana",
+      "email": "lukicahyagiyapermana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Marcelino",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "marcelino",
+      "email": "marcelino@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mayliza Cintya Perdana",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "maylizacintyaperdana",
+      "email": "maylizacintyaperdana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Melati Rahmadhani",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "melatirahmadhani",
+      "email": "melatirahmadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Daffa",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "muhammaddaffa",
+      "email": "muhammaddaffa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Nur Wahyudi",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "muhammadnurwahyudi",
+      "email": "muhammadnurwahyudi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nadifa Khiar Syalsabila",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "nadifakhiarsyalsabila",
+      "email": "nadifakhiarsyalsabila@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Prifaurel Deva Anggara",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "prifaureldevaanggara",
+      "email": "prifaureldevaanggara@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rahma Khoiriya Sabila",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "rahmakhoiriyasabila",
+      "email": "rahmakhoiriyasabila@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Raka Pratama Hermawan",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "rakapratamahermawan",
+      "email": "rakapratamahermawan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rendi Reza Maulana",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "rendirezamaulana",
+      "email": "rendirezamaulana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Reza Ryan Aditia Pratama",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "rezaryanaditiapratama",
+      "email": "rezaryanaditiapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Riska Aprilia Saputri",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "riskaapriliasaputri",
+      "email": "riskaapriliasaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Vernando Satria Wicaksana",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "L",
+      "username": "vernandosatriawicaksana",
+      "email": "vernandosatriawicaksana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wittri Nur Halimah",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "wittrinurhalimah",
+      "email": "wittrinurhalimah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Yohana Cahyaningtyas",
+      "nip": null,
+      "kelas": "8B",
+      "gender": "P",
+      "username": "yohanacahyaningtyas",
+      "email": "yohanacahyaningtyas@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Adam Fauzan",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "adamfauzan",
+      "email": "adamfauzan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Afrilia Dwi Safana",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "afriliadwisafana",
+      "email": "afriliadwisafana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aldi Dwi Sutrisno",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "aldidwisutrisno",
+      "email": "aldidwisutrisno@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Angelina Natasya Setyawan",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "angelinanatasyasetyawan",
+      "email": "angelinanatasyasetyawan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ani Saputri Yani",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "anisaputriyani",
+      "email": "anisaputriyani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Azzahra Kirana Putri",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "azzahrakiranaputri",
+      "email": "azzahrakiranaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Cladello Nadira Aqila",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "cladellonadiraaqila",
+      "email": "cladellonadiraaqila@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Clarisa Caesaria Putri",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "clarisacaesariaputri",
+      "email": "clarisacaesariaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Delta Oktalistia Pratama",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "deltaoktalistiapratama",
+      "email": "deltaoktalistiapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Destina Qaila Saputri",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "destinaqailasaputri",
+      "email": "destinaqailasaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Devira Putri Permatasari",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "deviraputripermatasari",
+      "email": "deviraputripermatasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dhanisar Qurrota 'Ayun",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "dhanisarqurrotaayun",
+      "email": "dhanisarqurrotaayun@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ega Aji Saputra",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "egaajisaputra",
+      "email": "egaajisaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Eriska Deswita Sari",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "eriskadeswitasari",
+      "email": "eriskadeswitasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fadhil Amirul Hafizh",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "fadhilamirulhafizh",
+      "email": "fadhilamirulhafizh@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Galuh Indri Kusuma Wardani",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "galuhindrikusumawardani",
+      "email": "galuhindrikusumawardani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gressia Prelista Rere Aulia",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "gressiaprelistarereaulia",
+      "email": "gressiaprelistarereaulia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Hasta Nur Handhoko",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "hastanurhandhoko",
+      "email": "hastanurhandhoko@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Iqbal Fauzi",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "iqbalfauzi",
+      "email": "iqbalfauzi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Irfan Prakoso",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "irfanprakoso",
+      "email": "irfanprakoso@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Meisya Nur Fitriyani",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "meisyanurfitriyani",
+      "email": "meisyanurfitriyani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Melfika Hafianingrum",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "melfikahafianingrum",
+      "email": "melfikahafianingrum@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhamad Alfiyanto",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "muhamadalfiyanto",
+      "email": "muhamadalfiyanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Damarul Ardhi",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "muhammaddamarulardhi",
+      "email": "muhammaddamarulardhi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Qoirul Ikhbal Pratama",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "muhammadqoirulikhbalpratama",
+      "email": "muhammadqoirulikhbalpratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mycella Renata Nailal Izza",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "mycellarenatanailalizza",
+      "email": "mycellarenatanailalizza@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rafiq Zayyan Biliantara",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "rafiqzayyanbiliantara",
+      "email": "rafiqzayyanbiliantara@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ratih Sekar Mutiara",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "ratihsekarmutiara",
+      "email": "ratihsekarmutiara@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ryzki Tri Cahyono",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "ryzkitricahyono",
+      "email": "ryzkitricahyono@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Siva Putri Ramadhani",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "sivaputriramadhani",
+      "email": "sivaputriramadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sri Haryanto",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "L",
+      "username": "sriharyanto",
+      "email": "sriharyanto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Vita Pervita Sari",
+      "nip": null,
+      "kelas": "8C",
+      "gender": "P",
+      "username": "vitapervitasari",
+      "email": "vitapervitasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aini Feby Nurfadila",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "ainifebynurfadila",
+      "email": "ainifebynurfadila@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ais Hidaya Tulloh",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "aishidayatulloh",
+      "email": "aishidayatulloh@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Allika Zahra Novianti",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "allikazahranovianti",
+      "email": "allikazahranovianti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Amelia Nur Hidayah",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "amelianurhidayah",
+      "email": "amelianurhidayah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ananda Putri Natasya",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "anandaputrinatasya",
+      "email": "anandaputrinatasya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ardeona Zefanya Ristin",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "ardeonazefanyaristin",
+      "email": "ardeonazefanyaristin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Caca Agustina",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "cacaagustina",
+      "email": "cacaagustina@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dante Yudias Lovri Sinatria",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "danteyudiaslovrisinatria",
+      "email": "danteyudiaslovrisinatria@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dewi Sulastri",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "dewisulastri",
+      "email": "dewisulastri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dinar Arin Arannita",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "dinararinarannita",
+      "email": "dinararinarannita@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Doni Azril Anandhita",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "doniazrilanandhita",
+      "email": "doniazrilanandhita@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fahmi Ridani",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "fahmiridani",
+      "email": "fahmiridani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Faiz Aditya",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "faizaditya",
+      "email": "faizaditya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fuji Rahma Wati",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "fujirahmawati",
+      "email": "fujirahmawati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Genio Geatama",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "geniogeatama",
+      "email": "geniogeatama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Keysha Indriani",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "keyshaindriani",
+      "email": "keyshaindriani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Khalisa Naura Athifa",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "khalisanauraathifa",
+      "email": "khalisanauraathifa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Marsel Defano",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "marseldefano",
+      "email": "marseldefano@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Abdulah Gafur",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "muhammadabdulahgafur",
+      "email": "muhammadabdulahgafur@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Av Rizal Ferdiyansah Pratama",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "muhammadavrizalferdiyansahpratama",
+      "email": "muhammadavrizalferdiyansahpratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Rifqi",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "muhammadrifqi",
+      "email": "muhammadrifqi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nova Antomy",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "novaantomy",
+      "email": "novaantomy@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Novandra Wahyu Putra",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "novandrawahyuputra",
+      "email": "novandrawahyuputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Oliffia Renawati",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "oliffiarenawati",
+      "email": "oliffiarenawati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rafif Fa'Is Fadlu Rahman",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "rafiffaisfadlurahman",
+      "email": "rafiffaisfadlurahman@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rio Dwi Pauzi",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "riodwipauzi",
+      "email": "riodwipauzi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sandika Daviansyah",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "L",
+      "username": "sandikadaviansyah",
+      "email": "sandikadaviansyah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Shasa Febriani Puteri",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "shasafebrianiputeri",
+      "email": "shasafebrianiputeri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Shavina Mey Hardikna",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "shavinameyhardikna",
+      "email": "shavinameyhardikna@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Thania Gitacahyani",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "thaniagitacahyani",
+      "email": "thaniagitacahyani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Umi Atika April Lia",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "umiatikaaprillia",
+      "email": "umiatikaaprillia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Vina Latifatul Ulya",
+      "nip": null,
+      "kelas": "8D",
+      "gender": "P",
+      "username": "vinalatifatululya",
+      "email": "vinalatifatululya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Affifuddin Zuhut",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "affifuddinzuhut",
+      "email": "affifuddinzuhut@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Amir Syarifuddin",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "amirsyarifuddin",
+      "email": "amirsyarifuddin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ananda Eka Ramadhan",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "anandaekaramadhan",
+      "email": "anandaekaramadhan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Andhika Bagus Purnama",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "andhikabaguspurnama",
+      "email": "andhikabaguspurnama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Andini Oktaviana Putri",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "andinioktavianaputri",
+      "email": "andinioktavianaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Anisa Ananda Muji Lestari",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "anisaanandamujilestari",
+      "email": "anisaanandamujilestari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aria Dwi Putra",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "ariadwiputra",
+      "email": "ariadwiputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aulia Lutfi Arifah",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "aulialutfiarifah",
+      "email": "aulialutfiarifah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aziz Farhan Saputra",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "azizfarhansaputra",
+      "email": "azizfarhansaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Azka Diego Dentama Wapryw",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "azkadiegodentamawapryw",
+      "email": "azkadiegodentamawapryw@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Evan Gading Prasetiyo",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "evangadingprasetiyo",
+      "email": "evangadingprasetiyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Faradila Khoirunnisa",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "faradilakhoirunnisa",
+      "email": "faradilakhoirunnisa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Farhan Nurhuda",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "farhannurhuda",
+      "email": "farhannurhuda@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Herlita Putri",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "herlitaputri",
+      "email": "herlitaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ika Nurhini",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "ikanurhini",
+      "email": "ikanurhini@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Keyla Nur Kristian",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "keylanurkristian",
+      "email": "keylanurkristian@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kharisna Ulinuha Ma'Aruf",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "kharisnaulinuhamaaruf",
+      "email": "kharisnaulinuhamaaruf@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lasni Masrifah",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "lasnimasrifah",
+      "email": "lasnimasrifah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lethysia Novians Dwi Maora",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "lethysianoviansdwimaora",
+      "email": "lethysianoviansdwimaora@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lohan Dwi Pratama",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "lohandwipratama",
+      "email": "lohandwipratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Edo Wahyu Anizar",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "muhammadedowahyuanizar",
+      "email": "muhammadedowahyuanizar@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Hamid Prastyo",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "muhammadhamidprastyo",
+      "email": "muhammadhamidprastyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Sanjaya",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "muhammadsanjaya",
+      "email": "muhammadsanjaya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nilam Cahya Mahera",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "nilamcahyamahera",
+      "email": "nilamcahyamahera@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nurul Wahyu Hidayat",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "nurulwahyuhidayat",
+      "email": "nurulwahyuhidayat@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Reyhan Sandi Attallah",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "L",
+      "username": "reyhansandiattallah",
+      "email": "reyhansandiattallah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rifka Fauzia",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "rifkafauzia",
+      "email": "rifkafauzia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Salsabila Nadhifa Fitri",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "salsabilanadhifafitri",
+      "email": "salsabilanadhifafitri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Syahrila Anggraini",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "syahrilaanggraini",
+      "email": "syahrilaanggraini@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Titi Qamariah",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "titiqamariah",
+      "email": "titiqamariah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wahyu Putri Agustin",
+      "nip": null,
+      "kelas": "8E",
+      "gender": "P",
+      "username": "wahyuputriagustin",
+      "email": "wahyuputriagustin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Achmad Khoirul Umam",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "achmadkhoirulumam",
+      "email": "achmadkhoirulumam@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ajeng Intan Wijayanti",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "ajengintanwijayanti",
+      "email": "ajengintanwijayanti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aldo Putra Pratama",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "aldoputrapratama",
+      "email": "aldoputrapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alivia Zema Rayhana",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "aliviazemarayhana",
+      "email": "aliviazemarayhana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ananda Sifa Norjanah",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "anandasifanorjanah",
+      "email": "anandasifanorjanah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Annisaa Puji Lestari",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "annisaapujilestari",
+      "email": "annisaapujilestari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aryani Hermawan",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "aryanihermawan",
+      "email": "aryanihermawan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Asta Ananta Saputra",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "astaanantasaputra",
+      "email": "astaanantasaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Catur Lintang Katulistiwa",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "caturlintangkatulistiwa",
+      "email": "caturlintangkatulistiwa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Citra Karisma",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "citrakarisma",
+      "email": "citrakarisma@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Danur Wenda Nurohmat",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "danurwendanurohmat",
+      "email": "danurwendanurohmat@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Denta Saputra",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "dentasaputra",
+      "email": "dentasaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dhea Wahyu Pujiantari",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "dheawahyupujiantari",
+      "email": "dheawahyupujiantari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dwi Wahyu Saputri",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "dwiwahyusaputri",
+      "email": "dwiwahyusaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fatkhul Rizki Romadhoni",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "fatkhulrizkiromadhoni",
+      "email": "fatkhulrizkiromadhoni@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gabryel Febryanugrah Eprillio",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "gabryelfebryanugraheprillio",
+      "email": "gabryelfebryanugraheprillio@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gita Macelina",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "gitamacelina",
+      "email": "gitamacelina@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kaila Nareswari",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "kailanareswari",
+      "email": "kailanareswari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Abdul Halim",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "muhammadabdulhalim",
+      "email": "muhammadabdulhalim@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Berliano Ajijaya",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "muhammadberlianoajijaya",
+      "email": "muhammadberlianoajijaya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mukhammad Rehan Pratama",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "mukhammadrehanpratama",
+      "email": "mukhammadrehanpratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nayla Imaniar",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "naylaimaniar",
+      "email": "naylaimaniar@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Novan Anggara Vitho Aji",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "novananggaravithoaji",
+      "email": "novananggaravithoaji@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Perla Permata Azka",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "perlapermataazka",
+      "email": "perlapermataazka@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Reviansyah Fakhri Al Abbas",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "L",
+      "username": "reviansyahfakhrialabbas",
+      "email": "reviansyahfakhrialabbas@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sielsilya Nur Maharany",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "sielsilyanurmaharany",
+      "email": "sielsilyanurmaharany@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Silma Hasanah",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "silmahasanah",
+      "email": "silmahasanah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Siti Maryam",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "sitimaryam",
+      "email": "sitimaryam@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Thara Berliana Putri",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "tharaberlianaputri",
+      "email": "tharaberlianaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Tsalsa Ayu Ramadhani",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "tsalsaayuramadhani",
+      "email": "tsalsaayuramadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Zahra Novani",
+      "nip": null,
+      "kelas": "8F",
+      "gender": "P",
+      "username": "zahranovani",
+      "email": "zahranovani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Abellino Azam Pamungkas",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "abellinoazampamungkas",
+      "email": "abellinoazampamungkas@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ahmad Bayu Saputro",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "ahmadbayusaputro",
+      "email": "ahmadbayusaputro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aira Oktavia Pratama",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "airaoktaviapratama",
+      "email": "airaoktaviapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Amanda Bintang Purbalingga",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "amandabintangpurbalingga",
+      "email": "amandabintangpurbalingga@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ami Lotus Sovia",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "amilotussovia",
+      "email": "amilotussovia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Andika Bagus Nugroho",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "andikabagusnugroho",
+      "email": "andikabagusnugroho@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Andrian Bagus Abimanyu",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "andrianbagusabimanyu",
+      "email": "andrianbagusabimanyu@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ardyan Syahputra",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "ardyansyahputra",
+      "email": "ardyansyahputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Arlin Yulianto",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "arlinyulianto",
+      "email": "arlinyulianto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aura Nazla Alzarin",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "auranazlaalzarin",
+      "email": "auranazlaalzarin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Calista Itisya Despriyana",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "calistaitisyadespriyana",
+      "email": "calistaitisyadespriyana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Cika Aurel Cintya Bella",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "cikaaurelcintyabella",
+      "email": "cikaaurelcintyabella@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Devi Pramesti",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "devipramesti",
+      "email": "devipramesti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ditmar Rohmadani",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "ditmarrohmadani",
+      "email": "ditmarrohmadani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fiska Ayu Febriyanti",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "fiskaayufebriyanti",
+      "email": "fiskaayufebriyanti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gita Rahma Fitri Anna",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "gitarahmafitrianna",
+      "email": "gitarahmafitrianna@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kaswina Marta Aulia",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "kaswinamartaaulia",
+      "email": "kaswinamartaaulia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kenzora Abas Pratama",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "kenzoraabaspratama",
+      "email": "kenzoraabaspratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Khusnus Sulaiman",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "khusnussulaiman",
+      "email": "khusnussulaiman@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kurnilia Citra Kalistha",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "kurniliacitrakalistha",
+      "email": "kurniliacitrakalistha@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Alif Oktavian",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "muhammadalifoktavian",
+      "email": "muhammadalifoktavian@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Odri Fahrizal Jaelani",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "odrifahrizaljaelani",
+      "email": "odrifahrizaljaelani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Reno Dwi Saputra",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "renodwisaputra",
+      "email": "renodwisaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ristiana Rosyidah",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "ristianarosyidah",
+      "email": "ristianarosyidah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Subhan",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "subhan",
+      "email": "subhan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sukhron Khoirudin Saputra",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "sukhronkhoirudinsaputra",
+      "email": "sukhronkhoirudinsaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Vanesa Pratama Putri",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "P",
+      "username": "vanesapratamaputri",
+      "email": "vanesapratamaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Zhadefka Falstyan Hafkhatama",
+      "nip": null,
+      "kelas": "9A",
+      "gender": "L",
+      "username": "zhadefkafalstyanhafkhatama",
+      "email": "zhadefkafalstyanhafkhatama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Afwan Maulana Azidan",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "afwanmaulanaazidan",
+      "email": "afwanmaulanaazidan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ahmad Nasiruddin",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "ahmadnasiruddin",
+      "email": "ahmadnasiruddin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Akbar Alamsyah",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "akbaralamsyah",
+      "email": "akbaralamsyah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alzenas Sinatria Widhiantoro",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "alzenassinatriawidhiantoro",
+      "email": "alzenassinatriawidhiantoro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Andika Perdana",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "andikaperdana",
+      "email": "andikaperdana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Angga Rolanzah",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "anggarolanzah",
+      "email": "anggarolanzah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Azzahra Asyla",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "azzahraasyla",
+      "email": "azzahraasyla@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Bilal Musthofa Wicaksono",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "bilalmusthofawicaksono",
+      "email": "bilalmusthofawicaksono@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Citra Sena",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "citrasena",
+      "email": "citrasena@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Daniel Dewa Borja",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "danieldewaborja",
+      "email": "danieldewaborja@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dava Julianto",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "davajulianto",
+      "email": "davajulianto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Desica Anastasya",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "desicaanastasya",
+      "email": "desicaanastasya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Elsa Yuliani",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "elsayuliani",
+      "email": "elsayuliani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fachrul Ladi Pratama",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "fachrulladipratama",
+      "email": "fachrulladipratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fisa Sabrina",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "fisasabrina",
+      "email": "fisasabrina@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fivee Karisma Nur Jum'Ah",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "fiveekarismanurjumah",
+      "email": "fiveekarismanurjumah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Iza Hanif Hudin",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "izahanifhudin",
+      "email": "izahanifhudin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kadek Sipa Mulyani",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "kadeksipamulyani",
+      "email": "kadeksipamulyani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Krisfalerin Ovila Nirwana",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "krisfalerinovilanirwana",
+      "email": "krisfalerinovilanirwana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lailatun Navisah",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "lailatunnavisah",
+      "email": "lailatunnavisah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Margaretha Elsi Zevania",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "margarethaelsizevania",
+      "email": "margarethaelsizevania@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhamad Reihan Dwi Prasetyo",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "muhamadreihandwiprasetyo",
+      "email": "muhamadreihandwiprasetyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Akbar",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "muhammadakbar",
+      "email": "muhammadakbar@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Restu Nur Cahyo",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "muhammadrestunurcahyo",
+      "email": "muhammadrestunurcahyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Resita Dinar Indira Putri",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "resitadinarindiraputri",
+      "email": "resitadinarindiraputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ridho Saputro",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "ridhosaputro",
+      "email": "ridhosaputro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Shendy Putra Atrian",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "L",
+      "username": "shendyputraatrian",
+      "email": "shendyputraatrian@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Susi Trisnawati",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "susitrisnawati",
+      "email": "susitrisnawati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Tamara",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "tamara",
+      "email": "tamara@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Vellicia Asmyranda",
+      "nip": null,
+      "kelas": "9B",
+      "gender": "P",
+      "username": "velliciaasmyranda",
+      "email": "velliciaasmyranda@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Abdulghany Alfath Kayana Putra",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "abdulghanyalfathkayanaputra",
+      "email": "abdulghanyalfathkayanaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Adea Beautiva Fury",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "adeabeautivafury",
+      "email": "adeabeautivafury@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aditya Putra Pratama",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "adityaputrapratama",
+      "email": "adityaputrapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alza Sabian Utama",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "alzasabianutama",
+      "email": "alzasabianutama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aminatuz Zahro",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "aminatuzzahro",
+      "email": "aminatuzzahro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Angel Lisa Bearnanda",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "angellisabearnanda",
+      "email": "angellisabearnanda@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Bulan Alviany Flora Prayitno",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "bulanalvianyfloraprayitno",
+      "email": "bulanalvianyfloraprayitno@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dafit Ardiansyah",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "dafitardiansyah",
+      "email": "dafitardiansyah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Devi Ayu Rosyidah",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "deviayurosyidah",
+      "email": "deviayurosyidah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dwi Ashiyam Murni",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "dwiashiyammurni",
+      "email": "dwiashiyammurni@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Edo Prasetyo",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "edoprasetyo",
+      "email": "edoprasetyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Fitri Kumalah Sari",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "fitrikumalahsari",
+      "email": "fitrikumalahsari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Herdian Dwi Pangga",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "herdiandwipangga",
+      "email": "herdiandwipangga@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jawahirul Anwar",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "jawahirulanwar",
+      "email": "jawahirulanwar@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Katon Putra Santoso",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "katonputrasantoso",
+      "email": "katonputrasantoso@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lilian Putri Prayoga",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "lilianputriprayoga",
+      "email": "lilianputriprayoga@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Marcel Tio Nugroho",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "marceltionugroho",
+      "email": "marceltionugroho@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Abdul Khoerul Mualimin",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "muhammadabdulkhoerulmualimin",
+      "email": "muhammadabdulkhoerulmualimin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Lutfhi Abdul Dzaki",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "muhammadlutfhiabduldzaki",
+      "email": "muhammadlutfhiabduldzaki@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Wildan",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "muhammadwildan",
+      "email": "muhammadwildan@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mukhtar Aly Kusuma",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "mukhtaralykusuma",
+      "email": "mukhtaralykusuma@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nazdifa Khoirunnisa",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "nazdifakhoirunnisa",
+      "email": "nazdifakhoirunnisa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nevan Fabian Ardhani",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "nevanfabianardhani",
+      "email": "nevanfabianardhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nia Maharani",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "niamaharani",
+      "email": "niamaharani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nurul Dwi Murti Rahayu",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "nuruldwimurtirahayu",
+      "email": "nuruldwimurtirahayu@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Olivia Puspita Ramadhani",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "oliviapuspitaramadhani",
+      "email": "oliviapuspitaramadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rizky Pratama",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "rizkypratama",
+      "email": "rizkypratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Tomi Yuda Pratama",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "tomiyudapratama",
+      "email": "tomiyudapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Windy Rara Rahmawati",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "windyrararahmawati",
+      "email": "windyrararahmawati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Yopi Ananda Pratama",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "L",
+      "username": "yopianandapratama",
+      "email": "yopianandapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Zahilda Putri Rihanna",
+      "nip": null,
+      "kelas": "9C",
+      "gender": "P",
+      "username": "zahildaputririhanna",
+      "email": "zahildaputririhanna@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ahmad Izam Munajat",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "ahmadizammunajat",
+      "email": "ahmadizammunajat@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aisah Siva Nabila",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "aisahsivanabila",
+      "email": "aisahsivanabila@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ananda Fitri Sevtiana",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "anandafitrisevtiana",
+      "email": "anandafitrisevtiana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Andhika Yatin",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "andhikayatin",
+      "email": "andhikayatin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Angel Arista Datama",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "angelaristadatama",
+      "email": "angelaristadatama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ashiilah Khairun Nisa",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "ashiilahkhairunnisa",
+      "email": "ashiilahkhairunnisa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Devan Putra Erlangga",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "devanputraerlangga",
+      "email": "devanputraerlangga@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dian Ayuk Susilowati",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "dianayuksusilowati",
+      "email": "dianayuksusilowati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dwi Saputro",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "dwisaputro",
+      "email": "dwisaputro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dwy Aditya Arman Maulana",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "dwyadityaarmanmaulana",
+      "email": "dwyadityaarmanmaulana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Eva Aprilia Savana",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "evaapriliasavana",
+      "email": "evaapriliasavana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gilang Angga Kusuma",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "gilanganggakusuma",
+      "email": "gilanganggakusuma@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Hanifa Putri Ramadani",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "hanifaputriramadani",
+      "email": "hanifaputriramadani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Heafen Tesar Saputra",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "heafentesarsaputra",
+      "email": "heafentesarsaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Inis Septian Amelia Putri",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "inisseptianameliaputri",
+      "email": "inisseptianameliaputri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lintang Kinanti",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "lintangkinanti",
+      "email": "lintangkinanti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Luthfi Inayatul Laili",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "luthfiinayatullaili",
+      "email": "luthfiinayatullaili@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Mia Ayu Anggraini",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "miaayuanggraini",
+      "email": "miaayuanggraini@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Naufal Helmi Syahputra",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "naufalhelmisyahputra",
+      "email": "naufalhelmisyahputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nazal Pratama",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "nazalpratama",
+      "email": "nazalpratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Oktavian Yudha Pratama",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "oktavianyudhapratama",
+      "email": "oktavianyudhapratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rahma Arum Noer Fadillah",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "rahmaarumnoerfadillah",
+      "email": "rahmaarumnoerfadillah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rahma Kirana Dewi",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "rahmakiranadewi",
+      "email": "rahmakiranadewi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Riski Restu Pratama",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "riskirestupratama",
+      "email": "riskirestupratama@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Safi'I Ardiyansah",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "safiiardiyansah",
+      "email": "safiiardiyansah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Shelomita Dwi Aprilia",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "P",
+      "username": "shelomitadwiaprilia",
+      "email": "shelomitadwiaprilia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sholtan Masjid",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "sholtanmasjid",
+      "email": "sholtanmasjid@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Yayan Ervian",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "yayanervian",
+      "email": "yayanervian@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Yusuf Ali Mustofa",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "yusufalimustofa",
+      "email": "yusufalimustofa@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Yusuf Qomarudin",
+      "nip": null,
+      "kelas": "9D",
+      "gender": "L",
+      "username": "yusufqomarudin",
+      "email": "yusufqomarudin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Afda Brilian Ikfa'I",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "afdabrilianikfai",
+      "email": "afdabrilianikfai@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Afifah Mey Nur'Aini",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "afifahmeynuraini",
+      "email": "afifahmeynuraini@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Afika Novi Fitriana",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "afikanovifitriana",
+      "email": "afikanovifitriana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Afrizal Nur Isnaini",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "afrizalnurisnaini",
+      "email": "afrizalnurisnaini@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ahmad Misbahul Fajar",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "ahmadmisbahulfajar",
+      "email": "ahmadmisbahulfajar@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ainun Salsabila",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "ainunsalsabila",
+      "email": "ainunsalsabila@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Bayu Dwi Anggoro",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "bayudwianggoro",
+      "email": "bayudwianggoro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Cika Nur Seftiana",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "cikanurseftiana",
+      "email": "cikanurseftiana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Danang Tri Laksono",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "danangtrilaksono",
+      "email": "danangtrilaksono@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dhika Andra Maulana",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "dhikaandramaulana",
+      "email": "dhikaandramaulana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Dinda Elyvia",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "dindaelyvia",
+      "email": "dindaelyvia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Gayuh Dirgantoro Wijaya",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "gayuhdirgantorowijaya",
+      "email": "gayuhdirgantorowijaya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Hamdan Qibil Mu'Aafi",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "hamdanqibilmuaafi",
+      "email": "hamdanqibilmuaafi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Hera Galang Saputra",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "heragalangsaputra",
+      "email": "heragalangsaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Irhani Yulita Syahri",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "irhaniyulitasyahri",
+      "email": "irhaniyulitasyahri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jaelani Septiana",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "jaelaniseptiana",
+      "email": "jaelaniseptiana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jazilah Ayu Setiani",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "jazilahayusetiani",
+      "email": "jazilahayusetiani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Jovi Dwi Safitri",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "jovidwisafitri",
+      "email": "jovidwisafitri@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Kenjiro",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "kenjiro",
+      "email": "kenjiro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhamad Adetya Saputra",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "muhamadadetyasaputra",
+      "email": "muhamadadetyasaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Dafa Juliano",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "muhammaddafajuliano",
+      "email": "muhammaddafajuliano@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nesya Indah Setiyani",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "nesyaindahsetiyani",
+      "email": "nesyaindahsetiyani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nizam Ahmat Saputra",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "nizamahmatsaputra",
+      "email": "nizamahmatsaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ori Dimas Jon Harto",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "oridimasjonharto",
+      "email": "oridimasjonharto@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Pipit Winda Astuti",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "pipitwindaastuti",
+      "email": "pipitwindaastuti@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rela Anisia",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "relaanisia",
+      "email": "relaanisia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Revi Putri Cahyani",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "reviputricahyani",
+      "email": "reviputricahyani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sekar Cendani Candra Dewi",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "sekarcendanicandradewi",
+      "email": "sekarcendanicandradewi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Surya Adhi Saputra",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "L",
+      "username": "suryaadhisaputra",
+      "email": "suryaadhisaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Wahyu Denita",
+      "nip": null,
+      "kelas": "9E",
+      "gender": "P",
+      "username": "wahyudenita",
+      "email": "wahyudenita@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aditiya Eka Saputra",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "aditiyaekasaputra",
+      "email": "aditiyaekasaputra@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aditya Nur Salman Al Farisi",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "adityanursalmanalfarisi",
+      "email": "adityanursalmanalfarisi@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Agape Josiand",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "agapejosiand",
+      "email": "agapejosiand@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aidil Gagah Ramadhani",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "aidilgagahramadhani",
+      "email": "aidilgagahramadhani@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aisyah Nur Hidayah",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "aisyahnurhidayah",
+      "email": "aisyahnurhidayah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alda Mei Sela Wijanet",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "aldameiselawijanet",
+      "email": "aldameiselawijanet@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aldianto Nugroho",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "aldiantonugroho",
+      "email": "aldiantonugroho@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alfi Mey Zavira",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "alfimeyzavira",
+      "email": "alfimeyzavira@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Alsya Widya Agustin",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "alsyawidyaagustin",
+      "email": "alsyawidyaagustin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Amar Ari Aqillah",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "amarariaqillah",
+      "email": "amarariaqillah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Aulia Nur Nabila",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "aulianurnabila",
+      "email": "aulianurnabila@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Azhaar Nur Sila Wati",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "azhaarnursilawati",
+      "email": "azhaarnursilawati@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Bagas Rahmat Sholikin",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "bagasrahmatsholikin",
+      "email": "bagasrahmatsholikin@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Cheyffa Aulin Harytasari",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "cheyffaaulinharytasari",
+      "email": "cheyffaaulinharytasari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Chintya Zahra Nathaniela",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "chintyazahranathaniela",
+      "email": "chintyazahranathaniela@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Defa Hanung Prasetyo",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "defahanungprasetyo",
+      "email": "defahanungprasetyo@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ezra Mutiara",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "ezramutiara",
+      "email": "ezramutiara@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Giska Julia Aura Prameswari",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "giskajuliaauraprameswari",
+      "email": "giskajuliaauraprameswari@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ibnu Fabiansyah Alvaro",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "ibnufabiansyahalvaro",
+      "email": "ibnufabiansyahalvaro@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Isti Qomah",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "istiqomah",
+      "email": "istiqomah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Lintang Jauharotun Al Thof",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "lintangjauharotunalthof",
+      "email": "lintangjauharotunalthof@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Muhammad Khoirul Anam",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "muhammadkhoirulanam",
+      "email": "muhammadkhoirulanam@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nabiha Ilyas Dhiaurrahman",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "nabihailyasdhiaurrahman",
+      "email": "nabihailyasdhiaurrahman@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Nafiz Tegar Ilham Kusuma",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "nafiztegarilhamkusuma",
+      "email": "nafiztegarilhamkusuma@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Pratama Nurwakhid",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "pratamanurwakhid",
+      "email": "pratamanurwakhid@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rahma Oktavia",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "rahmaoktavia",
+      "email": "rahmaoktavia@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rifqy Raditya Budy",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "rifqyradityabudy",
+      "email": "rifqyradityabudy@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rima Siti Robbiah",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "rimasitirobbiah",
+      "email": "rimasitirobbiah@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rivaldi Nur Rahman",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "rivaldinurrahman",
+      "email": "rivaldinurrahman@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Rizka Dewi Cahyana",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "rizkadewicahyana",
+      "email": "rizkadewicahyana@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Ro'If Dana Fiya",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "L",
+      "username": "roifdanafiya",
+      "email": "roifdanafiya@school.local",
+      "role": "siswa"
+    },
+    {
+      "source": "student",
+      "nama": "Sherlyna Putri Rahmadani",
+      "nip": null,
+      "kelas": "9F",
+      "gender": "P",
+      "username": "sherlynaputrirahmadani",
+      "email": "sherlynaputrirahmadani@school.local",
+      "role": "siswa"
+    }
+  ]
+}

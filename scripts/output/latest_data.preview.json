@@ -1,0 +1,930 @@
+{
+  "summary": {
+    "sourceFile": "COMBINED DATA NAMA.xlsx",
+    "tahunAjaranId": "2025_2026",
+    "tahunAjaranNama": "2025/2026",
+    "semesterAktif": 1,
+    "defaultPasswordInput": "12345",
+    "defaultPasswordHash": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+    "passwordHashPrefix": "sha256$",
+    "passwordHashIterations": 3,
+    "totalSiswa": 551,
+    "totalGuru": 31,
+    "totalKemahasiswaan": 7,
+    "totalClasses": 18,
+    "totalUsers": 589,
+    "totalUserRoles": 592,
+    "totalGuruProfiles": 31,
+    "totalSiswaProfiles": 552,
+    "totalKelasSiswa": 551,
+    "totalHistoriKelasSiswa": 551,
+    "suronoRoles": [
+      "guru",
+      "kemahasiswaan",
+      "kepala_sekolah",
+      "siswa"
+    ]
+  },
+  "kelasPreview": [
+    {
+      "id": "2025_2026_7a",
+      "nama_kelas": "7A",
+      "tingkat": 7,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_7b",
+      "nama_kelas": "7B",
+      "tingkat": 7,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_7c",
+      "nama_kelas": "7C",
+      "tingkat": 7,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_7d",
+      "nama_kelas": "7D",
+      "tingkat": 7,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_7e",
+      "nama_kelas": "7E",
+      "tingkat": 7,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_7f",
+      "nama_kelas": "7F",
+      "tingkat": 7,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_8a",
+      "nama_kelas": "8A",
+      "tingkat": 8,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_8b",
+      "nama_kelas": "8B",
+      "tingkat": 8,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_8c",
+      "nama_kelas": "8C",
+      "tingkat": 8,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_8d",
+      "nama_kelas": "8D",
+      "tingkat": 8,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_8e",
+      "nama_kelas": "8E",
+      "tingkat": 8,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_8f",
+      "nama_kelas": "8F",
+      "tingkat": 8,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_9a",
+      "nama_kelas": "9A",
+      "tingkat": 9,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_9b",
+      "nama_kelas": "9B",
+      "tingkat": 9,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_9c",
+      "nama_kelas": "9C",
+      "tingkat": 9,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_9d",
+      "nama_kelas": "9D",
+      "tingkat": 9,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_9e",
+      "nama_kelas": "9E",
+      "tingkat": 9,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    },
+    {
+      "id": "2025_2026_9f",
+      "nama_kelas": "9F",
+      "tingkat": 9,
+      "wali_kelas_uid": null,
+      "tahun_ajaran_id": "2025_2026"
+    }
+  ],
+  "guruDanStaffPreview": [
+    {
+      "uid": "usr_0bc4c44ee72a58c761d889a6",
+      "nama": "Afifatun Nisa, S.pd",
+      "username": "afifatun",
+      "email": "afifatun@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "199404202022212015",
+        "nuptk": "4752772673230152",
+        "gender": "P",
+        "tempat_lahir": "SRAGEN",
+        "tanggal_lahir": "1994-04-20T00:00:00.000Z",
+        "golongan": "IX",
+        "alamat": "Tegalrejo RT.21 RW.07, Masaran, Sragen",
+        "status_pegawai": "P3K"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_adc45662756708cdfe224cbe",
+      "nama": "Agustinus Willy Anja K , S.pd",
+      "username": "agustinus",
+      "email": "agustinus@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "198508182020121008",
+        "nuptk": "2150763664130243",
+        "gender": "L",
+        "tempat_lahir": "BANTUL",
+        "tanggal_lahir": "1985-08-18T00:00:00.000Z",
+        "golongan": "III/A",
+        "alamat": "Gesikan RT.004/000, Wijirejo, Pandak, Bantul",
+        "status_pegawai": "PNS"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_f6787c7b61efadaab5e08827",
+      "nama": "Almeda Merdekawati Utami, S.pd",
+      "username": "almeda",
+      "email": "almeda@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "199502162024212043",
+        "nuptk": null,
+        "gender": "P",
+        "tempat_lahir": "SRAGEN",
+        "tanggal_lahir": "1995-02-16T00:00:00.000Z",
+        "golongan": "IX",
+        "alamat": "Jl.Irian Dukuhan RT.002 RW.004, Nglorog, Sragen",
+        "status_pegawai": "P3K"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_b8309006c51b55efd001d0de",
+      "nama": "Anindita Yuan Prabandari, S.pd",
+      "username": "anindita",
+      "email": "anindita@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": null,
+        "nuptk": null,
+        "gender": "P",
+        "tempat_lahir": "NGANJUK",
+        "tanggal_lahir": "1997-11-21T00:00:00.000Z",
+        "golongan": null,
+        "alamat": "Klandungan RT.009 RW.006, Klandungan, Ngrampal, Sragen",
+        "status_pegawai": "GTT"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_0ea52701135faa408cffa802",
+      "nama": "Ari Setyo Rini, S.pd",
+      "username": "ari",
+      "email": "ari@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "199302122022212021",
+        "nuptk": "3544771672230122",
+        "gender": "P",
+        "tempat_lahir": "SRAGEN",
+        "tanggal_lahir": "1993-02-12T00:00:00.000Z",
+        "golongan": "IX",
+        "alamat": "Gesi Rt.002/007, Gesi, Gesi, Sragen",
+        "status_pegawai": "P3K"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_40f3d7a8822d7d9ee4c608a9",
+      "nama": "Asih Yuliati, S.pd",
+      "username": "asih",
+      "email": "asih@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "197507222000032005",
+        "nuptk": "2054753654300043",
+        "gender": "P",
+        "tempat_lahir": "KARANG .ANYAR",
+        "tanggal_lahir": "1975-07-22T00:00:00.000Z",
+        "golongan": "IV/B",
+        "alamat": "Jomblang, RT.17, Dawung, Jenar, Sragen",
+        "status_pegawai": "PNS"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_38f336ad32d78f103b1d0db0",
+      "nama": "Bayu Sabtian Awinata, S.pd",
+      "username": "bayu",
+      "email": "bayu@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "198705022024211008",
+        "nuptk": "6834765667130282",
+        "gender": "L",
+        "tempat_lahir": "SRAGEN",
+        "tanggal_lahir": "1987-05-02T00:00:00.000Z",
+        "golongan": "IX",
+        "alamat": "Ngudimulyo,RT.01, Plumbon, Sb.Macan, Sragen",
+        "status_pegawai": "P3K"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_70a6dbcb44fef71613043ea6",
+      "nama": "Budi Setioko, S.pd",
+      "username": "budi",
+      "email": "budi@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "196905182014091002",
+        "nuptk": "5850747649200012",
+        "gender": "L",
+        "tempat_lahir": "TANGERANG",
+        "tanggal_lahir": "1969-05-18T00:00:00.000Z",
+        "golongan": "III/B",
+        "alamat": "Putat Asri RT.43, Kroyo, Karangmalang, Sragen",
+        "status_pegawai": "PNS"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_e08b822cc977b7fe982d8d4e",
+      "nama": "Cona Setiari, S.pd",
+      "username": "cona",
+      "email": "cona@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "199701312020121009",
+        "nuptk": "5463775676130022",
+        "gender": "L",
+        "tempat_lahir": "SRAGEN",
+        "tanggal_lahir": "1997-01-31T00:00:00.000Z",
+        "golongan": "III/A",
+        "alamat": "Nglombo RT.005/003, Tenggak, Sidoharjo, Sragen",
+        "status_pegawai": "PNS"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_e8d6e8444ead3ad18236a788",
+      "nama": "Danang Cahyono S, S.pd",
+      "username": "danang",
+      "email": "danang@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "197403182003121005",
+        "nuptk": "2649752653200002",
+        "gender": "L",
+        "tempat_lahir": "SRAGEN",
+        "tanggal_lahir": "1974-03-18T00:00:00.000Z",
+        "golongan": "III/D",
+        "alamat": "Rejowinangun, Masaran, Sragen",
+        "status_pegawai": "PNS"
+      },
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_cec7395703eaafe89c299e31",
+      "nama": "Darwati",
+      "username": "darwati",
+      "email": "darwati@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "kemahasiswaan",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "kemahasiswaan"
+      ],
+      "guruProfile": null,
+      "siswaProfile": null
+    },
+    {
+      "uid": "usr_be932654294416b5769b3930",
+      "nama": "Dwi Risdiyanto, S.pdi",
+      "username": "dwi",
+      "email": "dwi@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "guru",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "guru"
+      ],
+      "guruProfile": {
+        "uid": null,
+        "nip": "198112072011011004",
+        "nuptk": "1539759660120003",
+        "gender": "L",
+        "tempat_lahir": "SRAGEN",
+        "tanggal_lahir": "1981-12-07T00:00:00.000Z",
+        "golongan": "III/C",
+        "alamat": "Jengglong, Krebet, Masaran, Sragen",
+        "status_pegawai": "PNS"
+      },
+      "siswaProfile": null
+    }
+  ],
+  "siswaPreview": [
+    {
+      "uid": "usr_b4705553c2584915ac487b33",
+      "nama": "Adittia Nur Safa",
+      "username": "adittia",
+      "email": "adittia@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7866",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7866",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_038856795b92b058564df630",
+      "nama": "Aldi Dio Permana",
+      "username": "aldi",
+      "email": "aldi@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7872",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7872",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_3b05607136d8d7087ba2fa55",
+      "nama": "Arum Azizah Az Zahro",
+      "username": "arum",
+      "email": "arum@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7886",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7886",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_82dc1c6d28d75873203e7600",
+      "nama": "Atha Enesia Adivia",
+      "username": "atha",
+      "email": "atha@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7887",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7887",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_b1d92887356b36d03c616bb7",
+      "nama": "Aufar Ramadhani",
+      "username": "aufar",
+      "email": "aufar@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7888",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7888",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_bbac08176d9f3683e1cf1d4d",
+      "nama": "Aulia Muttaqina",
+      "username": "aulia",
+      "email": "aulia@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7891",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7891",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_62c4e8428b512bcab7e3872b",
+      "nama": "Auriel Vita Ayuani",
+      "username": "auriel",
+      "email": "auriel@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7892",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7892",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_017981bc7e8f1dcf923e0679",
+      "nama": "Ayu Rahma Lestari",
+      "username": "ayu",
+      "email": "ayu@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7894",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7894",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_f6687473a2401ae57b72b422",
+      "nama": "Danadyaksa Galin Untara",
+      "username": "danadyaksa",
+      "email": "danadyaksa@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7908",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7908",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_36fd40feda219328a4a5e0f1",
+      "nama": "Davian Divaga Pratama",
+      "username": "davian",
+      "email": "davian@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7910",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7910",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_7f697bcb8772f7376d49980c",
+      "nama": "Dea Prisyila Maharani",
+      "username": "dea",
+      "email": "dea@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7911",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7911",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_c6cdb8af3da8750970255cc9",
+      "nama": "Dinas Gilang Oktavian",
+      "username": "dinas",
+      "email": "dinas@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7917",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7917",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_85ffaab18110e058b7e87ca6",
+      "nama": "Dirly Pratika Arum",
+      "username": "dirly",
+      "email": "dirly@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7918",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7918",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_0480ea2fe097b870c8f95c87",
+      "nama": "Eka Ayudiya Karisma Putri",
+      "username": "eka",
+      "email": "eka@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7922",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7922",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_ef06ecbb81e0fb9a1a41162f",
+      "nama": "Frizzy Alfa Lutfiano",
+      "username": "frizzy",
+      "email": "frizzy@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7932",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7932",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_02e19275d57555978f25f618",
+      "nama": "Muhammad Rizqi Prastyo",
+      "username": "muhammad2",
+      "email": "muhammad2@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7970",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7970",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_1e563c88703ca980185b1316",
+      "nama": "Muhammad Yusup",
+      "username": "muhammad3",
+      "email": "muhammad3@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7974",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7974",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_97b2f0a575df7e1863d14bd3",
+      "nama": "Neifa Dara Pradana",
+      "username": "neifa",
+      "email": "neifa@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7980",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7980",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_d328c84dc87aabe88c192897",
+      "nama": "Nina Rahmawati",
+      "username": "nina",
+      "email": "nina@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7983",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7983",
+        "gender": "P",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    },
+    {
+      "uid": "usr_bfdb4f553f5688646d944087",
+      "nama": "Nuha Kavindra Danish",
+      "username": "nuha",
+      "email": "nuha@school.local",
+      "password": "sha256$c7975ed39a065a7af3e193949bd0271ee9ee83cb689161cef41de7bc41bd1333",
+      "role": "siswa",
+      "status": "aktif",
+      "active": true,
+      "roles": [
+        "siswa"
+      ],
+      "kelas": "7A",
+      "sourceKey": "7988",
+      "siswaProfile": {
+        "uid": null,
+        "nis": "7988",
+        "gender": "L",
+        "tempat_lahir": null,
+        "tanggal_lahir": null,
+        "alamat": null
+      }
+    }
+  ],
+  "studentsByClassCount": {
+    "7A": 30,
+    "7B": 31,
+    "7C": 30,
+    "7D": 29,
+    "7E": 30,
+    "7F": 30,
+    "8A": 32,
+    "8B": 31,
+    "8C": 32,
+    "8D": 32,
+    "8E": 32,
+    "8F": 31,
+    "9A": 28,
+    "9B": 30,
+    "9C": 31,
+    "9D": 30,
+    "9E": 30,
+    "9F": 32
+  }
+}

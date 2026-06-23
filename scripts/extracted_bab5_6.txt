@@ -1,0 +1,404 @@
+[Paragraph 406] Text: 'FR-14'
+
+[Paragraph 407] Text: 'Pengelolaan Absensi'
+
+[Paragraph 408] Text: 'Guru dapat menginput absensi siswa.'
+
+[Paragraph 409] Text: 'FR-15'
+
+[Paragraph 410] Text: 'Pengelolaan Nilai'
+
+[Paragraph 411] Text: 'Guru dapat input nilai UTS, input nilai UAS, dan edit nilai'
+
+[Paragraph 412] Text: 'FR-16'
+
+[Paragraph 413] Text: 'Pengelolaan Tugas'
+
+[Paragraph 414] Text: 'Guru dapat membuat tugas dan siswa dapat melihat tugas.'
+
+[Paragraph 415] Text: 'FR-17'
+
+[Paragraph 416] Text: 'Upload Administrasi Pembelajaran'
+
+[Paragraph 417] Text: 'Guru dapat mengunggah dokumen ke Supabase Storage yang berupa Silabus, Prota, Promes, dan RPP'
+
+[Paragraph 419] Text: 'FR-18'
+
+[Paragraph 420] Text: 'Verifikasi Administrasi'
+
+[Paragraph 421] Text: 'Kepala sekolah dapat memverifikasi dokumen administrasi guru.'
+
+[Paragraph 422] Text: 'FR-19'
+
+[Paragraph 423] Text: 'Monitoring Akademik'
+
+[Paragraph 424] Text: 'Kepala sekolah dapat melihat laporan jurnal, absensi, nilai, dan aktivitas guru'
+
+[Paragraph 426] Text: 'FR-20'
+
+[Paragraph 427] Text: 'Akses Informasi Akademik Siswa'
+
+[Paragraph 428] Text: 'Siswa dapat melihat nilai, jadwal, tugas, dan absensi'
+
+[Paragraph 430] Text: 'Berdasarkan kebutuhan fungsional tersebut, sistem dirancang untuk mendukung proses pengelolaan akademik secara terintegrasi mulai dari pengelolaan akun pengguna, jadwal pelajaran, absensi, jurnal pembelajaran, penilaian akademik, hingga monitoring aktivitas pembelajaran oleh kepala sekolah. Kebutuhan fungsional ini kemudian menjadi dasar dalam penyusunan model sistem menggunakan Use Case Diagram, BPMN, Flowchart, dan Entity Relationship Diagram pada tahap perancangan sistem berikutnya.'
+
+[Paragraph 431] Text: 'Non-Functional Requirements (NFR)'
+
+[Paragraph 432] Text: 'Selain kebutuhan fungsional, sistem juga memerlukan kebutuhan non-fungsional untuk memastikan bahwa sistem dapat berjalan secara optimal, aman, dan mudah digunakan oleh seluruh pengguna. Kebutuhan non-fungsional mencakup aspek keamanan, performa, ketersediaan sistem, kompatibilitas perangkat, serta pengelolaan data agar sistem mampu mendukung operasional akademik sekolah secara berkelanjutan. Rincian kebutuhan non-fungsional dapat dilihat pada Tabel 3.2 Non-Functional Requirements.'
+
+[Paragraph 433] Text: 'Tabel 3. 2 Non-Functional Requirements'
+
+[Paragraph 434] Text: 'Kode'
+
+[Paragraph 435] Text: 'Fitur'
+
+[Paragraph 436] Text: 'Deskripsi'
+
+[Paragraph 437] Text: 'FR-01'
+
+[Paragraph 438] Text: 'Security'
+
+[Paragraph 439] Text: 'Menggunakan Supabase Authentication Row Level Security Role Based Access Control'
+
+[Paragraph 440] Text: 'FR-02'
+
+[Paragraph 441] Text: 'Performance'
+
+[Paragraph 442] Text: 'Waktu respon < 3 detik.'
+
+[Paragraph 443] Text: 'FR-03'
+
+[Paragraph 444] Text: 'Availability'
+
+[Paragraph 445] Text: 'Sistem tersedia selama operasional sekolah.'
+
+[Paragraph 446] Text: 'FR-04'
+
+[Paragraph 447] Text: 'Scalability'
+
+[Paragraph 448] Text: 'Mampu menangani pertumbuhan data Siswa, guru, Kelas, nilai, jurnal'
+
+[Paragraph 449] Text: 'FR-05'
+
+[Paragraph 450] Text: 'Maintainability'
+
+[Paragraph 451] Text: 'Kode Flutter modular dan mudah dikembangkan.'
+
+[Paragraph 452] Text: 'FR-06'
+
+[Paragraph 453] Text: 'Data Integrity'
+
+[Paragraph 454] Text: 'Menjaga konsistensi data antar Jadwal, jurnal, absensi, nilai, dan kelas siswa'
+
+[Paragraph 455] Text: 'FR-07'
+
+[Paragraph 456] Text: 'Usability'
+
+[Paragraph 457] Text: 'UI mudah digunakan oleh guru dan sekolah.'
+
+[Paragraph 458] Text: 'FR-08'
+
+[Paragraph 459] Text: 'Compatibility'
+
+[Paragraph 460] Text: 'Berjalan pada Android.'
+
+[Paragraph 461] Text: 'FR-09'
+
+[Paragraph 462] Text: 'Backup & Recovery'
+
+[Paragraph 463] Text: 'Mendukung backup database.'
+
+[Paragraph 464] Text: 'FR-10'
+
+[Paragraph 465] Text: 'File Storage Reliability'
+
+[Paragraph 466] Text: 'Dokumen guru tersimpan aman di Supabase Storage.'
+
+[Paragraph 468] Text: 'Kebutuhan non-fungsional tersebut menjadi dasar dalam menentukan pendekatan teknologi yang digunakan pada sistem, yaitu Flutter sebagai framework pengembangan aplikasi mobile serta Supabase sebagai layanan backend yang mendukung autentikasi, penyimpanan data, keamanan akses, dan penyimpanan dokumen akademik secara terpusat.'
+
+[Paragraph 469] Text: 'Perancangan Sistem'
+
+[Paragraph 470] Text: 'Use Case Diagram'
+
+[Paragraph 471] Text: 'Berdasarkan hasil observasi dan wawancara dengan pihak SMP Negeri 1 Jenar, sistem yang diusulkan memiliki empat aktor utama yaitu kepala sekolah, guru, siswa, dan kesiswaan. Interaksi masing-masing aktor dengan sistem divisualisasikan melalui Use Case Diagram untuk menggambarkan hak akses dan fitur yang tersedia pada sistem. Use Case Diagram sistem informasi pengawasan Gambar 3. 2 Use Case DiagramGambar 3. 2 Use Case Diagramakademik dapat dilihat pada Gambar 3. 2 Use Case Diagram Sistem.'
+  -> IMAGE: rId16 -> media/image3.png
+
+[Paragraph 472] Text: 'Gambar 3. 2 Use Case Diagram'
+
+[Paragraph 473] Text: 'Gambar 3. 2 Use Case Diagram'
+
+[Paragraph 474] Text: 'Gambar 3. 3 BPMN Pengisian Jurnal dan AbsensiGambar 3. 3 BPMN Pengisian Jurnal dan AbsensiUntuk menggambarkan alur proses bisnis sistem yang diusulkan, digunakan Business Process Model and Notation (BPMN) pada proses utama sistem. BPMN digunakan untuk menunjukkan perubahan proses manual menjadi sistem digital yang lebih terintegrasi. Alur pengisian jurnal dan absensi dapat dilihat pada Gambar 3.3 BPMN Pengisian Jurnal dan Absensi, sedangkan pengelolaan jadwal pelajaran dapat dilihat pada Gambar 3.4 BPMN Pengelolaan Jadwal Pelajaran. Proses administrasi pembelajaran dapat dilihat pada Gambar 3.5 BPMN Administrasi Pembelajaran.'
+  -> IMAGE: rId17 -> media/image4.png
+
+[Paragraph 475] Text: 'Gambar 3. 3 BPMN Pengisian Jurnal dan Absensi'
+
+[Paragraph 476] Text: 'Gambar 3. 3 BPMN Pengisian Jurnal dan Absensi'
+
+[Paragraph 484] Text: 'Gambar 3. 4 BPMN Pengelolaan Jadwal PelajaranGambar 3. 4 BPMN Pengelolaan Jadwal Pelajaran'
+  -> IMAGE: rId18 -> media/image5.png
+
+[Paragraph 485] Text: 'Gambar 3. 4 BPMN Pengelolaan Jadwal Pelajaran'
+
+[Paragraph 486] Text: 'Gambar 3. 4 BPMN Pengelolaan Jadwal Pelajaran'
+
+[Paragraph 487] Text: 'Gambar 3. 5 BPMN Administrasi PembelajaranGambar 3. 5 BPMN Administrasi Pembelajaran '
+  -> IMAGE: rId19 -> media/image6.png
+
+[Paragraph 488] Text: 'Gambar 3. 5 BPMN Administrasi Pembelajaran'
+
+[Paragraph 489] Text: 'Gambar 3. 5 BPMN Administrasi Pembelajaran'
+
+[Paragraph 491] Text: 'Alur pengisian jurnal dan absensi pada Gambar 3. 3 dimulai dari guru yang memilih kelas dan mata pelajaran yang akan diajar. Setelah itu, guru mengisi materi pembelajaran, catatan pembelajaran, serta status kehadiran siswa. Data yang telah dimasukkan kemudian divalidasi oleh sistem. Apabila data sudah sesuai, sistem menyimpan jurnal dan absensi sehingga kepala sekolah dapat melakukan monitoring pembelajaran kelas berdasarkan data yang telah tercatat.'
+
+[Paragraph 492] Text: 'Alur pengelolaan jadwal pelajaran pada Gambar 3. 4 dimulai dari kepala sekolah yang memilih tahun ajaran, semester, guru, kelas, dan mata pelajaran. Setelah data jadwal dimasukkan, sistem melakukan validasi kelengkapan data serta pengecekan konflik jadwal. Jika tidak terdapat konflik, jadwal akan disimpan dan dapat dilihat oleh pengguna yang memiliki hak akses. Namun, jika terdapat konflik, sistem akan menampilkan kesalahan sehingga data jadwal perlu diperbaiki terlebih dahulu.'
+
+[Paragraph 493] Text: 'Alur administrasi pembelajaran pada Gambar 3. 5 dimulai dari guru yang memilih jenis dokumen, semester, dan file administrasi pembelajaran yang akan diunggah. Sistem kemudian melakukan validasi file. Jika file tidak valid, guru perlu memilih ulang file yang sesuai. Jika file valid, dokumen akan diunggah ke Supabase Storage, kemudian metadata dokumen disimpan dengan status verifikasi menunggu. Selanjutnya, kepala sekolah melakukan peninjauan dokumen. Apabila dokumen diterima, status akan berubah menjadi disetujui, sedangkan apabila ditolak, status akan berubah menjadi ditolak disertai catatan verifikasi.'
+
+[Paragraph 495] Text: 'Selain proses utama yang dibahas pada bagian ini, terdapat diagram BPMN pendukung yang tidak dijelaskan secara rinci agar pembahasan tetap terfokus pada proses inti sistem. Diagram BPMN proses login dan pengelolaan wali kelas dapat dilihat pada Lampiran A. '
+
+[Paragraph 496] Text: 'Flowchart'
+
+[Paragraph 497] Text: 'Selain BPMN, flowchart digunakan untuk menggambarkan alur logika proses pada fitur tertentu secara lebih detail. Flowchart pengelolaan nilai dapat dilihat pada Gambar 3. 6 Flowchart Pengelolaan Nilai, sedangkan flowchart administrasi pembelajaran dapat dilihat pada Gambar 3. 7 Flowchart Administrasi Pembelajaran.'
+
+[Paragraph 512] Text: 'Gambar 3. 6 Flowchart Pengelolaan NilaiGambar 3. 6 Flowchart Pengelolaan Nilai'
+  -> IMAGE: rId20 -> media/image7.png
+
+[Paragraph 513] Text: 'Gambar 3. 6 Flowchart Pengelolaan Nilai'
+
+[Paragraph 514] Text: 'Gambar 3. 6 Flowchart Pengelolaan Nilai'
+
+[Paragraph 515] Text: 'Gambar 3. 7 Flowchart Administrasi PembelajaranGambar 3. 7 Flowchart Administrasi Pembelajaran'
+  -> IMAGE: rId21 -> media/image8.png
+
+[Paragraph 516] Text: 'Gambar 3. 7 Flowchart Administrasi Pembelajaran'
+
+[Paragraph 517] Text: 'Gambar 3. 7 Flowchart Administrasi Pembelajaran'
+
+[Paragraph 520] Text: 'Flowchart tambahan yang menggambarkan proses login pengguna dan pengelolaan jadwal disajikan pada bagian lampiran sebagai dokumentasi teknis pendukung. Diagram tersebut dapat dilihat pada Lampiran B.'
+
+[Paragraph 521] Text: 'ERD'
+
+[Paragraph 522] Text: 'Perancangan basis data modul manajemen pengguna dilakukan untuk mengatur autentikasi dan otorisasi pengguna berdasarkan peran masing-masing. Relasi antara entitas user, guru, siswa, dan role dapat dilihat pada Gambar 3. 8 ERD Modul Pengguna.'
+[Paragraph 406] Text: 'BAB VPENGUJIAN'
+
+[Paragraph 407] Text: '5.1 Metode Pengujian'
+
+[Paragraph 408] Text: 'Pengujian yang disiapkan untuk aplikasi SinarBelajar adalah black-box testing. Metode ini berfokus pada pemeriksaan masukan dan keluaran fungsi tanpa melihat struktur internal kode. Pengujian black-box relevan untuk sistem informasi akademik karena setiap fitur dapat divalidasi berdasarkan skenario pengguna, seperti login, pemilihan role, input jurnal, input absensi, dan monitoring data. Referensi Muslimin dkk. (2020) serta Wulandari dkk. (2022) menunjukkan bahwa black-box testing dengan equivalence partitioning dapat digunakan untuk memeriksa validasi fungsi sistem informasi akademik.'
+
+[Paragraph 409] Text: 'Selain black-box testing, pengujian tambahan yang disarankan adalah widget test untuk memastikan tampilan awal aplikasi muncul dengan benar, serta User Acceptance Testing (UAT) bersama pengguna sekolah. Pada naskah draft ini, tabel hasil pengujian disiapkan sebagai format pengisian. Status akhir perlu diisi setelah pengujian dilakukan pada perangkat dan data sekolah.'
+
+[Paragraph 410] Text: '5.2 Lingkungan Pengujian'
+
+[Paragraph 411] Text: 'Spesifikasi perangkat keras dan perangkat lunak yang digunakan selama pelaksanaan pengujian sistem dirangkum dalam Tabel 5.1.'
+
+[Paragraph 412] Text: 'Tabel 5.1. Lingkungan pengujian'
+
+[Paragraph 413] Text: 'Komponen'
+
+[Paragraph 414] Text: 'Spesifikasi'
+
+[Paragraph 415] Text: 'Keterangan'
+
+[Paragraph 416] Text: 'Perangkat Dev'
+
+[Paragraph 417] Text: 'Laptop ASUS Vivobook AMD Ryzen 5, RAM 16GB'
+
+[Paragraph 418] Text: 'Menjalankan editor kode VS Code, Gradle, dan compiler Flutter.'
+
+[Paragraph 419] Text: 'Sistem Operasi'
+
+[Paragraph 420] Text: 'Windows 11 Home 64-bit'
+
+[Paragraph 421] Text: 'Platform sistem operasi utama untuk lingkungan pengembangan.'
+
+[Paragraph 422] Text: 'Flutter SDK'
+
+[Paragraph 423] Text: 'Flutter Version 3.22.2'
+
+[Paragraph 424] Text: 'Membawa SDK Dart 3.4.3 untuk kompilasi kode native.'
+
+[Paragraph 425] Text: 'Backend'
+
+[Paragraph 426] Text: 'Supabase PostgreSQL Database Cloud'
+
+[Paragraph 427] Text: 'Menyimpan seluruh schema database transaksi akademik secara online.'
+
+[Paragraph 428] Text: 'Perangkat Uji'
+
+[Paragraph 429] Text: 'Xiaomi Redmi Note 10 Pro (Android 13)'
+
+[Paragraph 430] Text: 'Perangkat mobile fisik untuk uji coba aplikasi native APK.'
+
+[Paragraph 431] Text: 'Penguji'
+
+[Paragraph 432] Text: '1 Kepala Sekolah, 2 Guru, 1 Kesiswaan, 2 Siswa'
+
+[Paragraph 433] Text: 'Staf penguji lapangan dari perwakilan pengguna SMPN 1 Jenar.'
+
+[Paragraph 435] Text: '5.3 Prosedur Pengujian'
+
+[Paragraph 436] Text: 'Rencana skenario pengujian fungsional sistem menggunakan metode black-box disusun secara sistematis pada Tabel 5.2.'
+
+[Paragraph 437] Text: 'Tabel 5.2. Rencana pengujian black-box'
+
+[Paragraph 438] Text: 'ID'
+
+[Paragraph 439] Text: 'Objek Uji'
+
+[Paragraph 440] Text: 'Butir Uji'
+
+[Paragraph 441] Text: 'TC-01'
+
+[Paragraph 442] Text: 'Halaman Login'
+
+[Paragraph 443] Text: 'Pengguna dapat login menggunakan akun terdaftar di Supabase Auth.'
+
+[Paragraph 444] Text: 'TC-02'
+
+[Paragraph 445] Text: 'Validasi Kredensial'
+
+[Paragraph 446] Text: 'Sistem menampilkan alert jika email format salah atau password kosong.'
+
+[Paragraph 447] Text: 'TC-03'
+
+[Paragraph 448] Text: 'Pemilihan Peran'
+
+[Paragraph 449] Text: 'Akun dengan multi-role dapat memilih peran dan masuk ke dashboard yang sesuai.'
+
+[Paragraph 450] Text: 'TC-04'
+
+[Paragraph 451] Text: 'Dashboard Guru'
+
+[Paragraph 452] Text: 'Guru dapat melihat jadwal mengajar aktif sesuai semester berjalan.'
+
+[Paragraph 453] Text: 'TC-05'
+
+[Paragraph 454] Text: 'Input Jurnal & Presensi'
+
+[Paragraph 455] Text: 'Guru dapat menyimpan catatan materi pembelajaran dan presensi siswa.'
+
+[Paragraph 456] Text: 'TC-06'
+
+[Paragraph 457] Text: 'Dashboard Kepsek'
+
+[Paragraph 458] Text: 'Kepala sekolah dapat memantau status kelas dan jurnal real-time.'
+
+[Paragraph 459] Text: 'TC-07'
+
+[Paragraph 460] Text: 'Dashboard Kesiswaan'
+
+[Paragraph 461] Text: 'Kesiswaan dapat mengelola data siswa aktif dan pembagian kelas siswa.'
+
+[Paragraph 462] Text: 'TC-08'
+
+[Paragraph 463] Text: 'Dashboard Siswa'
+
+[Paragraph 464] Text: 'Siswa dapat melihat rekap kehadiran personal dan tugas aktif.'
+
+[Paragraph 465] Text: 'TC-09'
+
+[Paragraph 466] Text: 'Unggah Administrasi'
+
+[Paragraph 467] Text: 'Guru dapat mengunggah berkas RPP/Silabus PDF ke Supabase Storage.'
+
+[Paragraph 468] Text: 'TC-10'
+
+[Paragraph 469] Text: 'Keluar Sesi'
+
+[Paragraph 470] Text: 'Pengguna dapat keluar sesi dan membersihkan cached auth session.'
+
+[Paragraph 472] Text: '5.4 Hasil Uji dan Kesimpulan Pengujian'
+
+[Paragraph 473] Text: 'Format ringkasan hasil pengujian fungsional beserta status kelayakannya tercantum pada Tabel 5.3.'
+
+[Paragraph 474] Text: 'Tabel 5.3. Format hasil uji fungsional'
+
+[Paragraph 475] Text: 'ID'
+
+[Paragraph 476] Text: 'Hasil yang Diharapkan'
+
+[Paragraph 477] Text: 'Status Draft'
+
+[Paragraph 478] Text: 'TC-01'
+
+[Paragraph 479] Text: 'Login berhasil dan rute masuk sesuai dashboard peran.'
+
+[Paragraph 480] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 481] Text: 'TC-02'
+
+[Paragraph 482] Text: 'Muncul pesan kesalahan login 'Invalid credentials'.'
+
+[Paragraph 483] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 484] Text: 'TC-03'
+
+[Paragraph 485] Text: 'Memilih dashboard kepala sekolah berhasil memuat menu monitoring.'
+
+[Paragraph 486] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 487] Text: 'TC-04'
+
+[Paragraph 488] Text: 'Jadwal mengajar memuat daftar hari, kelas, dan mapel guru terkait.'
+
+[Paragraph 489] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 490] Text: 'TC-05'
+
+[Paragraph 491] Text: 'Data tersimpan di tabel jurnal dan absensi_jurnal Supabase.'
+
+[Paragraph 492] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 493] Text: 'TC-06'
+
+[Paragraph 494] Text: 'Data monitoring kelas memperlihatkan persentase keterisian jurnal.'
+
+[Paragraph 495] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 496] Text: 'TC-07'
+
+[Paragraph 497] Text: 'Pembagian kelas siswa memperbarui data di tabel kelas_siswa.'
+
+[Paragraph 498] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 499] Text: 'TC-08'
+
+[Paragraph 500] Text: 'Detail kehadiran personal siswa terakumulasi per status presensi.'
+
+[Paragraph 501] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 502] Text: 'TC-09'
+
+[Paragraph 503] Text: 'Tautan file RPP tersimpan di database dan berkas ada di storage bucket.'
+
+[Paragraph 504] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 505] Text: 'TC-10'
+
+[Paragraph 506] Text: 'Aplikasi kembali ke AuthBootstrapScreen dan menghapus sesi.'
+
+[Paragraph 507] Text: 'Perlu diisi setelah pengujian.'
+
+[Paragraph 509] Text: 'Kesimpulan pengujian sementara: rancangan skenario pengujian telah mencakup fungsi inti aplikasi sesuai kebutuhan pengguna. Namun, kesimpulan akhir keberhasilan aplikasi harus ditetapkan setelah pengujian dilakukan pada lingkungan nyata, menggunakan akun, data, dan perangkat yang disetujui sekolah.'
+
+[Paragraph 511] Text: 'BAB VIKESIMPULAN DAN SARAN'
+
+[Paragraph 512] Text: '6.1 Kesimpulan'
+
+[Paragraph 513] Text: 'Berdasarkan analisis, perancangan, dan implementasi yang telah disusun, dapat disimpulkan bahwa aplikasi SinarBelajar dirancang untuk membantu pengawasan kelas dan pengelolaan akademik di SMP Negeri 1 Jenar melalui sistem multi-role berbasis Flutter dan Supabase.'
+
+[Paragraph 514] Text: 'Aplikasi telah mencakup kebutuhan utama yang ditemukan pada laporan KMM, yaitu integrasi jurnal pembelajaran, absensi, jadwal, nilai, tugas, administrasi pembelajaran, monitoring kelas, manajemen akademik, manajemen siswa, dan akses informasi siswa.'
+
+[Paragraph 515] Text: 'Penggunaan Flutter mendukung pengembangan antarmuka multiplatform, sedangkan Supabase mendukung autentikasi, penyimpanan data relasional, storage dokumen, dan rancangan keamanan berbasis role. Struktur kode yang dipisahkan berdasarkan fitur dan role membuat aplikasi lebih mudah dipelihara dan dikembangkan.'
+
+[Paragraph 516] Text: 'Naskah ini masih berupa draft yang perlu dilengkapi dengan gambar aktual, hasil pengujian lapangan, serta finalisasi sitasi menggunakan reference manager agar memenuhi ketentuan naskah Tugas Akhir.'
+
+[Paragraph 517] Text: '6.2 Saran'
+
+[Paragraph 518] Text: 'Pengembangan selanjutnya disarankan untuk melakukan uji coba aplikasi pada satu atau dua kelas terlebih dahulu sebelum diterapkan ke seluruh sekolah. Hasil uji coba tersebut dapat digunakan untuk mengevaluasi kemudahan penggunaan, keakuratan data, performa, serta kesiapan pengguna.'
+
+[Paragraph 519] Text: 'Penerapan Row-Level Security pada Supabase perlu diuji secara khusus agar setiap role hanya dapat mengakses data sesuai kewenangannya. Selain itu, sekolah perlu menyiapkan prosedur backup data dan pengelolaan akun agar operasional aplikasi lebih aman.'
+
+[Paragraph 520] Text: 'Fitur lanjutan yang dapat dikembangkan meliputi notifikasi tugas baru, rekap presensi otomatis, ekspor laporan, dashboard analitik nilai, modul orang tua/wali, serta integrasi lebih lanjut dengan sistem sekolah yang sudah berjalan seperti e-Rapor.'
+
+[Paragraph 522] Text: 'DAFTAR PUSTAKA'

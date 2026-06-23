@@ -1,0 +1,27 @@
+{
+  "name": "pengawasan_kelas_smp_negeri_1_jenar",
+  "version": "1.0.0",
+  "description": "Aplikasi mobile Flutter untuk monitoring dan pengelolaan kelas di SMP Negeri 1 Jenar. Aplikasi ini dirancang dengan **arsitektur multi-role** untuk Guru, Kepala Sekolah, dan Siswa.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate:jadwal:range:dry": "node scripts/migrate_jadwal_to_jam_range.js",
+    "migrate:jadwal:range:apply": "node scripts/migrate_jadwal_to_jam_range.js --apply",
+    "import:supabase:dry": "node scripts/import_all_data_to_supabase.js",
+    "import:supabase:apply": "node scripts/import_all_data_to_supabase.js --apply"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0",
+    "dotenv": "^17.4.2",
+    "firebase-admin": "^13.8.0",
+    "pg": "^8.21.0",
+    "xlsx": "^0.18.5"
+  }
+}

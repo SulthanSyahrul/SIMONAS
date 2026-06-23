@@ -1,0 +1,340 @@
+[0] (Style=Normal): LAPORAN TUGAS AKHIR
+[1] (Style=Normal): 
+[2] (Style=Normal): PENGEMBANGAN APLIKASI SIMONAS BERBASIS FLUTTER DAN SUPABASE UNTUK PENGAWASAN KELAS DI SMP NEGERI 1 JENAR
+[3] (Style=Normal): 
+[4] (Style=Normal): 
+[5] (Style=Normal): 
+[6] (Style=Normal): 
+[7] (Style=Normal): Sulthan Syahrul Bunayya Anhutikno 
+[8] (Style=Normal): V3423082
+[9] (Style=Normal): 
+[10] (Style=Normal): DIPLOMA III TEKNIK INFORMATIKA
+[11] (Style=Normal): SEKOLAH VOKASI
+[12] (Style=Normal): UNIVERSITAS SEBELAS MARET
+[13] (Style=Normal): SURAKARTA
+[14] (Style=Normal): 2026
+[15] (Style=Normal): HALAMAN PERSETUJUAN
+
+
+[16] (Style=Normal): PENGEMBANGAN APLIKASI SIMONAS BERBASIS FLUTTER DAN SUPABASE UNTUK PENGAWASAN KELAS DI SMP NEGERI 1 JENAR
+
+Disusun Oleh:
+Sulthan Syahrul Bunayya Anhutikno
+V3423082
+
+
+[17] (Style=Normal): Disetujui untuk dipertahankan dihadapan Panitia Ujian Tugas Akhir
+[18] (Style=Normal): Program Studi Diploma III Teknik Informatika
+[19] (Style=Normal): Sekolah Vokasi
+[20] (Style=Normal): Universitas Sebelas Maret Surakarta
+[21] (Style=Normal): 
+[22] (Style=Normal): 
+[23] (Style=Normal): 
+[24] (Style=Normal): 
+[25] (Style=Normal): 
+[26] (Style=Normal): Surakarta, Juni 2026
+[27] (Style=Normal): Pembimbing,
+[28] (Style=Normal): 
+[29] (Style=Normal): 
+[30] (Style=Normal): Sahirul Alim Tri Bawono S.Kom., M.Eng.
+[31] (Style=Normal): 1987021520170101
+[32] (Style=Normal): HALAMAN PENGESAHAN
+[33] (Style=Normal): 
+[34] (Style=Normal): <JUDUL LAPORAN TUGAS AKHIR>
+[35] (Style=Normal): 
+[36] (Style=Normal): Tugas Akhir ini telah diuji dan disahkan oleh Panitia Ujian Tugas Akhir
+[37] (Style=Normal): Program Studi Diploma III Teknik Informatika
+[38] (Style=Normal): Sekolah Vokasi
+[39] (Style=Normal): Universitas Sebelas Maret Surakarta
+[40] (Style=Normal): 
+[41] (Style=Normal): 	Pada Hari 	: <Hari Ujian Sesuai Jadwal Ujian dari Prodi>
+[42] (Style=Normal): 	Tanggal	: <Hari Ujian Sesuai Jadwal Ujian dari Prodi >
+[43] (Style=Normal): 
+[44] (Style=Normal): Disusun Oleh 	:
+[45] (Style=Normal): <NAMA MAHASISWA>
+[46] (Style=Normal): <NIM MAHASISWA>
+[47] (Style=Normal): 
+[48] (Style=Normal): 	Panitia Ujian Tugas Akhir 	Nama	Tanda Tangan 
+[49] (Style=Normal): 
+[50] (Style=Normal): Ketua Penguji		<NAMA KETUA PENGUJI>	.......................
+[51] (Style=Normal): 		NIK. <NIK KETUA PENGUJI>
+[52] (Style=Normal): 
+[53] (Style=Normal): Anggota Penguji 1		<NAMA PEMBIMBING TA>	.......................
+[54] (Style=Normal): 			NIK. <NIK PEMBIMBING TA>
+[55] (Style=Normal): 
+[56] (Style=Normal): Anggota Penguji 2		<NAMA PENGUJI>	.......................
+[57] (Style=Normal): 		NIK. <NIK PENGUJI>
+[58] (Style=Normal): 
+[59] (Style=Normal): 
+[60] (Style=Normal): Mengetahui,
+[61] (Style=Normal): 
+[62] (Style=Normal): PERNYATAAN KEASLIAN KARYA TUGAS AKHIR
+
+
+[63] (Style=Normal): Dengan ini saya menyatakan bahwa dalam Laporan Tugas Akhir ini tidak terdapat karya yang pernah diajukan untuk memperoleh gelar akademik di suatu Perguruan Tinggi, dan sepanjang pengetahuan saya juga tidak terdapat karya atau pendapat yang pernah ditulis atau diterbitkan oleh orang lain, kecuali yang secara tertulis diacu dalam naskah ini dan disebutkan dalam Daftar Pustaka.
+[64] (Style=Normal): Surakarta, Juni 2026
+
+
+
+
+Sulthan Syahrul Bunayya Anhutikno
+NIM. V3423082
+[65] (Style=Normal): 
+[66] (Style=Normal): PERNYATAAN PERSETUJUAN PUBLIKASI 
+[67] (Style=Normal): UNTUK KEPENTINGAN AKADEMIS
+[68] (Style=Normal): 
+[69] (Style=Normal): Sebagai bagian dari sivitas akademika Universitas Sebelas Maret, saya yang bertanda tangan di bawah ini:
+[70] (Style=Normal): menyetujui untuk memberikan Hak Bebas Royalti Non-Eksklusif (Non-exclusive Royalty Free Right) kepada Universitas Sebelas Maret atas karya Tugas Akhir saya yang berjudul 
+[71] (Style=Normal): 
+[72] (Style=Normal): PENGEMBANGAN APLIKASI SIMONAS BERBASIS FLUTTER DAN SUPABASE UNTUK PENGAWASAN KELAS DI SMP NEGERI 1 JENAR
+[73] (Style=Normal): 
+[74] (Style=Normal): Dengan Hak Bebas Royalti Noneksklusif ini, Universitas Sebelas Maret berhak menyimpan, mengalihmedia/formatkan, mengelola dalam bentuk pangkalan data (database), merawat dan memublikasikan Tugas Akhir saya, selama tetap mencantumkan nama saya sebagai penulis/pencipta dan sebagai pemilik Hak Cipta. Demikian pernyataan ini saya buat dengan sebenar-benarnya.
+[75] (Style=Normal): 
+[76] (Style=Normal): KATA PENGANTAR
+
+
+[77] (Style=Normal): Puji syukur penulis panjatkan ke hadirat Tuhan Yang Maha Esa karena atas rahmat-Nya penulis dapat menyusun Laporan Tugas Akhir berjudul "PENGEMBANGAN APLIKASI SIMONAS BERBASIS FLUTTER DAN SUPABASE UNTUK PENGAWASAN KELAS DI SMP NEGERI 1 JENAR". Naskah ini disusun sebagai dokumentasi pengembangan aplikasi SIMONAS, yaitu aplikasi mobile berbasis Flutter dan Supabase yang ditujukan untuk mendukung pengawasan kelas, pengelolaan jurnal pembelajaran, absensi, nilai, tugas, administrasi pembelajaran, serta layanan akademik berbasis peran di SMP Negeri 1 Jenar.
+[78] (Style=Normal): Penyusunan naskah ini berangkat dari hasil analisis kebutuhan dan perencanaan yang telah dilakukan pada kegiatan KMM di SMP Negeri 1 Jenar. Penulis menyampaikan terima kasih kepada pihak sekolah, dosen pembimbing, serta semua pihak yang telah memberikan arahan, data, dan masukan sehingga perancangan serta implementasi aplikasi dapat disusun secara lebih terarah.
+[79] (Style=Normal): Penulis menyadari bahwa naskah ini masih memerlukan penyempurnaan, terutama pada bagian pengujian lapangan, pengisian gambar aktual, serta finalisasi sitasi melalui reference manager. Oleh karena itu, kritik dan saran yang membangun sangat diharapkan.
+[80] (Style=Normal): Surakarta, Juni 2026
+
+[81] (Style=Normal): 
+Penulis
+[82] (Style=Normal): 
+[83] (Style=Normal): DAFTAR ISI
+
+
+[84] (Style=Normal): 
+
+[85] (Style=Normal): 
+[86] (Style=Normal): DAFTAR TABEL
+
+
+[87] (Style=Normal): 
+[88] (Style=Normal): 
+[89] (Style=Normal): DAFTAR GAMBAR
+
+
+[90] (Style=Normal): 
+[91] (Style=Normal): INTISARI
+
+
+[92] (Style=Normal): SMP Negeri 1 Jenar telah memanfaatkan beberapa sistem digital, seperti penjadwalan dan e-Rapor, tetapi proses absensi kelas, jurnal mengajar, pengawasan kelas, dan administrasi pembelajaran masih membutuhkan integrasi yang lebih baik. Ketidakterpaduan data menyebabkan rekapitulasi membutuhkan waktu lebih lama, rawan kesalahan, serta menyulitkan kepala sekolah dan pihak BK dalam memperoleh informasi akademik secara cepat.
+[93] (Style=Normal): Tugas Akhir ini bertujuan mengembangkan aplikasi SIMONAS berbasis Flutter dan Supabase untuk mendukung pengawasan kelas di SMP Negeri 1 Jenar. Pengembangan dilakukan dengan pendekatan prototyping melalui pengumpulan kebutuhan, perancangan antarmuka dan basis data, implementasi modul, serta penyusunan rencana pengujian fungsional. Aplikasi dirancang dengan arsitektur multi-role yang mencakup kepala sekolah, guru, BK, dan siswa.
+[94] (Style=Normal): Hasil pengembangan berupa aplikasi Flutter yang terhubung dengan Supabase sebagai backend, mencakup autentikasi, pemilihan role, dashboard per pengguna, jadwal mengajar, jurnal dan absensi terintegrasi, nilai, tugas, raport, administrasi pembelajaran, monitoring kelas, monitoring jurnal, pengelolaan guru, pengelolaan mata pelajaran, manajemen tahun ajaran, manajemen siswa, pengaturan kelas, kenaikan kelas, dan layanan informasi siswa. Naskah ini masih perlu dilengkapi tangkapan layar aktual dan hasil pengujian lapangan sebelum digunakan sebagai versi final.
+[95] (Style=Normal): Kata kunci: SIMONAS, Flutter, Supabase, pengawasan kelas, sistem informasi akademik, SMP Negeri 1 Jenar
+[96] (Style=Normal): 
+[97] (Style=Normal): ABSTRACT
+
+
+[98] (Style=Normal): SMP Negeri 1 Jenar has adopted several digital systems, such as scheduling tools and e-Rapor, yet classroom attendance, teaching journals, classroom monitoring, and learning administration still require stronger integration. Fragmented data makes recap processes slower, increases the possibility of human error, and limits the ability of school leaders and student affairs staff to access academic information quickly.
+[99] (Style=Normal): This final project aims to develop SIMONAS, a Flutter and Supabase-based application for classroom monitoring at SMP Negeri 1 Jenar. The development follows a prototyping approach consisting of requirement gathering, interface and database design, module implementation, and functional testing preparation. The application is designed as a multi-role system for the principal, teachers, student affairs/BK staff, and students.
+[100] (Style=Normal): The development result is a Flutter application connected to Supabase as the backend. It includes authentication, role selection, role-based dashboards, teaching schedules, integrated teaching journals and attendance, grades, assignments, report cards, learning administration, classroom monitoring, journal monitoring, teacher management, subject management, academic year management, student management, class assignment, student promotion, and student information services. This draft still requires actual screenshots and field testing results before being used as the final version.
+[101] (Style=Normal): Keywords: SIMONAS, Flutter, Supabase, classroom monitoring, academic information system, SMP Negeri 1 Jenar
+[102] (Style=Normal): 
+[103] (Style=Normal): BAB I
+PENDAHULUAN
+[104] (Style=Normal): 1.1 Latar Belakang
+[105] (Style=Normal): Perkembangan teknologi informasi mendorong lembaga pendidikan untuk melakukan digitalisasi layanan akademik. Sistem informasi akademik membantu sekolah mengelola data siswa, jadwal, absensi, nilai, dan laporan secara lebih cepat serta akurat. Penelitian  menunjukkan bahwa proses akademik yang masih manual dapat menimbulkan durasi kerja yang lebih lama dan risiko ketidakakuratan data, sedangkan digitalisasi mampu membantu sekolah mengolah data secara lebih terstruktur.
+[106] (Style=Normal): Di SMP Negeri 1 Jenar, sekolah telah menggunakan beberapa sistem digital, antara lain aSc Timetables untuk penyusunan jadwal dan e-Rapor untuk pengolahan nilai. Meskipun demikian, absensi kelas dan jurnal mengajar masih banyak dilakukan secara manual. Guru menulis jurnal pembelajaran di buku, wali kelas atau guru mencatat presensi pada lembar fisik, kemudian data perlu direkap oleh pihak terkait. Kondisi tersebut menimbulkan pekerjaan berulang dan menyulitkan pengawasan real-time oleh kepala sekolah maupun BK.
+[107] (Style=Normal): Digitalisasi administrasi sekolah juga relevan dengan kebutuhan efisiensi manajemen pendidikan. menyatakan bahwa digitalisasi administrasi dapat mempercepat pencatatan, meningkatkan akurasi, serta mendukung koordinasi antarbagian sekolah. Penelitian  juga menekankan bahwa sistem informasi akademik yang dirancang dengan memperhatikan pengguna dapat mengurangi kesalahan administrasi dan memberikan akses informasi yang lebih transparan. Selain itu, menunjukkan bahwa integrasi sistem manajemen sekolah secara menyeluruh mampu mempercepat pengambilan keputusan oleh kepala sekolah dan meningkatkan kualitas layanan administrasi kepada siswa.
+[108] (Style=Normal): Aplikasi SIMONAS dikembangkan untuk menjawab kebutuhan tersebut. Aplikasi ini menggunakan Flutter sebagai framework antarmuka multiplatform dan Supabase sebagai backend yang menyediakan autentikasi, database PostgreSQL, storage, serta dukungan keamanan berbasis role. Permasalahan utama yang diarahkan dalam Tugas Akhir ini adalah: bagaimana mengembangkan aplikasi mobile berbasis Flutter dan Supabase yang dapat membantu pengawasan kelas dan pengelolaan akademik di SMP Negeri 1 Jenar secara terintegrasi?
+[109] (Style=Normal): Kondisi awal alur administrasi dan presensi manual yang rentan terhadap inefisiensi digambarkan secara visual pada Gambar 1.1. Alur ini mencakup pencatatan data secara manual oleh guru yang kemudian direkap secara fisik sebelum diserahkan ke kepala sekolah.
+[110] (Style=Normal): 
+[111] (Style=Normal): 
+[112] (Style=Normal): Gambar 1.1. Kondisi proses akademik sebelum digitalisasi
+[113] (Style=Normal): 1.2 Tujuan
+[114] (Style=Normal): Tujuan Tugas Akhir ini adalah mengembangkan aplikasi SIMONAS berbasis Flutter dan Supabase untuk mendukung pengawasan kelas di SMP Negeri 1 Jenar.
+[115] (Style=Normal): Tujuan khusus pengembangan produk ini adalah: 1) menyediakan autentikasi dan pemilihan role pengguna; 2) menyediakan dashboard sesuai hak akses kepala sekolah, guru, BK, dan siswa; 3) mengintegrasikan jurnal pembelajaran dan absensi siswa; 4) menyediakan modul jadwal, tugas, nilai, raport, dan administrasi pembelajaran; 5) menyediakan monitoring kelas, monitoring jurnal, serta monitoring administrasi bagi kepala sekolah; dan 6) menyusun rancangan pengujian fungsional sebagai dasar validasi aplikasi.
+[116] (Style=Normal): 1.3 Manfaat Produk
+[117] (Style=Normal): Bagi sekolah, aplikasi SIMONAS diharapkan dapat mempercepat pencatatan akademik, mengurangi pekerjaan rekap manual, menyediakan data yang lebih terpusat, serta memudahkan kepala sekolah dalam melakukan pengawasan kelas. Bagi guru, aplikasi ini membantu pencatatan jurnal, absensi, nilai, tugas, dan dokumen administrasi pembelajaran dalam satu sistem. Bagi siswa, aplikasi memberikan akses terhadap jadwal pelajaran, tugas, nilai, dan histori presensi. Bagi penulis, pengembangan aplikasi ini menjadi sarana penerapan kemampuan analisis, perancangan, implementasi, dan pengujian sistem informasi.
+[118] (Style=Normal): 1.4 Metode Pengembangan
+[119] (Style=Normal): Metode pengembangan yang digunakan adalah prototyping. Pendekatan ini dipilih karena kebutuhan sekolah perlu divalidasi melalui observasi, diskusi, dan penyempurnaan bertahap. Tahapan yang dilakukan meliputi pengumpulan kebutuhan, perancangan cepat, implementasi prototipe, evaluasi, dan penyempurnaan. Pendekatan prototyping juga banyak digunakan pada penelitian sistem informasi akademik karena mampu menyesuaikan fitur dengan umpan balik pengguna.
+[120] (Style=Normal): Pada tahap pengumpulan kebutuhan, data diperoleh dari laporan KMM dan analisis kode aplikasi. Tahap perancangan mencakup rancangan role, use case, activity diagram, basis data, dan antarmuka. Tahap implementasi dilakukan menggunakan Flutter, Dart, Riverpod, Supabase Auth, Supabase Database, dan Supabase Storage. Tahap pengujian disusun dengan metode black-box untuk memeriksa kesesuaian fungsi terhadap kebutuhan.
+[121] (Style=Normal): 1.5 Definisi dan Istilah
+[122] (Style=Normal): Tabel 1.1 memuat beberapa istilah penting dan definisinya yang digunakan di dalam naskah ini guna menghindari kesalahpahaman terminologi sistem.
+[123] (Style=Normal): Tabel 1.1. Definisi dan istilah
+[124] (Style=Normal): 
+[125] (Style=Normal): 1.6 Referensi Produk Sejenis
+[126] (Style=Normal): Beberapa penelitian sejenis menunjukkan bahwa sistem informasi akademik umumnya dikembangkan untuk mengelola data siswa, jadwal, absensi, nilai, dan laporan.  merancang sistem informasi akademik siswa berbasis web untuk monitoring absensi dan nilai.  mengembangkan sistem monitoring siswa berbasis web agar guru dan kepala sekolah dapat memantau absensi, nilai, serta informasi akademik.  menunjukkan bahwa Flutter dapat digunakan untuk membangun sistem manajemen akademik mobile multiplatform.  juga mengembangkan sistem informasi akademik berbasis mobile menggunakan Flutter yang membuktikan bahwa framework tersebut efektif untuk pengelolaan data akademik lintas perangkat.  mempertegas hal ini dengan mengulas proses rancang bangun aplikasi mobile menggunakan Flutter sebagai framework utama yang produktif dan efisien.
+[127] (Style=Normal): Penelitian lain yang relevan meliputi:  yang membangun sistem informasi akademik berbasis web untuk Sekolah Luar Biasa, menunjukkan bahwa SIA dapat diterapkan pada berbagai konteks institusi pendidikan;  yang mengembangkan SIA berbasis web pada yayasan pendidikan dan menekankan pentingnya antarmuka yang ramah pengguna;  yang mengombinasikan Nuxt JS dan Flutter dalam satu sistem absensi web dan mobile, membuktikan fleksibilitas Flutter sebagai layer antarmuka; serta  yang merancang sistem informasi absensi dan penilaian guru berbasis web yang menjadi referensi awal integrasi data akademik digital di sekolah.  turut menunjukkan bahwa monitoring nilai siswa melalui aplikasi Android berbasis RESTful Web Service dapat meningkatkan aksesibilitas informasi akademik bagi guru maupun orang tua.
+[128] (Style=Normal): Perbedaan produk Tugas Akhir ini terletak pada konteks sekolah mitra, integrasi jurnal dan absensi dalam satu alur kerja guru, dukungan multi-role, penggunaan Supabase sebagai backend, serta adanya modul monitoring administrasi pembelajaran yang relevan dengan kebutuhan pengawasan kepala sekolah.
+[129] (Style=Normal): 
+[130] (Style=Normal): BAB II
+DESKRIPSI PRODUK
+[131] (Style=Normal): 2.1 Deskripsi Produk
+[132] (Style=Normal): SIMONAS adalah aplikasi mobile untuk pengawasan kelas dan pengelolaan akademik di SMP Negeri 1 Jenar. Aplikasi dikembangkan dengan Flutter sehingga satu basis kode dapat digunakan untuk membangun antarmuka yang konsisten pada beberapa platform. Backend aplikasi menggunakan Supabase untuk autentikasi, database relasional PostgreSQL, penyimpanan file administrasi pembelajaran, serta akses data melalui API.
+[133] (Style=Normal): Produk ini dirancang sebagai sistem multi-role. Setelah login, pengguna diarahkan ke dashboard sesuai role. Kepala sekolah memperoleh fitur monitoring dan manajemen akademik, guru memperoleh fitur pengelolaan kegiatan pembelajaran, BK memperoleh fitur manajemen siswa dan kelas, sedangkan siswa memperoleh fitur layanan informasi akademik.
+[134] (Style=Normal): Skema interaksi antara frontend Flutter, backend Supabase, serta peran-peran pengguna ditunjukkan pada Gambar 2.1. Gambar ini memperlihatkan bagaimana aplikasi Flutter berinteraksi dengan layanan cloud database dan storage.
+[135] (Style=Normal): 
+[136] (Style=Normal): 
+[137] (Style=Normal): 
+[138] (Style=Normal): 
+[139] (Style=Normal): 
+[140] (Style=Normal): Gambar 2.1. Gambaran umum produk SIMONAS
+[141] (Style=Normal): 2.2 Fungsional Produk
+[142] (Style=Normal): Spesifikasi kebutuhan fungsional dari aplikasi SIMONAS didefinisikan secara rinci pada Tabel 2.1 untuk memetakan fungsi-fungsi utama yang harus diimplementasikan.
+[143] (Style=Normal): Tabel 2.1. Kebutuhan fungsional produk
+[144] (Style=Normal): 
+[145] (Style=Normal): Sedangkan spesifikasi kebutuhan non-fungsional untuk mendukung aspek kualitas, performa, dan keamanan sistem dirangkum dalam Tabel 2.2.
+[146] (Style=Normal): Tabel 2.2. Kebutuhan non-fungsional produk
+[147] (Style=Normal): 
+[148] (Style=Normal): 2.3 Penggolongan dan Karakteristik Pengguna
+[149] (Style=Normal): Aplikasi ini melayani empat kategori pengguna utama di sekolah. Tabel 2.3 mendefinisikan penggolongan dan karakteristik masing-masing peran pengguna beserta hak aksesnya.
+[150] (Style=Normal): Tabel 2.3. Penggolongan dan karakteristik pengguna
+[151] (Style=Normal): 
+[152] (Style=Normal): 2.4 Lingkungan Operasi
+[153] (Style=Normal): Tabel 2.4 menjelaskan spesifikasi perangkat lunak dan lingkungan pendukung yang digunakan selama siklus hidup pengembangan dan pengoperasian aplikasi.
+[154] (Style=Normal): Tabel 2.4. Lingkungan operasi
+[155] (Style=Normal): 
+[156] (Style=Normal): 2.5 Batasan Desain dan Implementasi
+[157] (Style=Normal): Batasan produk meliputi: 1) aplikasi membutuhkan akun yang telah terdaftar pada Supabase; 2) akses data bergantung pada koneksi internet; 3) modul orang tua/wali belum menjadi fokus pengembangan; 4) modul e-learning lengkap belum disediakan; 5) data historis sekolah perlu dimigrasikan dan divalidasi sebelum digunakan penuh; 6) hasil pengujian lapangan perlu dilengkapi setelah aplikasi diuji oleh pengguna sekolah.
+[158] (Style=Normal): 2.6 Dokumentasi Pengguna
+[159] (Style=Normal): Dokumentasi pengguna disusun dalam bentuk manual penggunaan aplikasi. Manual tersebut berisi langkah login, pemilihan role, penggunaan dashboard, pengisian jurnal dan absensi, pengelolaan tugas dan nilai, pengunggahan administrasi pembelajaran, monitoring kepala sekolah, manajemen siswa, serta pengecekan informasi oleh siswa. Manual lengkap ditempatkan pada Lampiran B agar naskah utama tetap fokus pada proses pengembangan.
+[160] (Style=Normal): 
+[161] (Style=Normal): BAB III
+PERANCANGAN PRODUK
+[162] (Style=Normal): 3.1 Analisis Kebutuhan
+[163] (Style=Normal): Kebutuhan sistem dirumuskan berdasarkan hasil observasi, wawancara, dan analisis proses bisnis yang dilakukan selama kegiatan KMM di SMP Negeri 1 Jenar. Kebutuhan utama sekolah adalah tersedianya sistem yang dapat mengintegrasikan data absensi, jurnal pembelajaran, jadwal, nilai, tugas, administrasi pembelajaran, dan monitoring kelas dalam satu platform yang dapat diakses sesuai role. Perancangan juga memperhatikan bahwa proses manual harus dikurangi tanpa menghilangkan alur kerja yang sudah dipahami pengguna sekolah.
+[164] (Style=Normal): 3.2 Arsitektur Sistem
+[165] (Style=Normal): Arsitektur SIMONAS menggunakan model client-server. Aplikasi Flutter berperan sebagai client yang menyediakan antarmuka pengguna. Supabase berperan sebagai backend yang mengelola autentikasi, database PostgreSQL, storage, dan API. Pemisahan ini membuat aplikasi lebih mudah dipelihara karena logika presentasi berada pada Flutter, sedangkan penyimpanan dan akses data berada pada Supabase.
+[166] (Style=Normal): Arsitektur sistem client-server yang menghubungkan aplikasi mobile dengan PostgreSQL database dan storage Supabase ditunjukkan pada Gambar 3.1. Gambar ini memperlihatkan interaksi aman client dengan cloud API backend.
+[167] (Style=Normal): 
+[168] (Style=Normal): Gambar 3.1. Arsitektur sistem client-server
+[169] (Style=Normal): 3.3 Use Case Diagram
+[170] (Style=Normal): Hubungan antara aktor pengguna dengan fungsionalitas sistem didefinisikan dalam Use Case Diagram pada Gambar 3.2. Use case ini memetakan pembagian fungsi utama per peran pengguna sekolah.
+[171] (Style=Normal): 
+[172] (Style=Normal): 
+[173] (Style=Normal): Gambar 3.2. Use case diagram aplikasi
+[174] (Style=Normal): 3.4 Activity Diagram
+[175] (Style=Normal): Alur autentikasi dan seleksi peran pengguna digambarkan pada Activity Diagram pada Gambar 3.3. Diagram ini menunjukkan langkah sistem memuat status role setelah verifikasi password.
+[176] (Style=Normal): 
+[177] (Style=Normal): 
+[178] (Style=Normal): Gambar 3.3. Activity diagram login dan pemilihan role
+[179] (Style=Normal): Proses pencatatan jurnal KBM dan absensi kehadiran siswa secara terintegrasi digambarkan pada Gambar 3.4. Alur ini memudahkan guru mencatat presensi tanpa membuka lembar terpisah.
+[180] (Style=Normal): 
+[181] (Style=Normal): 
+[182] (Style=Normal): Gambar 3.4. Activity diagram input jurnal dan absensi guru
+[183] (Style=Normal): 3.5 Desain Basis Data
+[184] (Style=Normal): Rancangan tabel basis data yang diimplementasikan pada database PostgreSQL Supabase dirangkum pada Tabel 3.1. Setiap tabel dirancang dengan foreign key untuk menjaga integritas data relasional.
+[185] (Style=Normal): Tabel 3.1. Rancangan tabel basis data
+[186] (Style=Normal): 
+[187] (Style=Normal): Relasi antarentitas data akademik sekolah digambarkan dalam ERD pada Gambar 3.5, Gambar 3.6, Gambar 3.7, dan Gambar 3.8. ERD ini memuat relasi primary key dan foreign key dari tabel-tabel di atas.
+[188] (Style=Normal): 
+[189] (Style=Normal): 
+[190] (Style=Normal): Gambar 3.5. ERD Modul Pengguna
+[191] (Style=Normal): Modul akademik yang berkaitan dengan jadwal pembelajaran, jurnal mengajar, dan absensi dirancang agar proses monitoring akademik dapat dilakukan secara terintegrasi. Relasi antar entitas pada modul tersebut dapat dilihat pada Gambar 3.6.
+[192] (Style=Normal): 
+[193] (Style=Normal): 
+[194] (Style=Normal): Gambar 3.6. ERD Modul Jadwal dan Jurnal
+[195] (Style=Normal): Modul penilaian dirancang untuk mengelola nilai ujian, tugas, serta ulangan siswa secara terstruktur. Relasi basis data pada modul penilaian dapat dilihat pada Gambar 3.7.
+[196] (Style=Normal): 
+[197] (Style=Normal): 
+[198] (Style=Normal): Gambar 3.7. ERD Modul Penilaian
+[199] (Style=Normal): Modul administrasi pembelajaran dirancang untuk mengelola dokumen perangkat pembelajaran guru, seperti silabus, Program Tahunan (Prota), Program Semester (Promes), dan Rencana Pelaksanaan Pembelajaran (RPP). Pada modul ini, setiap dokumen dihubungkan dengan data guru, kelas, mata pelajaran, dan tahun ajaran agar penyimpanan administrasi lebih terstruktur. Relasi basis data pada modul administrasi pembelajaran dapat dilihat pada Gambar 3.8.
+[200] (Style=Normal): 
+[201] (Style=Normal): 
+[202] (Style=Normal): Gambar 3.8. ERD Modul Administrasi Pembelajaran
+[203] (Style=Normal): Perancangan basis data pada bagian utama hanya menampilkan entitas inti yang mendukung proses utama sistem. Detail relasi data pada modul pengelolaan kelas siswa serta histori wali kelas disajikan pada bagian lampiran dan dapat dilihat pada Lampiran E.
+[204] (Style=Normal): Matriks pembatasan hak akses pengguna untuk setiap fitur utama aplikasi ditunjukkan pada Tabel 3.2.
+[205] (Style=Normal): Tabel 3.2. Matriks hak akses pengguna
+[206] (Style=Normal): 
+[207] (Style=Normal): 3.6 Desain Keamanan
+[208] (Style=Normal): Keamanan data dirancang pada level database menggunakan Row-Level Security (RLS) di PostgreSQL. RLS memastikan bahwa data siswa hanya dapat dimodifikasi oleh BK, dan data jurnal hanya dapat diubah oleh guru yang bersangkutan. Kepala sekolah hanya diberikan hak SELECT (read-only) untuk memantau data tanpa risiko mengubah record secara tidak sengaja. Implementasi kebijakan RLS ini mengacu pada panduan resmi yang diterbitkan oleh , yang merinci cara penulisan policy berbasis auth.uid() untuk setiap tabel dan setiap operasi SELECT, INSERT, UPDATE, maupun DELETE.
+[209] (Style=Normal): 
+[210] (Style=Normal): BAB IV
+IMPLEMENTASI
+[211] (Style=Normal): 4.1 Implementasi Arsitektur Aplikasi
+[212] (Style=Normal): Aplikasi diimplementasikan menggunakan Flutter 3.35.7 dan Dart 3.9.2. Pola arsitektur memisahkan kode ke dalam folder `features/` (logic antarmuka), `services/` (komunikasi data Supabase), dan `models/` (parsing data). Manajemen state dikelola secara reaktif menggunakan Riverpod. Dokumentasi resmi Flutter  menjadi acuan utama dalam penerapan pola widget tree, state management Riverpod, serta panduan konfigurasi multiplatform yang digunakan selama implementasi.
+[213] (Style=Normal): Struktur modular folder utama aplikasi Flutter dipetakan pada Tabel 4.1.
+[214] (Style=Normal): Tabel 4.1. Struktur modul aplikasi
+[215] (Style=Normal): 
+[216] (Style=Normal): Berikut adalah cuplikan kode inisialisasi Supabase client pada file `lib/main.dart`:
+[217] (Style=Normal): Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  final bootstrapFuture = _initializeCoreServices();
+  runApp(ProviderScope(child: MyApp(bootstrapFuture: bootstrapFuture)));
+}
+Future<void> _initializeCoreServices() async {
+  await Supabase.initialize(
+    url: SupabaseConfig.projectUrl,
+    anonKey: SupabaseConfig.publishableKey,
+  );
+}
+[218] (Style=Normal): 4.2 Implementasi Login dan Pemilihan Role
+[219] (Style=Normal): Hasil implementasi halaman masuk aplikasi ditunjukkan pada Gambar 4.1. Halaman ini menggunakan validasi input username/email dan kata sandi.
+[220] (Style=Normal): 
+[221] (Style=Normal): Gambar 4.1. Implementasi halaman login
+[222] (Style=Normal): Tampilan pilihan peran ketika masuk menggunakan akun multi-role ditunjukkan pada Gambar 4.2. Pengguna dapat memilih peran untuk masuk ke dashboard yang relevan.
+[223] (Style=Normal): 
+[224] (Style=Normal): Gambar 4.2. Implementasi halaman pemilihan role
+[225] (Style=Normal): Fungsi routing diatur di `AuthService` untuk mencocokkan kredensial dengan database `user_roles`:
+[226] (Style=Normal): Widget? buildDashboardForRole({required String role, required String userId}) {
+  switch (normalizeRole(role)) {
+    case 'kepala_sekolah': return KepalaSekolahDashboardScreen();
+    case 'guru': return GuruDashboardScreen(guruUid: userId);
+    case 'BK': return DashboardKemahasiswaanScreen(kemahasiswaanUid: userId);
+    case 'siswa': return SiswaDashboardScreen(siswaUid: userId);
+    default: return null;
+  }
+}	s
+[227] (Style=Normal): 4.3 Implementasi Modul Guru
+[228] (Style=Normal): Tampilan menu utama guru saat berhasil masuk digambarkan pada Gambar 4.3. Menu utama guru memuat ikon shortcut ke fitur jadwal, jurnal, nilai, dan berkas.
+[229] (Style=Normal): 
+[230] (Style=Normal): Gambar 4.3. Implementasi dashboard guru
+[231] (Style=Normal): Implementasi formulir pengisian jurnal mengajar serta presensi siswa dapat dilihat pada Gambar 4.4. Halaman ini memungkinkan pengisian satu klik untuk presensi kelas.
+[232] (Style=Normal): 
+[233] (Style=Normal): Gambar 4.4. Implementasi jurnal dan absensi
+[234] (Style=Normal): 4.4 Implementasi Modul Kepala Sekolah
+[235] (Style=Normal): Tampilan dashboard monitoring kepala sekolah ditunjukkan pada Gambar 4.5. Halaman monitoring ini berfokus pada ringkasan kehadiran guru dan pengumpulan RPP.
+[236] (Style=Normal): 
+[237] (Style=Normal): Gambar 4.5. Implementasi dashboard kepala sekolah
+[238] (Style=Normal): Halaman monitoring aktivitas KBM kelas secara real-time ditunjukkan pada Gambar 4.6. Fitur ini membantu kepala sekolah melihat kelas mana yang belum terisi jurnalnya.
+[239] (Style=Normal): 
+[240] (Style=Normal): Gambar 4.6. Implementasi monitoring kelas
+[241] (Style=Normal): 4.5 Implementasi Modul BK
+[242] (Style=Normal): Tampilan menu pengelolaan data siswa bagi staff BK ditunjukkan pada Gambar 4.7. Staf BK dapat menambah akun siswa baru dan mengatur penempatan kelas.
+[243] (Style=Normal): 
+[244] (Style=Normal): Gambar 4.7. Implementasi dashboard BK
+[245] (Style=Normal): 4.6 Implementasi Modul Siswa
+[246] (Style=Normal): Halaman informasi akademik personal siswa ditunjukkan pada Gambar 4.8. Siswa dapat memantau akumulasi kehadiran, daftar tugas aktif, dan nilai UTS/UAS.
+[247] (Style=Normal): 
+[248] (Style=Normal): Gambar 4.8. Implementasi dashboard siswa
+[249] (Style=Normal): 4.7 Implementasi Administrasi Pembelajaran dan Storage
+[250] (Style=Normal): Implementasi modul pengunggahan berkas administrasi pembelajaran bagi guru ditunjukkan pada Gambar 4.9. File dikompresi sebelum diunggah ke Supabase Storage bucket.
+[251] (Style=Normal): 
+[252] (Style=Normal): Gambar 4.9. Implementasi administrasi pembelajaran
+[253] (Style=Normal): 4.8 Implementasi Provider dan Service
+[254] (Style=Normal): Sistem menggunakan global state notifier dari Riverpod untuk memantau data sinkron. Berikut adalah mapping service provider di `lib/providers/supabase_providers.dart`:
+[255] (Style=Normal): final jadwalServiceProvider = Provider<JadwalService>(
+  (ref) => ref.read(kepalaSekolahSupabaseServiceProvider).jadwalService,
+);
+final jurnalServiceProvider = Provider<JurnalService>(
+  (ref) => ref.read(kepalaSekolahSupabaseServiceProvider).jurnalService,
+);
+final authServiceProvider = Provider<AuthService>(
+  (ref) => AuthService(
+    userService: ref.read(userServiceProvider),
+    roleService: ref.read(userRoleServiceProvider),
+    siswaService: ref.read(siswaServiceProvider),
+    guruService: ref.read(guruServiceProvider),
+  ),
+);
+[256] (Style=Normal): 
+[257] (Style=Normal): BAB V
+PENGUJIAN
+[258] (Style=Normal): 
+[259] (Style=Normal): 
+[260] (Style=Normal): BAB VI
+KESIMPULAN DAN SARAN
+[261] (Style=Normal): 
+[262] (Style=Normal): DAFTAR PUSTAKA
+[263] (Style=Normal): 
+[264] (Style=Normal): LAMPIRAN
+[265] (Style=Normal): Lampiran E. ERD Modul Pengelolaan Kelas dan Histori Wali Kelas.
+[266] (Style=Normal): 
+[267] (Style=Normal): 
+[268] (Style=Normal): Lampiran E.1. ERD Modul Pengelolaan Kelas
+[269] (Style=Normal): 
+[270] (Style=Normal): 
+[271] (Style=Normal): Lampiran E.2. ERD Modul Histori Wali Kelas

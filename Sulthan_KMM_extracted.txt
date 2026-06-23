@@ -1,0 +1,398 @@
+Source: Sulthan Syahrul Bunayya Anhutikno_Laporan KMM.docx
+
+== Pendahuluan
+== Analisis dan Perencanaan Pengembangan Sistem Informasi Pengawasan Akademik Berbasis Mobile di SMP Negeri 1 Jenar
+== LAPORAN KMM MAHASISWA
+Disusun oleh:
+
+Sulthan Syahrul Bunayya AnhutiknoV3423082
+
+== DIPLOMA TIGA TEKNIK INFORMATIKA
+SEKOLAH VOKASI UNIVERSITAS SEBELAS MARET SURAKARTA
+
+== 2026
+== HALAMAN PENGESAHAN
+Judul:
+
+Nama: Sulthan Syahrul Bunayya Anhutikno
+
+== NIM: V3423082
+Program Studi: Teknik Informatika
+
+Tempat Pelaksanaan KMM: SMP Negeri 1 Jenar
+
+Tanggal Pelaksanaan KMM:
+
+Pada tanggal : [[tanggal]]
+
+Penguji KMM [[tanda tangan]]
+
+== [[Nama Dosen Penguji KMM]]
+== [[NIP]]
+Pada tanggal : [[tanggal]]
+
+Pembimbing KMM [[tanda tangan]]
+
+== [[Nama Dosen Pembimbing KMM]
+== [[NIP]]
+Menyetujui,
+
+Ketua Program StudiKepala Laboratorium
+
+== Eko Harry Pratisto, S.T., M.Info.Tech., Ph.D.Nanang Maulana Yoeseph, S.Si., M.Cs.
+== NIK. 1981112420130201NIK. 1981071420160601
+Mengetahui,
+
+Wakil Dekan Bidang Akademik dan Penelitian
+
+== Dr. apt. Heru Sasongko, S.Farm., M.Sc.
+NIP. 1986110520140501
+
+== KATA PENGANTAR
+Puji syukur penulis panjatkan ke hadirat Tuhan Yang Maha Esa karena atas segala rahmat-Nya penulis dapat menyelesaikan Laporan Kegiatan Magang Mahasiswa (KMM) ini. Laporan ini disusun berdasarkan kegiatan magang yang dilaksanakan di SMP Negeri 1 Jenar, dengan fokus analisis sistem akademik dan perencanaan pengembangan sistem informasi akademik berbasis mobile.
+
+Penulis menyampaikan terima kasih dan penghargaan yang sebesar-besarnya kepada pihak-pihak yang telah membantu dan mendukung selama pelaksanaan magang, antara lain: Pembimbing Lapangan di SMP Negeri 1 Jenar, Kepala Sekolah, guru-guru, serta staf administrasi sekolah yang telah memberikan informasi dan akses kepada penulis. Terima kasih juga kepada Pembimbing Akademik di Universitas Sebelas Maret yang telah memberikan arahan dan saran konstruktif.
+
+Melalui KMM ini, penulis mendapat kesempatan untuk menerapkan ilmu yang diperoleh di perkuliahan secara langsung di lapangan. Dengan melakukan observasi dan analisis di sekolah mitra, penulis berusaha merancang solusi digital yang diharapkan dapat memperbaiki sistem akademik sekolah. Penulis berharap laporan ini dapat bermanfaat bagi semua pihak, khususnya sebagai masukan bagi SMP Negeri 1 Jenar dalam mengoptimalkan administrasi akademik mereka secara digital.
+
+Akhir kata, kritik dan saran sangat diharapkan demi kesempurnaan laporan ini. Semoga laporan ini dapat memberikan gambaran yang jelas tentang kegiatan KMM dan perencanaan sistem informasi akademik di instansi mitra.
+
+Surakarta, Mei 2026
+
+Penulis,
+
+Sulthan Syahrul Bunayya Anhutikno
+
+== DAFTAR ISI
+KATA PENGANTARi
+
+DAFTAR ISIii
+
+DAFTAR TABELiii
+
+DAFTAR GAMBARiv
+
+DAFTAR LAMPIRANv
+
+A.PENDAHULUAN1
+
+1.Latar Belakang1
+
+2.Alasan Memilih SMP 1 Jenar1
+
+3.Tujuan Umum2
+
+4.Tujuan Khusus2
+
+5.Manfaat Kegiatan Magang3
+
+B.TATA LAKSANA KEGIATAN4
+
+1.Waktu dan Tempat Pelaksanaan4
+
+2.Metode Pelaksanaan4
+
+3.Jadwal Kegiatan Magang5
+
+C.HASIL KEGIATAN DAN PEMBAHASAN6
+
+1.Profil Institusi Mitra6
+
+2.Sistem Akademik Sekolah Saat Ini6
+
+3.Identifikasi Masalah8
+
+4.Analisis Kebutuhan Sistem8
+
+5.Perancangan Sistem12
+
+D.KESIMPULAN DAN SARAN13
+
+1.Kesimpulan13
+
+2.Saran14
+
+E.DAFTAR PUSTAKA15
+
+F.LAMPIRAN16
+
+== DAFTAR TABEL
+Tabel 2. 2 jadwal Pelaksanaan Kegiatan Magang5
+
+Tabel 3. 1 Functional Requirements10
+
+Tabel 3. 2 Non-Functional Requirements11
+
+== DAFTAR GAMBAR
+== DAFTAR LAMPIRAN
+== PENDAHULUAN
+== Latar Belakang
+Era digital saat ini menuntut lembaga pendidikan untuk terus mengembangkan sistem informasi guna mendukung proses belajar mengajar yang lebih efektif dan efisien (Addin and Nawawi, 2024; Sari, Setiawan and Setiawan, 2025). Namun kenyataannya, banyak sekolah, termasuk SMP Negeri 1 Jenar, masih menjalankan administrasi akademik secara manual: pengelolaan data siswa, penjadwalan pelajaran, absensi, dan penilaian sering dicatat dalam buku atau format kertas. Sistem manual tersebut memakan waktu lama dan rawan kesalahan, sehingga menimbulkan ketidakefisienan dan kurang akuratnya data (Addin and Nawawi, 2024).
+
+Penelitian terdahulu menunjukkan bahwa digitalisasi sistem informasi akademik dapat meningkatkan efisiensi pengelolaan data sekolah dan meminimalkan kesalahan administrasi (Addin and Nawawi, 2024; Sari, Setiawan and Setiawan, 2025). Misalnya, aplikasi akademik terkomputerisasi membantu guru, siswa, dan administrasi sekolah mengakses informasi secara cepat dan akurat. Dengan latar belakang tersebut, penulis merasa perlu melakukan observasi dan analisis sistem akademik di SMP Negeri 1 Jenar untuk merencanakan solusi digital berbasis mobile.
+
+== Alasan Memilih SMP 1 Jenar
+Pemilihan SMP Negeri 1 Jenar sebagai tempat magang didasarkan pada pertimbangan bahwa sekolah ini merupakan salah satu sekolah menengah pertama yang memiliki potensi pengembangan sistem informasi akademik yang lebih modern. Hal tersebut sejalan dengan visi sekolah, yaitu “Tinggi dalam Prestasi, Terpuji dalam Budi Pekerti, Peduli dan Berbudaya Lingkungan Menuju Profil Pelajar Pancasila.” Dalam mendukung visi tersebut, diperlukan pengelolaan administrasi akademik yang efektif, efisien, dan terintegrasi melalui pemanfaatan teknologi informasi. Selain itu, pihak sekolah, khususnya kepala sekolah serta guru-guru, bersikap kooperatif sehingga memudahkan proses observasi, wawancara, dan pengumpulan data selama kegiatan magang. Keinginan untuk memberikan kontribusi nyata melalui perancangan dan pengembangan sistem informasi akademik menjadi motivasi utama penulis dalam memilih instansi ini.
+
+== Tujuan Umum
+Tujuan umum kegiatan magang ini adalah menerapkan dan mengembangkan ilmu teknik informatika di dunia kerja, khususnya merancang sistem informasi akademik berbasis mobile, serta memahami aktivitas pengelolaan administrasi akademik di lingkungan sekolah. Dengan demikian, penulis diharapkan dapat menjembatani kebutuhan sekolah akan sistem digital dan sekaligus mengasah kemampuan professional dalam analisis dan perancangan sistem informasi.
+
+== Tujuan Khusus
+Adapun tujuan khusus KMM ini meliputi:
+
+Melakukan analisis kebutuhan sistem berdasarkan observasi dan wawancara dengan pihak sekolah.
+
+Mendokumentasikan proses administrasi akademik manual yang sedang berjalan di sekolah.
+
+Merancang alur bisnis dan model data untuk sistem informasi akademik sekolah.
+
+Mengusulkan solusi teknologi berbasis mobile (Flutter dan Supabase) yang sesuai dengan kebutuhan sekolah.
+
+Menyusun perencanaan implementasi sistem sebagai dasar pengembangan lebih lanjut.
+
+== Manfaat Kegiatan Magang
+Manfaat bagi Mahasiswa:
+
+Mengintegrasikan pengetahuan teknis dengan praktik lapangan.
+
+Meningkatkan keterampilan berkomunikasi dengan stakeholder.
+
+Mengembangkan sikap profesional dan pemahaman kerja tim dalam proyek TI.
+
+Manfaat bagi Sekolah Mitra:
+
+Mempunyai dokumentasi permasalahan dan kebutuhan sistem yang jelas.
+
+Mendapatkan rekomendasi dan rencana sistem informasi akademik untuk meningkatkan efisiensi administrasi (Addin and Nawawi, 2024; Sari, Setiawan and Setiawan, 2025).
+
+Terbukanya kesempatan menggunakan teknologi terkini untuk mendukung proses belajar mengajar.
+
+Manfaat bagi Universitas (Sekolah Vokasi UNS):
+
+Mendukung program kurikulum terapan melalui keterlibatan mahasiswa dalam proyek riil.
+
+Menjalin kemitraan jangka panjang antara kampus dan dunia pendidikan.
+
+Menerapkan hasil penelitian sebagai bahan pengembangan kurikulum.
+
+== TATA LAKSANA KEGIATAN
+== Waktu dan Tempat Pelaksanaan
+Kegiatan magang dilaksanakan selama 6 minggu di lingkungan SMP Negeri 1 Jenar, mulai dari 1 Februari hingga 12 Maret 2026. Lokasi magang berada di gedung utama sekolah, dengan akses ke ruang Tata Usaha, ruang kelas, laboratorium komputer, dan ruang kepala sekolah sesuai kebutuhan observasi.
+
+== Metode Pelaksanaan
+Metode yang digunakan selama magang meliputi:
+
+Observasi Langsung: Penulis mengamati kegiatan administrasi sekolah secara rutin, seperti proses pencatatan absensi, pembuatan jadwal pelajaran, dan pencatatan nilai. Hasil observasi didokumentasikan dalam bentuk foto dan catatan lapangan.
+
+Wawancara: Penulis melakukan wawancara semi-terstruktur dengan kepala sekolah. Tujuannya untuk menggali detail masalah yang dialami, kebutuhan mereka, serta masukan terhadap solusi sistem.
+
+Studi Pustaka: Peninjauan literatur terkait sistem informasi akademik, mobile application development, dan metode perancangan perangkat lunak sebagai dasar teori.
+
+Diskusi dan Koordinasi: Pertemuan rutin dengan mentor sekolah dan dosen pembimbing untuk evaluasi progres, validasi hasil analisis, serta penyamaan persepsi.
+
+== Jadwal Kegiatan Magang
+Berikut adalah jadwal kegiatan KMM selama enam minggu, dilengkapi dengan indikator kegiatan utama setiap minggu:
+
+Tabel 2. 2 jadwal Pelaksanaan Kegiatan Magang
+
+== HASIL KEGIATAN DAN PEMBAHASAN
+== Profil Institusi Mitra
+SMP Negeri 1 Jenar adalah sekolah menengah pertama negeri yang terletak di Kabupaten Sragen. Sekolah ini berdiri pada tahun 1983, dengan visi “Tinggi dalam Prestasi, Terpuji dalam Budi Pekerti, Peduli dan Berbudaya Lingkungan Menuju Profil Pelajar Pancasila”. Struktur organisasi sekolah dipimpin oleh seorang Kepala Sekolah, didukung oleh beberapa wakil kepala sekolah (urusan kurikulum, kesiswaan), guru-guru mata pelajaran, dan staf Tata Usaha. Terdapat pula komite sekolah yang berperan dalam konsultasi kebijakan pendidikan.
+
+Secara administratif, SMP Negeri 1 Jenar masih banyak bergantung pada proses manual. Dokumen siswa disimpan dalam format kertas, penjadwalan pelajaran dilakukan menggunakan spreadsheet sederhana, dan absen harian dicatat di lembar absensi fisik. Hal ini menyebabkan beban kerja guru dan staf TU cukup berat serta potensi kesalahan tinggi ketika memindahkan data ke laporan elektronik.
+
+== Sistem Akademik Sekolah Saat Ini
+Berdasarkan hasil observasi dan wawancara, proses akademik di SMP Negeri 1 Jenar saat ini telah memanfaatkan beberapa sistem digital, namun masih terdapat beberapa proses yang dilakukan secara manual sehingga belum terintegrasi secara menyeluruh. Adapun kondisi sistem akademik saat ini adalah sebagai berikut:
+
+Penjadwalan Pelajaran: Penyusunan jadwal pelajaran telah menggunakan aplikasi aSc Timetables, sehingga proses penyusunan jadwal sudah lebih terstruktur dan membantu pengaturan jam pelajaran guru maupun kelas.
+
+Absensi Kelas: Guru wali kelas mencatat kehadiran harian siswa di buku absen cetak. Lembar absensi kemudian dikumpulkan ke BK untuk rekap. Proses ini memakan waktu dan rentan human error (Addin and Nawawi, 2024).
+
+Jurnal Mengajar: Guru setiap harinya menulis jurnal kegiatan belajar mengajar (materi, waktu, evaluasi) di buku khusus. Data ini sulit awasi dan tidak terpadu dalam sistem elektronik.
+
+Penilaian Akademik: Pengolahan nilai siswa telah menggunakan aplikasi e-Rapor sehingga guru dapat menginput nilai secara digital dan menghasilkan laporan hasil belajar siswa secara lebih sistematis.
+
+Pelayanan Akademik: Informasi hasil belajar siswa seperti nilai dan rapor telah difasilitasi melalui e-Rapor, namun layanan akademik lainnya masih belum terintegrasi dalam satu sistem yang mencakup absensi serta jurnal pembelajaran.
+
+Berdasarkan kondisi tersebut, dapat disimpulkan bahwa SMP Negeri 1 Jenar telah memanfaatkan teknologi pada beberapa aspek akademik, namun masih terdapat kebutuhan pengembangan sistem yang dapat mengintegrasikan proses absensi siswa dan jurnal mengajar agar pengelolaan akademik menjadi lebih efektif, efisien, dan terpusat (Addin and Nawawi, 2024; Sari, Setiawan and Setiawan, 2025). Sistem yang terintegrasi diharapkan dapat memudahkan pihak sekolah dalam pengawasan dan mengambil keputusan serta memberikan kemudahan akses informasi bagi guru dan siswa.
+
+== Identifikasi Masalah
+Dari proses di atas, ditemukan beberapa permasalahan utama:
+
+Inefisiensi Waktu: Pencatatan manual memakan banyak waktu guru dan staf, mengurangi waktu yang dapat dialokasikan untuk pengajaran.
+
+Keterbatasan Akses Data: Data tidak terpusat, menyebabkan kesulitan saat mencari informasi riwayat absensi atau nilai siswa tertentu.
+
+Kesalahan Manual: Rentan kesalahan pengetikan atau perhitungan saat memasukkan nilai secara manual.
+
+Kurangnya Transparansi: Orang tua atau siswa tidak memiliki akses mandiri untuk melihat hasil nilai atau informasi akademik terkini.
+
+Keterbatasan Adaptasi Teknologi: Belum ada aplikasi digital yang memadai di sekolah yang melibatkan penggunaan smartphone, sementara kebanyakan siswa dan guru kini telah terbiasa dengan teknologi mobile.
+
+Permasalahan-permasalahan tersebut konsisten dengan studi sebelumnya yang menunjukkan bahwa proses administrasi manual di sekolah menyebabkan waktu proses yang lama dan data yang kurang akurat. Oleh karena itu, diperlukan solusi sistem informasi berbasis teknologi untuk mengatasi isu tersebut.
+
+== Analisis Kebutuhan Sistem
+Pengguna
+
+Berdasarkan observasi dan wawancara, kebutuhan utama pengguna dirangkum sebagai berikut:
+
+1. Kepala Sekolah
+
+Memiliki kewenangan strategis dan pengawasan sistem akademik.
+
+Hak akses:
+
+Melakukan monitoring aktivitas pembelajaran
+
+Melihat laporan akademik
+
+Verifikasi administrasi pembelajaran guru
+
+Membuat akun guru
+
+Mengelola jadwal pelajaran
+
+Mengelola mata pelajaran
+
+Mengelola konfigurasi akademik
+
+Mengelola tahun ajaran
+
+Menentukan wali kelas\
+
+2. Guru
+
+Berperan sebagai pelaksana utama kegiatan pembelajaran.
+
+Hak akses:
+
+Melihat jadwal mengajar
+
+Mengisi jurnal pembelajaran
+
+Menginput absensi siswa
+
+Menginput nilai siswa
+
+Mengelola tugas siswa
+
+Mengunggah administrasi pembelajaran berupa Silabus, Prota, Promes, RPP
+
+3. Siswa
+
+Berperan sebagai penerima layanan akademik.
+
+Hak akses:
+
+Melihat jadwal pelajaran
+
+Melihat tugas
+
+Melihat nilai
+
+Melihat absensi
+
+4. Kemahasiswaan
+
+Berperan dalam pengelolaan data siswa.
+
+Hak akses:
+
+Membuat akun siswa
+
+Mengatur kelas siswa
+
+Mengelola mutasi siswa
+
+Mengelola kenaikan kelas
+
+Mengelola data siswa aktif/nonaktif
+
+Functional Requirements (FR)
+
+Tabel 3. 1 Functional Requirements
+
+Non-Functional Requirements (NFR)
+
+Tabel 3. 2 Non-Functional Requirements
+
+== Perancangan Sistem
+BPMN
+
+Flowchart
+
+Use Case Diagram
+
+Entity Relationship Diagram
+
+Arsitektur Sistem
+
+Arsitektur sistem yang diusulkan menggunakan model client-server: Aplikasi frontend berbasis Flutter akan berkomunikasi dengan backend Supabase melalui API. Flutter dipilih karena merupakan framework open source untuk pengembangan aplikasi mobile multiplatform dari satu codebase, memungkinkan aplikasi berjalan di Android, iOS, maupun web (Google, 2025).
+
+Supabase digunakan sebagai backend karena menyediakan layanan open-source yang mencakup database PostgreSQL, autentikasi, storage, dan realtime updates (Supabase Inc., 2023). Dengan Supabase, data siswa, guru, dan transaksi akademik akan tersimpan dalam database relational (Postgres) yang mendukung Foreign Key. Keuntungan lain. Supabase mudah di-integrate dengan Flutter melalui paket supabase_flutter (Supabase Inc., 2023; Sridharan, 2025) . Row-Level Security (RLS) pada Supabase juga memungkinkan pengaturan kontrol akses yang ketat antar peran pengguna (Supabase Inc., 2023).
+
+Secara keseluruhan, arsitektur terdiri atas:
+
+Front-end (Flutter): Antarmuka pengguna yang responsif (UI/UX) dibangun dengan prinsip User-Centered Design (Google, 2025). Antarmuka ini menyediakan modul untuk login, dashboard, form jurnal, absensi, nilai, dan tampilan siswa.
+
+Back-end (Supabase): Mengelola logika server, penyimpanan data, autentikasi, dan fungsi real-time. Data siswa/guru disimpan di tabel PostgreSQL, Supabase Auth mengelola login, dan Supabase Storage dapat digunakan untuk menyimpan dokumen.
+
+API (PostgREST/GraphQL): Aplikasi Flutter mengakses data melalui REST API atau GraphQL yang dihasilkan otomatis dari Supabase.
+
+Keamanan: Implementasi SSL/TLS untuk komunikasi aman, serta RLS untuk memastikan data hanya diakses sesuai peran.
+
+== KESIMPULAN DAN SARAN
+== Kesimpulan
+Berdasarkan hasil observasi dan analisis selama magang, dapat ditarik beberapa kesimpulan:
+
+Kebutuhan Digitalisasi: Proses administrasi akademik di SMP Negeri 1 Jenar masih banyak manual, sehingga perlu adanya sistem informasi yang terintegrasi untuk meningkatkan efisiensi dan akurasi.
+
+Solusi Teknologi: Perancangan sistem mobile berbasis Flutter (frontend) dan Supabase (backend) merupakan solusi yang sesuai. Flutter memungkinkan pembuatan aplikasi lintas platform, sedangkan Supabase menyediakan database SQL dan layanan cloud siap pakai.
+
+Perencanaan Komprehensif: Telah disusun analisis kebutuhan fungsional dan non-fungsional, diagram alur (BPMN/Flowchart), Use Case, ERD, serta rencana migrasi data. Hal ini memberikan landasan yang kuat untuk pengembangan sistem di tahap selanjutnya.
+
+Kolaborasi: Kerja sama antara penulis, pembimbing lapangan, dan pembimbing kampus berjalan baik, sehingga perencanaan sistem dapat dilakukan sesuai kebutuhan riil.
+
+== Saran
+Untuk Sekolah:
+
+Pertimbangkan untuk mengimplementasikan sistem informasi akademik yang telah direncanakan, dimulai dari modifikasi penggunaan spreadsheet ke aplikasi berskala kecil.
+
+Lakukan pelatihan singkat bagi guru dan staf tentang penggunaan aplikasi baru agar transisi berjalan lancar.
+
+Sediakan perangkat pendukung di ruang TU dan laboratorium sehingga aplikasi dapat diakses dengan baik.
+
+Libatkan komite sekolah atau orang tua dalam sosialisasi sistem untuk mendukung penerimaan teknologi baru.
+
+Untuk Universitas:
+
+Jadikan hasil magang ini sebagai bahan evaluasi kurikulum, misalnya dengan menambah topik perancangan aplikasi mobile berbasis Supabase dalam mata kuliah terkait.
+
+Fasilitasi program lanjutan (seminar, workshop) yang mempertemukan mahasiswa, dosen, dan instansi pendidikan dalam mendiskusikan solusi TI.
+
+Dokumentasikan studi kasus magang ini sebagai salah satu bahan publikasi atau laporan kegiatan program vokasi.
+
+Pengembangan Lanjutan:
+
+Lanjutkan pengembangan aplikasi berdasarkan rencana ini, implementasikan satu per satu modul sebelum mengintegrasikan keseluruhan fitur.
+
+Uji coba aplikasi dengan pilot project di satu atau dua kelas terlebih dahulu, lalu evaluasi performa dan performa dari segi pengguna.
+
+Kembangkan fitur tambahan seperti notifikasi tugas baru, analisis data nilai otomatis, atau modul e-learning ringan.
+
+== DAFTAR PUSTAKA
+Addin, A.A. and Nawawi, M. (2024) ‘Digitalisasi sistem informasi akademik pada MTS Al-Mukhtariyah Rajamandala’, Jurnal Sistem Informasi dan Sistem Komputer (SIMKOM), 9(2).
+
+Google (2025) Flutter: Build apps for any screen. Available at: https://flutter.dev/ (Accessed: 10 May 2026).
+
+Sari, L., Setiawan, A. and Setiawan, R.R. (2025) ‘Transformasi digital pendidikan: rancang bangun sistem informasi akademik berbasis web di SD 2 Mlati Kidul’, Jurnal Teknik Informatika (JEKIN), 5(1).
+
+Supabase Inc. (2023) Use Supabase with Flutter. Available at: https://supabase.com/docs/guides/getting-started/quickstarts/flutter (Accessed: 10 May 2026).
+
+Sridharan, P. (2025) Supabase vs Firebase. Supabase Blog. Available at: https://supabase.com/alternatives/supabase-vs-firebase (Accessed: 10 May 2026).
+
+Waluyo and Syarifuddin, S. (2021) ‘Praktik digitalisasi administrasi akademik di era 4.0’, in Digitalisasi Pendidikan. Semarang: Unnes Press.
+
+== LAMPIRAN
+Lampiran memuat keterangan atau informasi lain yang diperlukan pada bagian isi magang, misalnya Peta Wilayah, foto kegiatan, dan lain-lain yang dirasa perlu.
+

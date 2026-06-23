@@ -1,0 +1,436 @@
+[0]: runs=20 text='LAPORAN TUGAS AKHIR
+
+PENGEMBANGAN APLIKASI SINARBELAJAR BERBASIS FLUTTER DAN SUPABASE UNTUK PENGAWASAN KELAS DI SMP NEGERI 1 JENAR
+
+
+
+
+Disusun Oleh:
+Sulthan Syahrul Bunayya Anhutikno
+V3423082
+
+
+
+
+DIPLOMA III TEKNIK INFORMATIKA
+SEKOLAH VOKASI
+UNIVERSITAS SEBELAS MARET
+SURAKARTA
+2026'
+[1]: runs=1 text=''
+[2]: runs=3 text='HALAMAN PERSETUJUAN
+
+'
+[3]: runs=7 text='PENGEMBANGAN APLIKASI SINARBELAJAR BERBASIS FLUTTER DAN SUPABASE UNTUK PENGAWASAN KELAS DI SMP NEGERI 1 JENAR
+
+Disusun Oleh:
+Sulthan Syahrul Bunayya Anhutikno
+V3423082
+
+'
+[4]: runs=1 text='Disetujui untuk dipertahankan di hadapan Panitia Ujian Tugas Akhir Program Studi Diploma III Teknik Informatika Sekolah Vokasi Universitas Sebelas Maret Surakarta.'
+[5]: runs=8 text='Surakarta, Juni 2026
+Pembimbing,
+
+
+
+
+[Nama Pembimbing Tugas Akhir]
+[NIK/NIP Pembimbing]'
+[6]: runs=1 text=''
+[7]: runs=3 text='HALAMAN PENGESAHAN
+
+'
+[8]: runs=5 text='Tugas Akhir ini telah diuji dan disahkan oleh Panitia Ujian Tugas Akhir Program Studi Diploma III Teknik Informatika Sekolah Vokasi Universitas Sebelas Maret Surakarta pada:
+Hari: [Hari Ujian]
+Tanggal: [Tanggal Ujian]
+
+Panitia Ujian Tugas Akhir:'
+[9]: runs=14 text='1. Ketua Penguji:		[Nama Ketua Penguji]		( ........................ )
+2. Anggota Penguji 1:	[Nama Pembimbing TA]		( ........................ )
+3. Anggota Penguji 2:	[Nama Penguji]			( ........................ )'
+[10]: runs=15 text='Mengetahui,
+Dekan Sekolah Vokasi
+
+
+
+Prof. Dr. Eng. Ir. Herman Saputro, S.Pd., M.Pd., M.T.
+NIP. 198208112006041001
+
+
+Ketua Program Studi D3 Teknik Informatika
+
+
+
+Eko Harry Pratisto, S.T., M.Info.Tech., Ph.D.
+NIK. 1981112420130201'
+[11]: runs=1 text=''
+[12]: runs=3 text='PERNYATAAN KEASLIAN KARYA TUGAS AKHIR
+
+'
+[13]: runs=1 text='Dengan ini saya menyatakan bahwa dalam Laporan Tugas Akhir ini tidak terdapat karya yang pernah diajukan untuk memperoleh gelar akademik di suatu Perguruan Tinggi, dan sepanjang pengetahuan saya juga tidak terdapat karya atau pendapat yang pernah ditulis atau diterbitkan oleh orang lain, kecuali yang secara tertulis diacu dalam naskah ini dan disebutkan dalam Daftar Pustaka.'
+[14]: runs=7 text='Surakarta, Juni 2026
+
+
+
+
+Sulthan Syahrul Bunayya Anhutikno
+NIM. V3423082'
+[15]: runs=1 text=''
+[16]: runs=4 text='PERNYATAAN PERSETUJUAN PUBLIKASI
+UNTUK KEPENTINGAN AKADEMIS
+
+'
+[17]: runs=1 text='Sebagai bagian dari sivitas akademika Universitas Sebelas Maret, saya yang bertanda tangan di bawah ini menyetujui pemberian Hak Bebas Royalti Non-Eksklusif kepada Universitas Sebelas Maret atas karya Tugas Akhir saya yang berjudul: Pengembangan Aplikasi SinarBelajar Berbasis Flutter dan Supabase untuk Pengawasan Kelas di SMP Negeri 1 Jenar. Dengan Hak Bebas Royalti Non-Eksklusif ini, Universitas Sebelas Maret berhak menyimpan, mengalihmedia/formatkan, mengelola dalam bentuk pangkalan data, merawat, dan memublikasikan Tugas Akhir saya selama tetap mencantumkan nama saya sebagai penulis/pencipta dan pemilik Hak Cipta.'
+[18]: runs=7 text='Surakarta, Juni 2026
+
+
+
+
+Sulthan Syahrul Bunayya Anhutikno
+NIM. V3423082'
+[19]: runs=1 text=''
+[20]: runs=3 text='KATA PENGANTAR
+
+'
+[21]: runs=1 text='Puji syukur penulis panjatkan ke hadirat Tuhan Yang Maha Esa karena atas rahmat-Nya penulis dapat menyusun Laporan Tugas Akhir berjudul "PENGEMBANGAN APLIKASI SINARBELAJAR BERBASIS FLUTTER DAN SUPABASE UNTUK PENGAWASAN KELAS DI SMP NEGERI 1 JENAR". Naskah ini disusun sebagai dokumentasi pengembangan aplikasi SinarBelajar, yaitu aplikasi mobile berbasis Flutter dan Supabase yang ditujukan untuk mendukung pengawasan kelas, pengelolaan jurnal pembelajaran, absensi, nilai, tugas, administrasi pembelajaran, serta layanan akademik berbasis peran di SMP Negeri 1 Jenar.'
+[22]: runs=1 text='Penyusunan naskah ini berangkat dari hasil analisis kebutuhan dan perencanaan yang telah dilakukan pada kegiatan KMM di SMP Negeri 1 Jenar. Penulis menyampaikan terima kasih kepada pihak sekolah, dosen pembimbing, serta semua pihak yang telah memberikan arahan, data, dan masukan sehingga perancangan serta implementasi aplikasi dapat disusun secara lebih terarah.'
+[23]: runs=1 text='Penulis menyadari bahwa naskah ini masih memerlukan penyempurnaan, terutama pada bagian pengujian lapangan, pengisian gambar aktual, serta finalisasi sitasi melalui reference manager. Oleh karena itu, kritik dan saran yang membangun sangat diharapkan.'
+[24]: runs=3 text='Surakarta, Juni 2026
+
+Penulis'
+[25]: runs=1 text=''
+[26]: runs=3 text='DAFTAR ISI
+
+'
+[27]: runs=145 text='HALAMAN PERSETUJUAN	ii
+HALAMAN PENGESAHAN	iii
+PERNYATAAN KEASLIAN KARYA TUGAS AKHIR	iv
+PERNYATAAN PERSETUJUAN PUBLIKASI UNTUK KEPENTINGAN AKADEMIS	v
+KATA PENGANTAR	vi
+DAFTAR ISI	vii
+DAFTAR TABEL	viii
+DAFTAR GAMBAR	ix
+INTISARI	x
+ABSTRACT	xi
+
+BAB I PENDAHULUAN	1
+	1.1 Latar Belakang	1
+	1.2 Tujuan	2
+	1.3 Manfaat Produk	3
+	1.4 Metode Pengembangan	3
+	1.5 Definisi dan Istilah	4
+	1.6 Referensi Produk Sejenis	5
+
+BAB II DESKRIPSI PRODUK	6
+	2.1 Deskripsi Produk	6
+	2.2 Fungsional Produk	7
+	2.3 Penggolongan dan Karakteristik Pengguna	8
+	2.4 Lingkungan Operasi	9
+	2.5 Batasan Desain dan Implementasi	10
+	2.6 Dokumentasi Pengguna	11
+
+BAB III PERANCANGAN PRODUK	12
+	3.1 Analisis Kebutuhan	12
+	3.2 Arsitektur Sistem	13
+	3.3 Use Case Diagram	13
+	3.4 Activity Diagram	14
+	3.5 Desain Database	15
+	3.6 Desain Antarmuka	16
+	3.7 Desain Keamanan	17
+
+BAB IV IMPLEMENTASI	18
+	4.1 Implementasi Arsitektur Aplikasi	18
+	4.2 Implementasi Login dan Pemilihan Role	19
+	4.3 Implementasi Modul Guru	20
+	4.4 Implementasi Modul Kepala Sekolah	21
+	4.5 Implementasi Modul Kesiswaan/BK	22
+	4.6 Implementasi Modul Siswa	23
+	4.7 Implementasi Administrasi Pembelajaran dan Storage	24
+	4.8 Implementasi Provider dan Service	25
+
+BAB V PENGUJIAN	26
+	5.1 Metode Pengujian	26
+	5.2 Lingkungan Pengujian	27
+	5.3 Prosedur Pengujian	28
+	5.4 Hasil Uji dan Kesimpulan Pengujian	29
+
+BAB VI KESIMPULAN DAN SARAN	31
+	6.1 Kesimpulan	31
+	6.2 Saran	32
+
+DAFTAR PUSTAKA	33
+LAMPIRAN	35
+'
+[28]: runs=1 text=''
+[29]: runs=3 text='DAFTAR TABEL
+
+'
+[30]: runs=23 text='Tabel 1.1 Definisi dan istilah	4
+Tabel 2.1 Kebutuhan fungsional produk	7
+Tabel 2.2 Kebutuhan non-fungsional produk	8
+Tabel 2.3 Penggolongan dan karakteristik pengguna	9
+Tabel 2.4 Lingkungan operasi	10
+Tabel 3.1 Rancangan tabel basis data	15
+Tabel 3.2 Matriks hak akses pengguna	16
+Tabel 4.1 Struktur modul aplikasi	18
+Tabel 5.1 Lingkungan pengujian	27
+Tabel 5.2 Rencana pengujian black-box	28
+Tabel 5.3 Format hasil uji fungsional	29
+'
+[31]: runs=1 text=''
+[32]: runs=3 text='DAFTAR GAMBAR
+
+'
+[33]: runs=37 text='Gambar 1.1 Kondisi proses akademik sebelum digitalisasi	2
+Gambar 2.1 Gambaran umum produk SinarBelajar	6
+Gambar 3.1 Arsitektur sistem client-server	13
+Gambar 3.2 Use case diagram aplikasi	14
+Gambar 3.3 Activity diagram login dan pemilihan role	14
+Gambar 3.4 Activity diagram input jurnal dan absensi	15
+Gambar 3.5 Entity relationship diagram	16
+Gambar 3.6 Rancangan antarmuka login	17
+Gambar 3.7 Rancangan dashboard multi-role	17
+Gambar 4.1 Implementasi halaman login	19
+Gambar 4.2 Implementasi halaman pemilihan role	20
+Gambar 4.3 Implementasi dashboard guru	20
+Gambar 4.4 Implementasi jurnal dan absensi	21
+Gambar 4.5 Implementasi dashboard kepala sekolah	22
+Gambar 4.6 Implementasi monitoring kelas	22
+Gambar 4.7 Implementasi dashboard kesiswaan	23
+Gambar 4.8 Implementasi dashboard siswa	24
+Gambar 4.9 Implementasi administrasi pembelajaran	25
+'
+[34]: runs=1 text=''
+[35]: runs=3 text='INTISARI
+
+'
+[36]: runs=1 text='SMP Negeri 1 Jenar telah memanfaatkan beberapa sistem digital, seperti penjadwalan dan e-Rapor, tetapi proses absensi kelas, jurnal mengajar, pengawasan kelas, dan administrasi pembelajaran masih membutuhkan integrasi yang lebih baik. Ketidakterpaduan data menyebabkan rekapitulasi membutuhkan waktu lebih lama, rawan kesalahan, serta menyulitkan kepala sekolah dan pihak kesiswaan dalam memperoleh informasi akademik secara cepat.'
+[37]: runs=1 text='Tugas Akhir ini bertujuan mengembangkan aplikasi SinarBelajar berbasis Flutter dan Supabase untuk mendukung pengawasan kelas di SMP Negeri 1 Jenar. Pengembangan dilakukan dengan pendekatan prototyping melalui pengumpulan kebutuhan, perancangan antarmuka dan basis data, implementasi modul, serta penyusunan rencana pengujian fungsional. Aplikasi dirancang dengan arsitektur multi-role yang mencakup kepala sekolah, guru, kesiswaan/BK, dan siswa.'
+[38]: runs=1 text='Hasil pengembangan berupa aplikasi Flutter yang terhubung dengan Supabase sebagai backend, mencakup autentikasi, pemilihan role, dashboard per pengguna, jadwal mengajar, jurnal dan absensi terintegrasi, nilai, tugas, raport, administrasi pembelajaran, monitoring kelas, monitoring jurnal, pengelolaan guru, pengelolaan mata pelajaran, manajemen tahun ajaran, manajemen siswa, pengaturan kelas, kenaikan kelas, dan layanan informasi siswa. Naskah ini masih perlu dilengkapi tangkapan layar aktual dan hasil pengujian lapangan sebelum digunakan sebagai versi final.'
+[39]: runs=1 text='Kata kunci: SinarBelajar, Flutter, Supabase, pengawasan kelas, sistem informasi akademik, SMP Negeri 1 Jenar'
+[40]: runs=1 text=''
+[41]: runs=3 text='ABSTRACT
+
+'
+[42]: runs=1 text='SMP Negeri 1 Jenar has adopted several digital systems, such as scheduling tools and e-Rapor, yet classroom attendance, teaching journals, classroom monitoring, and learning administration still require stronger integration. Fragmented data makes recap processes slower, increases the possibility of human error, and limits the ability of school leaders and student affairs staff to access academic information quickly.'
+[43]: runs=1 text='This final project aims to develop SinarBelajar, a Flutter and Supabase-based application for classroom monitoring at SMP Negeri 1 Jenar. The development follows a prototyping approach consisting of requirement gathering, interface and database design, module implementation, and functional testing preparation. The application is designed as a multi-role system for the principal, teachers, student affairs/BK staff, and students.'
+[44]: runs=1 text='The development result is a Flutter application connected to Supabase as the backend. It includes authentication, role selection, role-based dashboards, teaching schedules, integrated teaching journals and attendance, grades, assignments, report cards, learning administration, classroom monitoring, journal monitoring, teacher management, subject management, academic year management, student management, class assignment, student promotion, and student information services. This draft still requires actual screenshots and field testing results before being used as the final version.'
+[45]: runs=1 text='Keywords: SinarBelajar, Flutter, Supabase, classroom monitoring, academic information system, SMP Negeri 1 Jenar'
+[46]: runs=1 text=''
+[47]: runs=2 text='BAB I
+PENDAHULUAN'
+[48]: runs=1 text='1.1 Latar Belakang'
+[49]: runs=1 text='Perkembangan teknologi informasi mendorong lembaga pendidikan untuk melakukan digitalisasi layanan akademik. Sistem informasi akademik membantu sekolah mengelola data siswa, jadwal, absensi, nilai, dan laporan secara lebih cepat serta akurat. Penelitian Nawawi dan Addin (2024) menunjukkan bahwa proses akademik yang masih manual dapat menimbulkan durasi kerja yang lebih lama dan risiko ketidakakuratan data, sedangkan digitalisasi mampu membantu sekolah mengolah data secara lebih terstruktur.'
+[50]: runs=1 text='Berdasarkan laporan perencanaan KMM di SMP Negeri 1 Jenar, sekolah telah menggunakan beberapa sistem digital, antara lain aSc Timetables untuk penyusunan jadwal dan e-Rapor untuk pengolahan nilai. Meskipun demikian, absensi kelas dan jurnal mengajar masih banyak dilakukan secara manual. Guru menulis jurnal pembelajaran di buku, wali kelas atau guru mencatat presensi pada lembar fisik, kemudian data perlu direkap oleh pihak terkait. Kondisi tersebut menimbulkan pekerjaan berulang dan menyulitkan pengawasan real-time oleh kepala sekolah maupun kesiswaan.'
+[51]: runs=3 text='Digitalisasi administrasi sekolah juga relevan dengan kebutuhan efisiensi manajemen pendidikan. Nurfa (2024) menyatakan bahwa digitalisasi administrasi dapat mempercepat pencatatan, meningkatkan akurasi, serta mendukung koordinasi antarbagian sekolah. Penelitian Sari, Setiawan, dan Setiawan (2025) juga menekankan bahwa sistem informasi akademik yang dirancang dengan memperhatikan pengguna dapat mengurangi kesalahan administrasi dan memberikan akses informasi yang lebih transparan. Selain itu, Ida Bagus Ketut dan Purnamayanti (2025) menunjukkan bahwa integrasi sistem manajemen sekolah secara menyeluruh mampu mempercepat pengambilan keputusan oleh kepala sekolah dan meningkatkan kualitas layanan administrasi kepada siswa.'
+[52]: runs=1 text='Aplikasi SinarBelajar dikembangkan untuk menjawab kebutuhan tersebut. Aplikasi ini menggunakan Flutter sebagai framework antarmuka multiplatform dan Supabase sebagai backend yang menyediakan autentikasi, database PostgreSQL, storage, serta dukungan keamanan berbasis role. Permasalahan utama yang diarahkan dalam Tugas Akhir ini adalah: bagaimana mengembangkan aplikasi mobile berbasis Flutter dan Supabase yang dapat membantu pengawasan kelas dan pengelolaan akademik di SMP Negeri 1 Jenar secara terintegrasi?'
+[53]: runs=1 text='Kondisi awal alur administrasi dan presensi manual yang rentan terhadap inefisiensi digambarkan secara visual pada Gambar 1.1. Alur ini mencakup pencatatan data secara manual oleh guru yang kemudian direkap secara fisik sebelum diserahkan ke kepala sekolah.'
+[54]: runs=1 text='Gambar 1.1. Kondisi proses akademik sebelum digitalisasi'
+[55]: runs=1 text='1.2 Tujuan'
+[56]: runs=1 text='Tujuan Tugas Akhir ini adalah mengembangkan aplikasi SinarBelajar berbasis Flutter dan Supabase untuk mendukung pengawasan kelas di SMP Negeri 1 Jenar.'
+[57]: runs=1 text='Tujuan khusus pengembangan produk ini adalah: 1) menyediakan autentikasi dan pemilihan role pengguna; 2) menyediakan dashboard sesuai hak akses kepala sekolah, guru, kesiswaan/BK, dan siswa; 3) mengintegrasikan jurnal pembelajaran dan absensi siswa; 4) menyediakan modul jadwal, tugas, nilai, raport, dan administrasi pembelajaran; 5) menyediakan monitoring kelas, monitoring jurnal, serta monitoring administrasi bagi kepala sekolah; dan 6) menyusun rancangan pengujian fungsional sebagai dasar validasi aplikasi.'
+[58]: runs=1 text='1.3 Manfaat Produk'
+[59]: runs=1 text='Bagi sekolah, aplikasi SinarBelajar diharapkan dapat mempercepat pencatatan akademik, mengurangi pekerjaan rekap manual, menyediakan data yang lebih terpusat, serta memudahkan kepala sekolah dalam melakukan pengawasan kelas. Bagi guru, aplikasi ini membantu pencatatan jurnal, absensi, nilai, tugas, dan dokumen administrasi pembelajaran dalam satu sistem. Bagi siswa, aplikasi memberikan akses terhadap jadwal pelajaran, tugas, nilai, dan histori presensi. Bagi penulis, pengembangan aplikasi ini menjadi sarana penerapan kemampuan analisis, perancangan, implementasi, dan pengujian sistem informasi.'
+[60]: runs=1 text='1.4 Metode Pengembangan'
+[61]: runs=2 text='Metode pengembangan yang digunakan adalah prototyping. Pendekatan ini dipilih karena kebutuhan sekolah perlu divalidasi melalui observasi, diskusi, dan penyempurnaan bertahap. Tahapan yang dilakukan meliputi pengumpulan kebutuhan, perancangan cepat, implementasi prototipe, evaluasi, dan penyempurnaan. Pendekatan prototyping juga banyak digunakan pada penelitian sistem informasi akademik karena mampu menyesuaikan fitur dengan umpan balik pengguna.'
+[62]: runs=1 text='Pada tahap pengumpulan kebutuhan, data diperoleh dari laporan KMM dan analisis kode aplikasi. Tahap perancangan mencakup rancangan role, use case, activity diagram, basis data, dan antarmuka. Tahap implementasi dilakukan menggunakan Flutter, Dart, Riverpod, Supabase Auth, Supabase Database, dan Supabase Storage. Tahap pengujian disusun dengan metode black-box untuk memeriksa kesesuaian fungsi terhadap kebutuhan.'
+[63]: runs=1 text='1.5 Definisi dan Istilah'
+[64]: runs=1 text='Tabel 1.1 memuat beberapa istilah penting dan definisinya yang digunakan di dalam naskah ini guna menghindari kesalahpahaman terminologi sistem.'
+[65]: runs=1 text='Tabel 1.1. Definisi dan istilah'
+[66]: runs=0 text=''
+[67]: runs=1 text='1.6 Referensi Produk Sejenis'
+[68]: runs=4 text='Beberapa penelitian sejenis menunjukkan bahwa sistem informasi akademik umumnya dikembangkan untuk mengelola data siswa, jadwal, absensi, nilai, dan laporan. Pamungkas dan Hasan (2025) merancang sistem informasi akademik siswa berbasis web untuk monitoring absensi dan nilai. Shanty, Wasino, dan Rusdi (2023) mengembangkan sistem monitoring siswa berbasis web agar guru dan kepala sekolah dapat memantau absensi, nilai, serta informasi akademik. Rozi dkk. (2025) menunjukkan bahwa Flutter dapat digunakan untuk membangun sistem manajemen akademik mobile multiplatform. Sumihar dan Theopilus (2023) juga mengembangkan sistem informasi akademik berbasis mobile menggunakan Flutter yang membuktikan bahwa framework tersebut efektif untuk pengelolaan data akademik lintas perangkat. Diansyah dan Syafrinal (2025) mempertegas hal ini dengan mengulas proses rancang bangun aplikasi mobile menggunakan Flutter sebagai framework utama yang produktif dan efisien.'
+[69]: runs=1 text='Penelitian lain yang relevan meliputi: Qudsiyyah dkk. (2022) yang membangun sistem informasi akademik berbasis web untuk Sekolah Luar Biasa, menunjukkan bahwa SIA dapat diterapkan pada berbagai konteks institusi pendidikan; Stefanny dkk. (2025) yang mengembangkan SIA berbasis web pada yayasan pendidikan dan menekankan pentingnya antarmuka yang ramah pengguna; Wahyu dan Andriyanto (2024) yang mengombinasikan Nuxt JS dan Flutter dalam satu sistem absensi web dan mobile, membuktikan fleksibilitas Flutter sebagai layer antarmuka; serta Siahaan dan Tarihoran (2017) yang merancang sistem informasi absensi dan penilaian guru berbasis web yang menjadi referensi awal integrasi data akademik digital di sekolah. Anugrah, Akbar, dan Rahmatulloh (2022) turut menunjukkan bahwa monitoring nilai siswa melalui aplikasi Android berbasis RESTful Web Service dapat meningkatkan aksesibilitas informasi akademik bagi guru maupun orang tua.'
+[70]: runs=1 text='Perbedaan produk Tugas Akhir ini terletak pada konteks sekolah mitra, integrasi jurnal dan absensi dalam satu alur kerja guru, dukungan multi-role, penggunaan Supabase sebagai backend, serta adanya modul monitoring administrasi pembelajaran yang relevan dengan kebutuhan pengawasan kepala sekolah.'
+[71]: runs=1 text=''
+[72]: runs=2 text='BAB II
+DESKRIPSI PRODUK'
+[73]: runs=1 text='2.1 Deskripsi Produk'
+[74]: runs=1 text='SinarBelajar adalah aplikasi mobile untuk pengawasan kelas dan pengelolaan akademik di SMP Negeri 1 Jenar. Aplikasi dikembangkan dengan Flutter sehingga satu basis kode dapat digunakan untuk membangun antarmuka yang konsisten pada beberapa platform. Backend aplikasi menggunakan Supabase untuk autentikasi, database relasional PostgreSQL, penyimpanan file administrasi pembelajaran, serta akses data melalui API.'
+[75]: runs=1 text='Produk ini dirancang sebagai sistem multi-role. Setelah login, pengguna diarahkan ke dashboard sesuai role. Kepala sekolah memperoleh fitur monitoring dan manajemen akademik, guru memperoleh fitur pengelolaan kegiatan pembelajaran, kesiswaan/BK memperoleh fitur manajemen siswa dan kelas, sedangkan siswa memperoleh fitur layanan informasi akademik.'
+[76]: runs=1 text='Skema interaksi antara front-end Flutter, back-end Supabase, serta peran-peran pengguna ditunjukkan pada Gambar 2.1. Gambar ini memperlihatkan bagaimana aplikasi Flutter berinteraksi dengan layanan cloud database dan storage.'
+[77]: runs=1 text='Gambar 2.1. Gambaran umum produk SinarBelajar'
+[78]: runs=1 text='2.2 Fungsional Produk'
+[79]: runs=1 text='Spesifikasi kebutuhan fungsional dari aplikasi SinarBelajar didefinisikan secara rinci pada Tabel 2.1 untuk memetakan fungsi-fungsi utama yang harus diimplementasikan.'
+[80]: runs=1 text='Tabel 2.1. Kebutuhan fungsional produk'
+[81]: runs=0 text=''
+[82]: runs=1 text='Sedangkan spesifikasi kebutuhan non-fungsional untuk mendukung aspek kualitas, performa, dan keamanan sistem dirangkum dalam Tabel 2.2.'
+[83]: runs=1 text='Tabel 2.2. Kebutuhan non-fungsional produk'
+[84]: runs=0 text=''
+[85]: runs=1 text='2.3 Penggolongan dan Karakteristik Pengguna'
+[86]: runs=1 text='Aplikasi ini melayani empat kategori pengguna utama di sekolah. Tabel 2.3 mendefinisikan penggolongan dan karakteristik masing-masing peran pengguna beserta hak aksesnya.'
+[87]: runs=1 text='Tabel 2.3. Penggolongan dan karakteristik pengguna'
+[88]: runs=0 text=''
+[89]: runs=1 text='2.4 Lingkungan Operasi'
+[90]: runs=1 text='Tabel 2.4 menjelaskan spesifikasi perangkat lunak dan lingkungan pendukung yang digunakan selama siklus hidup pengembangan dan pengoperasian aplikasi.'
+[91]: runs=1 text='Tabel 2.4. Lingkungan operasi'
+[92]: runs=0 text=''
+[93]: runs=1 text='2.5 Batasan Desain dan Implementasi'
+[94]: runs=1 text='Batasan produk meliputi: 1) aplikasi membutuhkan akun yang telah terdaftar pada Supabase; 2) akses data bergantung pada koneksi internet; 3) modul orang tua/wali belum menjadi fokus pengembangan; 4) modul e-learning lengkap belum disediakan; 5) data historis sekolah perlu dimigrasikan dan divalidasi sebelum digunakan penuh; 6) hasil pengujian lapangan perlu dilengkapi setelah aplikasi diuji oleh pengguna sekolah.'
+[95]: runs=1 text='2.6 Dokumentasi Pengguna'
+[96]: runs=2 text='Dokumentasi pengguna disusun dalam bentuk manual penggunaan aplikasi. Manual tersebut berisi langkah login, pemilihan role, penggunaan dashboard, pengisian jurnal dan absensi, pengelolaan tugas dan nilai, pengunggahan administrasi pembelajaran, monitoring kepala sekolah, manajemen siswa, serta pengecekan informasi oleh siswa. Manual lengkap ditempatkan pada Lampiran B agar naskah utama tetap fokus pada proses pengembangan.'
+[97]: runs=1 text=''
+[98]: runs=2 text='BAB III
+PERANCANGAN PRODUK'
+[99]: runs=1 text='3.1 Analisis Kebutuhan'
+[100]: runs=1 text='Kebutuhan sistem dirumuskan berdasarkan laporan KMM dan kondisi implementasi aplikasi. Kebutuhan utama sekolah adalah tersedianya sistem yang dapat mengintegrasikan data absensi, jurnal pembelajaran, jadwal, nilai, tugas, administrasi pembelajaran, dan monitoring kelas dalam satu platform yang dapat diakses sesuai role. Perancangan juga memperhatikan bahwa proses manual harus dikurangi tanpa menghilangkan alur kerja yang sudah dipahami pengguna sekolah.'
+[101]: runs=1 text='3.2 Arsitektur Sistem'
+[102]: runs=1 text='Arsitektur SinarBelajar menggunakan model client-server. Aplikasi Flutter berperan sebagai client yang menyediakan antarmuka pengguna. Supabase berperan sebagai backend yang mengelola autentikasi, database PostgreSQL, storage, dan API. Pemisahan ini membuat aplikasi lebih mudah dipelihara karena logika presentasi berada pada Flutter, sedangkan penyimpanan dan akses data berada pada Supabase.'
+[103]: runs=1 text='Arsitektur sistem client-server yang menghubungkan aplikasi mobile dengan PostgreSQL database dan storage Supabase ditunjukkan pada Gambar 3.1. Gambar ini memperlihatkan interaksi aman client dengan cloud API backend.'
+[104]: runs=1 text='Gambar 3.1. Arsitektur sistem client-server'
+[105]: runs=1 text='3.3 Use Case Diagram'
+[106]: runs=1 text='Hubungan antara aktor pengguna dengan fungsionalitas sistem didefinisikan dalam Use Case Diagram pada Gambar 3.2. Use case ini memetakan pembagian fungsi utama per peran pengguna sekolah.'
+[107]: runs=1 text='Gambar 3.2. Use case diagram aplikasi'
+[108]: runs=1 text='3.4 Activity Diagram'
+[109]: runs=1 text='Alur autentikasi dan seleksi peran pengguna digambarkan pada Activity Diagram pada Gambar 3.3. Diagram ini menunjukkan langkah sistem memuat status role setelah verifikasi password.'
+[110]: runs=1 text='Gambar 3.3. Activity diagram login dan pemilihan role'
+[111]: runs=1 text='Proses pencatatan jurnal KBM dan absensi kehadiran siswa secara terintegrasi digambarkan pada Gambar 3.4. Alur ini memudahkan guru mencatat presensi tanpa membuka lembar terpisah.'
+[112]: runs=1 text='Gambar 3.4. Activity diagram input jurnal dan absensi'
+[113]: runs=1 text='3.5 Desain Basis Data'
+[114]: runs=1 text='Rancangan tabel basis data yang diimplementasikan pada database PostgreSQL Supabase dirangkum pada Tabel 3.1. Setiap tabel dirancang dengan foreign key untuk menjaga integritas data relasional.'
+[115]: runs=1 text='Tabel 3.1. Rancangan tabel basis data'
+[116]: runs=0 text=''
+[117]: runs=1 text='Relasi antarentitas data akademik sekolah digambarkan dalam ERD pada Gambar 3.5. ERD ini memuat relasi primary key dan foreign key dari tabel-tabel di atas.'
+[118]: runs=1 text='Gambar 3.5. Entity relationship diagram'
+[119]: runs=1 text='Matriks pembatasan hak akses pengguna untuk setiap fitur utama aplikasi ditunjukkan pada Tabel 3.2.'
+[120]: runs=1 text='Tabel 3.2. Matriks hak akses pengguna'
+[121]: runs=0 text=''
+[122]: runs=1 text='3.6 Desain Antarmuka'
+[123]: runs=1 text='Rancangan antarmuka visual untuk halaman autentikasi masuk ditunjukkan pada Gambar 3.6. Desain mengedepankan kemudahan input kredensial.'
+[124]: runs=1 text='Gambar 3.6. Rancangan antarmuka login'
+[125]: runs=1 text='Desain visual halaman utama (dashboard) untuk masing-masing peran pengguna ditunjukkan pada Gambar 3.7. Pola antarmuka menggunakan kartu navigasi modern.'
+[126]: runs=1 text='Gambar 3.7. Rancangan dashboard multi-role'
+[127]: runs=1 text='3.7 Desain Keamanan'
+[128]: runs=2 text='Keamanan data dirancang pada level database menggunakan Row-Level Security (RLS) di PostgreSQL. RLS memastikan bahwa data siswa hanya dapat dimodifikasi oleh kesiswaan atau guru kelasnya, dan data jurnal hanya dapat diubah oleh guru yang bersangkutan. Kepala sekolah hanya diberikan hak SELECT (read-only) untuk memantau data tanpa risiko mengubah record secara tidak sengaja. Implementasi kebijakan RLS ini mengacu pada panduan resmi yang diterbitkan oleh Supabase (2026), yang merinci cara penulisan policy berbasis auth.uid() untuk setiap tabel dan setiap operasi SELECT, INSERT, UPDATE, maupun DELETE.'
+[129]: runs=1 text=''
+[130]: runs=2 text='BAB IV
+IMPLEMENTASI'
+[131]: runs=1 text='4.1 Implementasi Arsitektur Aplikasi'
+[132]: runs=2 text='Aplikasi diimplementasikan menggunakan Flutter 3.22+ dan Dart 3.4+. Pola arsitektur memisahkan kode ke dalam folder `features/` (logic antarmuka), `services/` (komunikasi data Supabase), dan `models/` (parsing data). Manajemen state dikelola secara reaktif menggunakan Riverpod. Dokumentasi resmi Flutter (Google, 2026) menjadi acuan utama dalam penerapan pola widget tree, state management Riverpod, serta panduan konfigurasi multiplatform yang digunakan selama implementasi.'
+[133]: runs=1 text='Struktur modular folder utama aplikasi Flutter dipetakan pada Tabel 4.1.'
+[134]: runs=1 text='Tabel 4.1. Struktur modul aplikasi'
+[135]: runs=0 text=''
+[136]: runs=1 text='Berikut adalah cuplikan kode inisialisasi Supabase client pada file `lib/main.dart`:'
+[137]: runs=12 text='Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  final bootstrapFuture = _initializeCoreServices();
+  runApp(ProviderScope(child: MyApp(bootstrapFuture: bootstrapFuture)));
+}
+Future<void> _initializeCoreServices() async {
+  await Supabase.initialize(
+    url: SupabaseConfig.projectUrl,
+    anonKey: SupabaseConfig.publishableKey,
+  );
+}'
+[138]: runs=1 text='4.2 Implementasi Login dan Pemilihan Role'
+[139]: runs=1 text='Hasil implementasi halaman masuk aplikasi ditunjukkan pada Gambar 4.1. Halaman ini menggunakan validasi input email dan kata sandi.'
+[140]: runs=1 text='Gambar 4.1. Implementasi halaman login'
+[141]: runs=1 text='Tampilan pilihan peran ketika masuk menggunakan akun multi-role ditunjukkan pada Gambar 4.2. Pengguna dapat memilih peran untuk masuk ke dashboard yang relevan.'
+[142]: runs=1 text='Gambar 4.2. Implementasi halaman pemilihan role'
+[143]: runs=1 text='Fungsi routing diatur di `AuthService` untuk mencocokkan kredensial dengan database `user_roles`:'
+[144]: runs=10 text='Widget? buildDashboardForRole({required String role, required String userId}) {
+  switch (normalizeRole(role)) {
+    case 'kepala_sekolah': return KepalaSekolahDashboardScreen();
+    case 'guru': return GuruDashboardScreen(guruUid: userId);
+    case 'kesiswaan': return DashboardKemahasiswaanScreen(kemahasiswaanUid: userId);
+    case 'siswa': return SiswaDashboardScreen(siswaUid: userId);
+    default: return null;
+  }
+}'
+[145]: runs=1 text='4.3 Implementasi Modul Guru'
+[146]: runs=1 text='Tampilan menu utama guru saat berhasil masuk digambarkan pada Gambar 4.3. Menu utama guru memuat ikon shortcut ke fitur jadwal, jurnal, nilai, dan berkas.'
+[147]: runs=1 text='Gambar 4.3. Implementasi dashboard guru'
+[148]: runs=1 text='Implementasi formulir pengisian jurnal mengajar serta presensi siswa dapat dilihat pada Gambar 4.4. Halaman ini memungkinkan pengisian satu klik untuk presensi kelas.'
+[149]: runs=1 text='Gambar 4.4. Implementasi jurnal dan absensi'
+[150]: runs=1 text='4.4 Implementasi Modul Kepala Sekolah'
+[151]: runs=1 text='Tampilan dashboard monitoring kepala sekolah ditunjukkan pada Gambar 4.5. Halaman monitoring ini berfokus pada ringkasan kehadiran guru dan pengumpulan RPP.'
+[152]: runs=1 text='Gambar 4.5. Implementasi dashboard kepala sekolah'
+[153]: runs=1 text='Halaman monitoring aktivitas KBM kelas secara real-time ditunjukkan pada Gambar 4.6. Fitur ini membantu kepala sekolah melihat kelas mana yang belum terisi jurnalnya.'
+[154]: runs=1 text='Gambar 4.6. Implementasi monitoring kelas'
+[155]: runs=1 text='4.5 Implementasi Modul Kesiswaan/BK'
+[156]: runs=1 text='Tampilan menu pengelolaan data siswa bagi staff kesiswaan ditunjukkan pada Gambar 4.7. Staf kesiswaan dapat menambah akun siswa baru dan mengatur penempatan kelas.'
+[157]: runs=1 text='Gambar 4.7. Implementasi dashboard kesiswaan'
+[158]: runs=1 text='4.6 Implementasi Modul Siswa'
+[159]: runs=1 text='Halaman informasi akademik personal siswa ditunjukkan pada Gambar 4.8. Siswa dapat memantau akumulasi kehadiran, daftar tugas aktif, dan nilai UTS/UAS.'
+[160]: runs=1 text='Gambar 4.8. Implementasi dashboard siswa'
+[161]: runs=1 text='4.7 Implementasi Administrasi Pembelajaran dan Storage'
+[162]: runs=1 text='Implementasi modul pengunggahan berkas administrasi pembelajaran bagi guru ditunjukkan pada Gambar 4.9. File dikompresi sebelum diunggah ke Supabase Storage bucket.'
+[163]: runs=1 text='Gambar 4.9. Implementasi administrasi pembelajaran'
+[164]: runs=1 text='4.8 Implementasi Provider dan Service'
+[165]: runs=1 text='Sistem menggunakan global state notifier dari Riverpod untuk memantau data sinkron. Berikut adalah mapping service provider di `lib/providers/supabase_providers.dart`:'
+[166]: runs=14 text='final jadwalServiceProvider = Provider<JadwalService>(
+  (ref) => ref.read(kepalaSekolahSupabaseServiceProvider).jadwalService,
+);
+final jurnalServiceProvider = Provider<JurnalService>(
+  (ref) => ref.read(kepalaSekolahSupabaseServiceProvider).jurnalService,
+);
+final authServiceProvider = Provider<AuthService>(
+  (ref) => AuthService(
+    userService: ref.read(userServiceProvider),
+    roleService: ref.read(userRoleServiceProvider),
+    siswaService: ref.read(siswaServiceProvider),
+    guruService: ref.read(guruServiceProvider),
+  ),
+);'
+[167]: runs=1 text=''
+[168]: runs=2 text='BAB V
+PENGUJIAN'
+[169]: runs=1 text='5.1 Metode Pengujian'
+[170]: runs=1 text='Pengujian yang disiapkan untuk aplikasi SinarBelajar adalah black-box testing. Metode ini berfokus pada pemeriksaan masukan dan keluaran fungsi tanpa melihat struktur internal kode. Pengujian black-box relevan untuk sistem informasi akademik karena setiap fitur dapat divalidasi berdasarkan skenario pengguna, seperti login, pemilihan role, input jurnal, input absensi, dan monitoring data. Referensi Muslimin dkk. (2020) serta Wulandari dkk. (2022) menunjukkan bahwa black-box testing dengan equivalence partitioning dapat digunakan untuk memeriksa validasi fungsi sistem informasi akademik.'
+[171]: runs=1 text='Selain black-box testing, pengujian tambahan yang disarankan adalah widget test untuk memastikan tampilan awal aplikasi muncul dengan benar, serta User Acceptance Testing (UAT) bersama pengguna sekolah. Pada naskah draft ini, tabel hasil pengujian disiapkan sebagai format pengisian. Status akhir perlu diisi setelah pengujian dilakukan pada perangkat dan data sekolah.'
+[172]: runs=1 text='5.2 Lingkungan Pengujian'
+[173]: runs=1 text='Spesifikasi perangkat keras dan perangkat lunak yang digunakan selama pelaksanaan pengujian sistem dirangkum dalam Tabel 5.1.'
+[174]: runs=1 text='Tabel 5.1. Lingkungan pengujian'
+[175]: runs=0 text=''
+[176]: runs=1 text='5.3 Prosedur Pengujian'
+[177]: runs=1 text='Rencana skenario pengujian fungsional sistem menggunakan metode black-box disusun secara sistematis pada Tabel 5.2.'
+[178]: runs=1 text='Tabel 5.2. Rencana pengujian black-box'
+[179]: runs=0 text=''
+[180]: runs=1 text='5.4 Hasil Uji dan Kesimpulan Pengujian'
+[181]: runs=1 text='Format ringkasan hasil pengujian fungsional beserta status kelayakannya tercantum pada Tabel 5.3.'
+[182]: runs=1 text='Tabel 5.3. Format hasil uji fungsional'
+[183]: runs=0 text=''
+[184]: runs=1 text='Kesimpulan pengujian sementara: rancangan skenario pengujian telah mencakup fungsi inti aplikasi sesuai kebutuhan pengguna. Namun, kesimpulan akhir keberhasilan aplikasi harus ditetapkan setelah pengujian dilakukan pada lingkungan nyata, menggunakan akun, data, dan perangkat yang disetujui sekolah.'
+[185]: runs=1 text=''
+[186]: runs=2 text='BAB VI
+KESIMPULAN DAN SARAN'
+[187]: runs=1 text='6.1 Kesimpulan'
+[188]: runs=1 text='Berdasarkan analisis, perancangan, dan implementasi yang telah disusun, dapat disimpulkan bahwa aplikasi SinarBelajar dirancang untuk membantu pengawasan kelas dan pengelolaan akademik di SMP Negeri 1 Jenar melalui sistem multi-role berbasis Flutter dan Supabase.'
+[189]: runs=1 text='Aplikasi telah mencakup kebutuhan utama yang ditemukan pada laporan KMM, yaitu integrasi jurnal pembelajaran, absensi, jadwal, nilai, tugas, administrasi pembelajaran, monitoring kelas, manajemen akademik, manajemen siswa, dan akses informasi siswa.'
+[190]: runs=1 text='Penggunaan Flutter mendukung pengembangan antarmuka multiplatform, sedangkan Supabase mendukung autentikasi, penyimpanan data relasional, storage dokumen, dan rancangan keamanan berbasis role. Struktur kode yang dipisahkan berdasarkan fitur dan role membuat aplikasi lebih mudah dipelihara dan dikembangkan.'
+[191]: runs=1 text='Naskah ini masih berupa draft yang perlu dilengkapi dengan gambar aktual, hasil pengujian lapangan, serta finalisasi sitasi menggunakan reference manager agar memenuhi ketentuan naskah Tugas Akhir.'
+[192]: runs=1 text='6.2 Saran'
+[193]: runs=2 text='Pengembangan selanjutnya disarankan untuk melakukan uji coba aplikasi pada satu atau dua kelas terlebih dahulu sebelum diterapkan ke seluruh sekolah. Hasil uji coba tersebut dapat digunakan untuk mengevaluasi kemudahan penggunaan, keakuratan data, performa, serta kesiapan pengguna.'
+[194]: runs=1 text='Penerapan Row-Level Security pada Supabase perlu diuji secara khusus agar setiap role hanya dapat mengakses data sesuai kewenangannya. Selain itu, sekolah perlu menyiapkan prosedur backup data dan pengelolaan akun agar operasional aplikasi lebih aman.'
+[195]: runs=1 text='Fitur lanjutan yang dapat dikembangkan meliputi notifikasi tugas baru, rekap presensi otomatis, ekspor laporan, dashboard analitik nilai, modul orang tua/wali, serta integrasi lebih lanjut dengan sistem sekolah yang sudah berjalan seperti e-Rapor.'
+[196]: runs=1 text=''
+[197]: runs=3 text='DAFTAR PUSTAKA
+
+'
+[198]: runs=1 text='Nawawi, M. and Addin, A.A.A. (2024) 'Digitalisasi Sistem Informasi Akademik Pada MTS Al-Mukhtariyah Rajamandala', Jurnal Sistem Informasi dan Sistem Komputer, 9(2), pp. 164-171. DOI: https://doi.org/10.51717/simkom.v9i2.429'
+[199]: runs=1 text='Sari, L., Setiawan, A. and Setiawan, R.R. (2025) 'Transformasi Digital Pendidikan Rancang Bangun Sistem Informasi Akademik Berbasis Web Di SD 2 Mlati Kidul', JEKIN - Jurnal Teknik Informatika, 5(1). DOI: https://doi.org/10.58794/jekin.v5i1.1294'
+[200]: runs=1 text='Nurfa, M. (2024) 'Digitalisasi Administrasi Sekolah untuk Efisiensi Manajemen Pendidikan', JKP: Jurnal Khasanah Pendidikan, 3(1). DOI: https://doi.org/10.58738/jkp.v3i1.983'
+[201]: runs=1 text='Ida Bagus Ketut, S.A. and Purnamayanti, I.A.G.W. (2025) 'Pengembangan Sistem Informasi Manajemen Sekolah Terintegrasi untuk Digitalisasi Administrasi', Jurnal Nasional Teknologi Informasi dan Aplikasinya, 3(4), pp. 941-950. DOI: https://doi.org/10.24843/JNATIA.2025.v03.i04.p25'
+[202]: runs=1 text='Pamungkas, D. and Hasan, F.N. (2025) 'Rancang Bangun Sistem Informasi Akademik Siswa Berbasis Web: Studi Kasus SMPN 103 Jakarta', Cosmic Jurnal Teknik, 2(1). DOI: https://doi.org/10.55537/cosmic.v2i1.1073'
+[203]: runs=1 text='Rozi, M.F., Siregar, H., Hambali, Y.A. and Rasim (2025) 'Rancang Bangun Sistem Manajemen Akademik Mahasiswa Berbasis Mobile Multiplatform Menggunakan Flutter', JUKTISI, 4(2). DOI: https://doi.org/10.62712/juktisi.v4i2.436'
+[204]: runs=1 text='Shanty, E.D., Wasino and Rusdi, Z. (2023) 'Sistem Informasi Monitoring Siswa Berbasis Web Pada SMAK BPK Penabur Cianjur', Computatio: Journal of Computer Science and Information Systems, 7(1). DOI: https://doi.org/10.24912/computatio.v7i1.17220'
+[205]: runs=1 text='Qudsiyyah, Y., Sutedi, A., Septiana, Y. and Mubarok, M.S. (2022) 'Sistem Informasi Akademik Sekolah Luar Biasa Berbasis Web', Jurnal Algoritma, 18(2), pp. 396-406. URL: https://jurnal.itg.ac.id/index.php/algoritma/article/view/977'
+[206]: runs=1 text='Stefanny, Rivaldo, Angga, F., Halim, A. and Gohzali, H. (2025) 'Pengembangan Sistem Informasi Akademik Berbasis Web Pada Yayasan Perguruan Letjen Haryono M.T.', Jurnal TIMES, 14(2), pp. 49-59. URL: https://ejournal.stmik-time.ac.id/index.php/jurnalTIMES/article/view/852'
+[207]: runs=1 text='Wahyu, M.F. and Andriyanto, L.P. (2024) 'Aplikasi Absensi Menggunakan Nuxt JS dan Flutter Berbasis Web dan Mobile', Jurnal ESIT, 19(1), pp. 63-69. URL: https://openjournal.unpam.ac.id/index.php/ESIT/article/view/41706'
+[208]: runs=1 text='Sumihar, Y.P. and Theopilus, A.A. (2023) 'Sistem Informasi Akademik Berbasis Mobile Menggunakan Flutter', Jurnal Informatika UKRIM, 4(1), pp. 31-40. URL: https://journal.ukrim.ac.id/index.php/JIF/article/view/310'
+[209]: runs=2 text='Anugrah, I.Y., Akbar, R.R.E. and Rahmatulloh, A. (2022) 'Monitoring Nilai Akademik Siswa Sekolah Dasar Berbasis Android dengan RESTful Web Service', SISTEMASI: Jurnal Sistem Informasi, 11(1), pp. 84-96. DOI: https://doi.org/10.32520/stmsi.v11i1.1573'
+[210]: runs=1 text='Siahaan, B.P. and Tarihoran, Y. (2017) 'Perancangan Sistem Informasi Absensi dan Nilai Siswa Beserta Absensi dan Laporan Kegiatan Guru Di Sekolah Advent Pancaran Kasih Berbasis Web', Jurnal TeIKa, 7(2). DOI: https://doi.org/10.36602/teika.v7i2.826'
+[211]: runs=1 text='Muslimin, D.B., Kusmanto, D., Amilia, K.F., Ariffin, M.S., Mardiana, S. and Yulianti (2020) 'Pengujian Black Box pada Aplikasi Sistem Informasi Akademik Menggunakan Teknik Equivalence Partitioning', Jurnal Informatika Universitas Pamulang, 5(1). DOI: https://doi.org/10.32493/informatika.v5i1.3778'
+[212]: runs=1 text='Wulandari, A.S., Saepudin, A., Kinanti, M.P., Sudesi, Z., Saifudin, A. and Yulianti (2022) 'Pengujian Aplikasi Sistem Informasi Akademik Berbasis Web Menggunakan Metode Black Box Testing Equivalence Partitioning', Jurnal Teknologi Sistem Informasi dan Aplikasi, 5(2). DOI: https://doi.org/10.32493/jtsi.v5i2.17561'
+[213]: runs=1 text='Diansyah, H. and Syafrinal, S. (2025) 'Design and Development of a Mobile Application Using Android Studio and Flutter', Journal Mobile Technologies, 3(2), pp. 69-76. DOI: https://doi.org/10.59431/jms.v3i2.646'
+[214]: runs=1 text='Google (2026) Flutter documentation. Available at: https://docs.flutter.dev/ (Accessed: 8 June 2026).'
+[215]: runs=1 text='Supabase (2026) Row Level Security Guides. Available at: https://supabase.com/docs/guides/database/postgres/row-level-security (Accessed: 8 June 2026).'
+[216]: runs=1 text=''
+[217]: runs=3 text='LAMPIRAN
+
+'
+[218]: runs=1 text='Lampiran A. Placeholder tangkapan layar antarmuka aplikasi.'
+[219]: runs=1 text='Lampiran B. Panduan/manual operasional penggunaan aplikasi SinarBelajar.'
+[220]: runs=1 text='Lampiran C. Laporan ringkas hasil uji coba fungsional lapangan.'
+[221]: runs=1 text='Lampiran D. Skema database SQL lengkap dan kebijakan Row-Level Security (RLS) Supabase.'
